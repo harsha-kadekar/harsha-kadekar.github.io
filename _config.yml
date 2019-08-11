@@ -13,138 +13,108 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# Site configuration
-# 1. Files excluded from Jekyll builds
-# 2. Installed Gems
-# 3. Gem settings
-# 4. Jekyll settings
-# 5. Collections
-# 6. Jekyll collections settings
-# 7. Site settings
-# 8. Site favicons & manifest icons
-# 9. Site navigation
+title: Smṛti
+subtitle: That which is remembered. Generated from thoughts & memories
+email: harsha.kadekar@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Generated from thoughts & memories of a student in Computer Science and BharathVarsh.
+twitter_username: kadekarHarsha
+github_username: harsha-kadekar
+minimal_mistakes_skin: default
+search: true
 
 # Build settings
 markdown: kramdown
-#theme: alembic-jekyll-theme
-remote_theme: daviddarnes/alembic
+theme: minimal-mistakes-jekyll
+#remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/Los_Angeles
 
-# 1. Files excluded from Jekyll builds
-exclude:
-- README.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- screenshot.png
-- LICENSE
-- CNAME
-- Gemfile
-- Gemfile.lock
-- alembic-jekyll-theme.gemspec
-- .jekyll-cache
+include:
+  - _pages
 
-# 2. Installed Gems
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-default-layout
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-- jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-# 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: kadekarHarsha # jekyll-seo-tag > Owners twitter username
-author: Harsha Kadekar # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: Harsha Kadekar # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/kadekarHarsha
-    - https://www.goodreads.com/harsha_kadekar
-    - https://www.linkedin.com/in/harshakadekar
-    - https://github.com/harsha-kadekar
-    - https://www.hackerrank.com/harsha_kadekar
-# markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
-# commonmark:
-  # options: ["SMART", "FOOTNOTES"]
-  # extensions: ["strikethrough", "autolink", "table"]
+author:
+  name   : "Harsha Kadekar"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Software Development Engineer"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kadekarHarsha"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/harsha-kadekar"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/harshakadekar"
+    - label: "GoodReads"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.goodreads.com/harsha_kadekar"
+    - label: "HackerRank"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.hackerrank.com/harsha_kadekar"
 
-sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: America/Los Angeles # Timezone for blog posts and alike
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kadekarHarsha"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/harsha-kadekar"
 
-# 6. Jekyll collections settings
 defaults:
-  -
-    scope:
+  # _posts
+  - scope:
       path: ""
+      type: posts
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
-# 7. Site settings
-encoding: utf-8
-lang: en-IN
-title: Smṛti
-#logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-email: harsha.kadekar@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  that which is remembered. Generated from thoughts & memories of a student in Computer Science and BharathVarsh
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repo: "https://github.com/harsha-kadekar/harsha-kadekar.github.io"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-# google_analytics: ''
-# google_analytics_anonymize_ip: ''
-# service_worker: false # Will turn off the service worker if set to false
-css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
-# 8. Site favicons & manifest icons
-favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
-
-# 9. Site navigation
-navigation_header:
-- title: Home
-  url: /
-- title: Blog
-  url: /blog/
-- title: Books
-  url: /elements/
-- title: Movies
-  url: /categories/
-- title: Search
-  url: /search/
-
-navigation_footer:
-- title: theme created by David Darnes
-  url: https://darn.es
-
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
-
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true
-
-theme: jekyll-theme-cayman
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : harsha-kadekar-github-io
