@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Harsha Kadekar"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://www.gravatar.com/avatar/8f9cd2a1d3abcbfc9dc168035977ba44"
   bio    : "Software Development Engineer"
   links:
     - label: "Twitter"

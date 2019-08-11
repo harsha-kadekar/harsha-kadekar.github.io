@@ -3,6 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+>“Knowledge is Man’s highest beauty,
+>Knowledge is his hidden treasure,
+>Chief of earthly blessings, bringing
+>Calm, contentment, fame and pleasure.”
+{: style="text-align: center;"}
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This blog is a place where I show off my skills, my learning and also write my opinions. Oh my name is as mentioned in the URL – its Harsha Kadekar. I am a software engineer. Once I completed my computer science engineering, I went ahead and joined a software company. I worked for 5 years, became a senior software engineer. Then finally decided, I need to start fresh and upgrade myself. So went back to drawing board as in went back to school and earned my Master’s in software engineering. Finally, became a software engineer again!!!
+{: style="text-align: justify;"}
