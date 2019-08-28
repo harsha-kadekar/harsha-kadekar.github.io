@@ -9,3 +9,10 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+currentreads:
+  - title: Current Reading Books
+    url: https://www.goodreads.com/review/list/38141133-harsha-kadekar?shelf=currently-reading
+    children:
+      - title: Amar Chitra Katha - Mahabharatha
+      - title: Good Strategy Bad Strategy

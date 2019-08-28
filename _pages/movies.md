@@ -37,6 +37,8 @@ Surya vs Surya – What will you do if your life is only in the dark. Well make 
 ## Hindi
 * **Kahani**
 * **Swades**
+* **Madras Cafe**
+* **Bhatla House**
 
 ## English
 * **East Side Sushi** – Struggle, passion, hardwork, discrimination. This movie touches on so many concepts. A Mexican trying to become a Sushi Chef. Any art or work, first like what you do. Its not just enough to like what you are doing, you need to constantly work on yourself to improve your skill.

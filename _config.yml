@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Generated from thoughts & memories of a student in Computer Science and BharathVarsh.
 twitter_username: kadekarHarsha
 github_username: harsha-kadekar
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -102,6 +102,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "currentreads"
   # _pages
   - scope:
       path: "_pages"
@@ -109,6 +111,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "currentreads"
 
 category_archive:
   type: liquid
