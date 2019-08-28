@@ -3,7 +3,9 @@ title: "Project Setup for Angular App – Webpack, Gulp, Karma, Protractor & Tra
 categories:
   - Tech
 tags:
-  - Angular, Frontend, handson
+  - Angular
+  - Frontend
+  - hands-on
 toc: true
 ---
 I recently worked on an AngularJs app. I had rarely worked on frontend (web + PC), I had touched here and there of javascript and thats it. So when I was asked to develop the frontend part of a webapp using AngularJS framework, I thought how hard it could be to learn about angular – max 2-3 days. Well it was like – I, who do not know swimming jumped into a pool thinking it is just a 4ft deep pool. It was n’t. I realized my mistake, ordered book [AngularJS: Up and Running](https://www.amazon.com/AngularJS-Running-Enhanced-Productivity-Structured/dp/1491901942) and started going through it.  It is a good book, gives a good overall concepts of the framework. Finally once I read most chapters of the book (which I thought would be necessary for my project), I thought I am now ready to kick ass. I kicked and hit the wall, nothing moved. Thing was the book knowledge is good for writing small programs testing our knowledge of individual concepts like doing assignments in college. For a professional project there are other stuff apart from just core program – there is unit testing, there is integration testing, there is building of the project, then there is delivery/deployment. Even the program is not simple one single js file having all your components and services. It has, I don’t know 10 or more js files divided into different components, services. I got completely blocked not knowing what to do. When I searched in all knowing “Google”, it was like asking general recommendation from 10 different random people, each blog/site giving different plugins and different ways of doing it. By this time probably my senior developer would have figured out my predicament. He setup the project.
