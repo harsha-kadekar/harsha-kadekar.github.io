@@ -61,25 +61,18 @@ author:
   name   : "Harsha Kadekar"
   avatar : "https://www.gravatar.com/avatar/8f9cd2a1d3abcbfc9dc168035977ba44"
   bio    : "Software Development Engineer"
+  twitter: kadekarHarsha
+  github: harsha-kadekar
+  email: harsha.kadekar@gmail.com
+  linkedin: harshakadekar
+  stackoverflow: 3711287/kadekhar
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kadekarHarsha"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/harsha-kadekar"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/harshakadekar"
     - label: "GoodReads"
       icon: "fas fa-fw fa-link"
       url: "https://www.goodreads.com/harsha_kadekar"
     - label: "HackerRank"
       icon: "fas fa-fw fa-link"
       url: "https://www.hackerrank.com/harsha_kadekar"
-    - label: "StackOverflow"
-      icon: "fas fa-fw fa-link"
-      url:  "https://stackoverflow.com/users/3711287/kadekhar"
 
 footer:
   links:
