@@ -118,3 +118,10 @@ comments:
   provider               : "disqus"
   disqus:
     shortname            : harsha-kadekar-github-io
+
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-148499213-1"
+    anonymize_ip: false # default
