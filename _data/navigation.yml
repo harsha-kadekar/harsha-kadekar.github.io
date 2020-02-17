@@ -12,7 +12,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/review/list/38141133-harsha-kadekar?shelf=currently-reading
+    url: https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street
     children:
-      - title: But How Do It Know? - The Basic Principles of Computers for Everyone
-        url: https://www.goodreads.com/book/show/18276352-but-how-do-it-know---the-basic-principles-of-computers-for-everyone
+      - title: A Random Walk Down Wall Street
+        url: https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street
