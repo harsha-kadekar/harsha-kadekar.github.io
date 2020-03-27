@@ -12,7 +12,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street
+    url: https://www.goodreads.com/book/show/1069827.Release_It_
     children:
-      - title: A Random Walk Down Wall Street
-        url: https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street
+      - title: Release It! Design and Deploy Production Ready Software
+        url: https://www.goodreads.com/book/show/1069827.Release_It_
