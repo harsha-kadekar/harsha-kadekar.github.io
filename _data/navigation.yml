@@ -1,6 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Books"
+    url: /books/
   - title: "Movies"
     url: /movies/
   - title: "Categories"
@@ -12,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/1069827.Release_It_
+    url: https://www.goodreads.com/book/show/25657010-shikari
     children:
-      - title: Release It! Design and Deploy Production Ready Software
-        url: https://www.goodreads.com/book/show/1069827.Release_It_
+      - title: ಶಿಕಾರಿ | Shikari
+        url: https://www.goodreads.com/book/show/25657010-shikari
