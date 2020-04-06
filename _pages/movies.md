@@ -44,39 +44,38 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Pelli Choopulu** – Some movies just feels perfect. After watching it, you feel elevated or it just brings a nice small smile by pulling your cheeks  at the opposite direction. And this is one of that movie. Nice story, acting.
 * **Srimanthadu** – A nice social concept taken and made a movie. A good lesson which can be adopted also. There are those telugu movie extra strength fight scenes but overall its a good one.
 * **Swamy Ra Ra** – Luck, heist, robbery and conning each other. That sums up the movie. And yeah a small love story.
-Surya vs Surya – What will you do if your life is only in the dark. Well make that dark colorful. Thats the gist of the movie.
+* **Surya vs Surya** – What will you do if your life is only in the dark. Well make that dark colorful. Thats the gist of the movie.
 * **Pilla Zamindar** – Though looks like high level story taken from an hollywood movie. I am not able to recall the name, but yes the movie is customized well to suite the Indian audience.
-* **s/o Sathyamurthy** – A typical Telugu movie and yet with a twist. Son, who learnt life ethos from his father is trying to clear the bag image of his father.
-* **Brochevarevaru Ra**
-* **Evaru**
-* **Agent Sai Srinivasa Athreya**
-* **Jersey**
-* **Awe**
-* **Naani's Gang Leader**
-* **Bahubali 1 & 2**
-* **Mallesham**
-* **Bommarillu**
+* **s/o Sathyamurthy** – A typical Telugu movie and yet with a twist. Son, who learnt life ethics from his father is trying to clear the bag image of his father.
+* **Brochevarevaru Ra** - Two unusual story converging, both stories are equally interesting. Cinematography is very good. Suspense, dialogue and humor makes it a great watch.
+* **Evaru** - A police interrogating a suspect about the missing person. Story is well written with lot of suspense and twists, which makes it a must watch.
+* **Agent Sai Srinivasa Athreya** - A detective trying to solve the case of missing people. As he investigates, he unravels a bigger conspiracy.
+* **Jersey** - Story of a talented batsman, who leaves Cricket and his fight to make a come back.
+* **Awe** - Different stories converging to a point. An unusual story to say.
+* **Naani's Gang Leader** - 5 ladies who have lost their loved ones form a gang and approach a crime novel writer to help them finding culprit.
+* **Bahubali 1 & 2** - A fictional story held in ancient India. There are many aspects in this series - graphic, the grandness and also the story is well written. Offcourse there are multiple places there extra not needed power of hero is shown but overall its a great watch.
+* **Mallesham** - Story was a poor weaver's son. How he sees the difficulties faced by his mother and try to invent a machine that can solve her mother's problem.
+* **Bommarillu** - A love story and a family drama. Hero wants to come out of the shadows of his father and try to make independent decisions.
 
 ## Tamil
-* **VIP**
-* **Vikram Vedha**
-* **Naanum Rowdy Dhaan**
-* **Kadhalum Kadandhu Pogum**
-* **All in All Azhagu Raja**
-* **Chekka Chivantha Vaanam**
+* **VIP** - Story of an unemployed civil engineer. The life of an unemployed and once he becomes employed, the fight against injustice.
+* **Vikram Vedha** - I guess story is inspired from Vikram Bethal folk story. Fight between a strict encounter specialist cop and his arch rival a gangster don. In this fight between them, they need to find who are their friends and enemies. 
+* **Naanum Rowdy Dhaan** - A cops son who aspires become a don. He gets a chance to prove his mettle when he meets a deaf woman who wants to take revenge of another don.
+* **Kadhalum Kadandhu Pogum** - Female protragonist is a software engineer, who lives in Chennai independently. As her company gets shutdown, and she is layed off, now she needs to find a new job. In her difficult times, she finds unusual friend in a male protragonist who is a rowdy/bouncer. 
+* **All in All Azhagu Raja** - Watch this film for humor. A middle class man who runs his own TV channel in a small town with his friend. He falls in love with a girl who is pampared and has "world is run by her" attitude.
+* **Chekka Chivantha Vaanam** - This is a story of a mafia don and his 3 sons who wants to control his empire after his demise. An unusual cop who aides them in their fight for control.
 
 ## Malayalam
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.
-* **Janamaithri**
-* **Android Kunjappan Ver 5.25**
-* **Njan Prakashan**
-* **Hotel Usthad**
-* **Bangalore Days**
-* **Annmariya Kalippilaanu**
-* **AK Ayyappanum Koshiyum**
+* **Janamaithri** - The humor of this movie is top notch. A police initiative to improve the public relations of department towards the people, a simple common man who is visiting to see his fiancee, a group of car theives, a mysterious sticker theives - all results in humorous situation.
+* **Android Kunjappan Ver 5.25** - A son brings in a robot to take care of his adament father. Father who generally hates any company builds an attachment towards that robot.
+* **Njan Prakashan** - A lazy common man who wants to go abroad and settle there. He wants to achieve this without any of his efforts. The ways he tries to achieve this forms the underlying story.
+* **Hotel Usthad** - 
+* **Bangalore Days** - Three friends - two guys and a girl, each have their own tastes. After graduation, all three of them end up in Banglore due to various reasons. Each try to find happiness in their life.
+* **Annmariya Kalippilaanu** - A young school girl wants to warn her PT sir, so she hires a goon for this. 
+* **AK Ayyappanum Koshiyum** - The rivalry between two guys. Every incident leads to questioning of rivals ego.
 * **Driving Licence**
 * **JOSEPH**
-* **Njan Prakashan**
 
 
 ## Hindi
