@@ -36,3 +36,9 @@ As the name of the book implies, the main topic of this book is about how you wi
 * Set up alarms and monitors like for system health, requests recieved, response time, max threads, max connections. There should be dashboard to monitor these metrics and alarms to give real time picture of what is happenning to your service or application. Logs are a great way to learn about what is happening but metrics & alarms give you high level picture of what is going on. Also have tools which will read your logs and alarms based on specific stack trace occurrence such as exceptions or faults being reported in logs.
 * Releases should be done often and all the release activity should be automated - aim for continuous deployment.
 
+
+### ಶಿಕಾರಿ Shikari
+- Author: **Yashwant Chittal**
+- GoodReads: [ಶಿಕಾರಿ Shikari](https://www.goodreads.com/book/show/25657010-shikari)
+
+The book is about corporate politics. The main protagonist is hunted (ಶಿಕಾರಿ Shikari) from multiple directions. The narration of the story is also very different, as in everything is happening through the view point of the hero. It's as if I am part of the mind of the hero and listening to every thought that is getting generated in his mind. It gives clear picture of how the game of corporate politics and it's fight are fought, how each human relation is utilized for acheiving something in the corporate world, how a person becomes a pawn between the fights of heads. The thing which stood out is how it gives a clear picture of human greed and selfish nature. The moment when a person is in the path of losing, everyone will swoop in like vultures to take their revenge and also the moment humans come to know that you are a losing side, they will shift their allegiance. You and you alone are your friend. Its a good read.
