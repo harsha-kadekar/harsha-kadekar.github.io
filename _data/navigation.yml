@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing
+    url: https://www.goodreads.com/book/show/139352.Light_on_the_Yoga_S_tras_of_Pata_jali
     children:
-      - title: The Little Book Of Common Sense Investing
-        url: https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing
+      - title: Light on the Yoga Sūtras of Patañjali
+        url: https://www.goodreads.com/book/show/139352.Light_on_the_Yoga_S_tras_of_Pata_jali
