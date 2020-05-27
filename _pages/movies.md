@@ -38,6 +38,8 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Nanna Prakara** - A cop is tasked to investigate a car accident. His search to find the identity of desceased person in the car leads him to more mystries.
 * **Chambal** - This is a story of the D K Ravi. The film gives its view in a very good way.
 * **Avane Srimanarayana** - Set in a fictional town, a tussel between two brothers, a missing treasure and funky cop. The film has its short comings and yet is nice watch.
+* **Alidu Ulidhavaru** - A ghost buster goes to a haunted house to disprove that ghost exists. A horror and suspense movie. 
+* **Birbal Trilogy** - A lawyer takes up client case who is falsely accused of murder.
 
 
 ## Telugu
@@ -56,6 +58,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Bahubali 1 & 2** - A fictional story held in ancient India. There are many aspects in this series - graphic, the grandness and also the story is well written. Offcourse there are multiple places there extra not needed power of hero is shown but overall its a great watch.
 * **Mallesham** - Story was a poor weaver's son. How he sees the difficulties faced by his mother and try to invent a machine that can solve her mother's problem.
 * **Bommarillu** - A love story and a family drama. Hero wants to come out of the shadows of his father and try to make independent decisions.
+* **HIT** - A very intelligent police officer needs to solve a missing girl case to get to the bottom of his girlfriends missing case.
 
 ## Tamil
 * **VIP** - Story of an unemployed civil engineer. The life of an unemployed and once he becomes employed, the fight against injustice.
@@ -64,6 +67,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Kadhalum Kadandhu Pogum** - Female protragonist is a software engineer, who lives in Chennai independently. As her company gets shutdown, and she is layed off, now she needs to find a new job. In her difficult times, she finds unusual friend in a male protragonist who is a rowdy/bouncer. 
 * **All in All Azhagu Raja** - Watch this film for humor. A middle class man who runs his own TV channel in a small town with his friend. He falls in love with a girl who is pampared and has "world is run by her" attitude.
 * **Chekka Chivantha Vaanam** - This is a story of a mafia don and his 3 sons who wants to control his empire after his demise. An unusual cop who aides them in their fight for control.
+* **Dhuruvangal Pathinaaru** - A murder, missing person and an accident. All looks to be linked to each other. 
 
 ## Malayalam
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.
@@ -74,8 +78,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Bangalore Days** - Three friends - two guys and a girl, each have their own tastes. After graduation, all three of them end up in Banglore due to various reasons. Each try to find happiness in their life.
 * **Annmariya Kalippilaanu** - A young school girl wants to warn her PT sir, so she hires a goon for this. 
 * **AK Ayyappanum Koshiyum** - The rivalry between two guys. Every incident leads to questioning of rivals ego.
-* **Driving Licence**
-* **JOSEPH**
+* **JOSEPH** - A retired police officer starts investigating his ex wife's accident.
 
 
 ## Hindi
