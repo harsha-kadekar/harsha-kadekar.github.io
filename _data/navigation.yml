@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/139352.Light_on_the_Yoga_S_tras_of_Pata_jali
+    url: https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month
     children:
-      - title: Light on the Yoga Sūtras of Patañjali
-        url: https://www.goodreads.com/book/show/139352.Light_on_the_Yoga_S_tras_of_Pata_jali
+      - title: The Mythical Man-Month - Essays on Software Engineering
+        url: https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month
