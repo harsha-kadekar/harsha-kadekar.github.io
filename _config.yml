@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Generated from thoughts & memories of a student in Computer Science and BharathVarsh.
 twitter_username: kadekarHarsha
 github_username: harsha-kadekar
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings

@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month
+    url: https://www.goodreads.com/book/show/18594642-the-power-of-habit
     children:
-      - title: The Mythical Man-Month - Essays on Software Engineering
-        url: https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month
+      - title: The Power of Habit - Why we do What we do in life and Business
+        url: https://www.goodreads.com/book/show/18594642-the-power-of-habit
