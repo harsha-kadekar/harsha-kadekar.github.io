@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/13633552-chidambara-rahasya
+    url: https://www.goodreads.com/book/show/928542.Ayurveda_and_the_Mind
     children:
-      - title: ಚಿದಂಬರ ರಹಸ್ಯ [Chidambara Rahasya]
-        url: https://www.goodreads.com/book/show/13633552-chidambara-rahasya
+      - title: Ayurveda and the Mind
+        url: https://www.goodreads.com/book/show/928542.Ayurveda_and_the_Mind

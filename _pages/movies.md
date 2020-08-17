@@ -40,6 +40,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Avane Srimanarayana** - Set in a fictional town, a tussel between two brothers, a missing treasure and funky cop. The film has its short comings and yet is nice watch.
 * **Alidu Ulidhavaru** - A ghost buster goes to a haunted house to disprove that ghost exists. A horror and suspense movie. 
 * **Birbal Trilogy** - A lawyer takes up client case who is falsely accused of murder.
+* **Striker** - Hero is not able to identify whether an incident happening in life is real thing or dream. 
 
 
 ## Telugu
@@ -59,6 +60,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Mallesham** - Story was a poor weaver's son. How he sees the difficulties faced by his mother and try to invent a machine that can solve her mother's problem.
 * **Bommarillu** - A love story and a family drama. Hero wants to come out of the shadows of his father and try to make independent decisions.
 * **HIT** - A very intelligent police officer needs to solve a missing girl case to get to the bottom of his girlfriends missing case.
+* **Bhale Manchi Roju** - When multiple people wants to take revenge on different people on a single day.
 
 ## Tamil
 * **VIP** - Story of an unemployed civil engineer. The life of an unemployed and once he becomes employed, the fight against injustice.
@@ -68,6 +70,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **All in All Azhagu Raja** - Watch this film for humor. A middle class man who runs his own TV channel in a small town with his friend. He falls in love with a girl who is pampared and has "world is run by her" attitude.
 * **Chekka Chivantha Vaanam** - This is a story of a mafia don and his 3 sons who wants to control his empire after his demise. An unusual cop who aides them in their fight for control.
 * **Dhuruvangal Pathinaaru** - A murder, missing person and an accident. All looks to be linked to each other. 
+* **Thambi** - A missing son of a politician is found after 15 years. The story revolves around how the son joins back the family and how he went missing in his childhood.
 
 ## Malayalam
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.
@@ -79,6 +82,9 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Annmariya Kalippilaanu** - A young school girl wants to warn her PT sir, so she hires a goon for this. 
 * **AK Ayyappanum Koshiyum** - The rivalry between two guys. Every incident leads to questioning of rivals ego.
 * **JOSEPH** - A retired police officer starts investigating his ex wife's accident.
+* **Oru Vadakkan Selfie** - A simple selfie can lead to lot of disastor. The comedy is the +ve of the movie.
+* **Gauthamante Radham** - A youngster's dream to have his own car.
+* **Helen** - hmmm kind of casteway and 127 hours.
 
 
 ## Hindi
@@ -101,6 +107,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Lakshya**
 * **3 idiots**
 * **Zindagi Naa Milegi Dobara**
+* **The Ghazi Attack**
 
 ## English
 * **East Side Sushi** – Struggle, passion, hardwork, discrimination. This movie touches on so many concepts. A Mexican trying to become a Sushi Chef. Any art or work, first like what you do. Its not just enough to like what you are doing, you need to constantly work on yourself to improve your skill.
