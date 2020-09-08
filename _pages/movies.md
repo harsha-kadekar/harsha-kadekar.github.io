@@ -85,7 +85,9 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Oru Vadakkan Selfie** - A simple selfie can lead to lot of disastor. The comedy is the +ve of the movie.
 * **Gauthamante Radham** - A youngster's dream to have his own car.
 * **Helen** - hmmm kind of casteway and 127 hours.
-
+* **jacobinte swargarajyam** - A business man is cheated during the global financial recession. Son needs to continue the business in these turbulent times to pay back the investors.
+* **Manoharam** - An art enthusiast needs to update his skills for the latest trends in technology.
+* **Trance** - It shows how the religion is used for business taking the example of proped up Christian Pastor and how he takes the assembled group into a trance.
 
 ## Hindi
 * **Kahani**

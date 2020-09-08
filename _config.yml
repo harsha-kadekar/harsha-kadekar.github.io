@@ -65,14 +65,14 @@ author:
   github: harsha-kadekar
   email: harsha.kadekar@gmail.com
   linkedin: harshakadekar
-  stackoverflow: 3711287/kadekhar
+  # stackoverflow: 3711287/kadekhar
   links:
     - label: "GoodReads"
       icon: "fas fa-fw fa-link"
       url: "https://www.goodreads.com/harsha_kadekar"
-    - label: "HackerRank"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.hackerrank.com/harsha_kadekar"
+    # - label: "HackerRank"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://www.hackerrank.com/harsha_kadekar"
     - label: "Pocket"
       icon: "fas fa-fw fa-link"
       url: "https://getpocket.com/@harsha_kadekar"
