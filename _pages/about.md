@@ -9,5 +9,9 @@ I started my software journey from RedForce Labs as an Intern. Next hop was at H
 
 The work experience & university experience has taught me many concepts - technical as well as soft skills related to software engineering. The next important source of knowledge is via books, I like to read books of varrying topics. This not only helps in the immediate field of work but also helps to expand my intellect on various other topics not directly related to work. I do belive in learning via practise so I spend some time in personal coding projects. 
 
+My old blogs - just for reference
+1. [harshakadekar.blogspot.com](http://harshakadekar.blogspot.com/)
+2. [harshakadekar.wordpress.com](https://harshakadekar.wordpress.com/)
+
 
 {: style="text-align: justify;"}
