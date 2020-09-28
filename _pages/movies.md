@@ -71,13 +71,14 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Chekka Chivantha Vaanam** - This is a story of a mafia don and his 3 sons who wants to control his empire after his demise. An unusual cop who aides them in their fight for control.
 * **Dhuruvangal Pathinaaru** - A murder, missing person and an accident. All looks to be linked to each other. 
 * **Thambi** - A missing son of a politician is found after 15 years. The story revolves around how the son joins back the family and how he went missing in his childhood.
+* **Soodhu Kavvum** - A master kidnap gone wrong. Do not look for morality.
 
 ## Malayalam
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.
 * **Janamaithri** - The humor of this movie is top notch. A police initiative to improve the public relations of department towards the people, a simple common man who is visiting to see his fiancee, a group of car theives, a mysterious sticker theives - all results in humorous situation.
 * **Android Kunjappan Ver 5.25** - A son brings in a robot to take care of his adament father. Father who generally hates any company builds an attachment towards that robot.
 * **Njan Prakashan** - A lazy common man who wants to go abroad and settle there. He wants to achieve this without any of his efforts. The ways he tries to achieve this forms the underlying story.
-* **Hotel Usthad** - 
+* **Hotel Usthad** - Dream of becoming a chef who goes against his father. His grand father teaches him what it takes to be a chef
 * **Bangalore Days** - Three friends - two guys and a girl, each have their own tastes. After graduation, all three of them end up in Banglore due to various reasons. Each try to find happiness in their life.
 * **Annmariya Kalippilaanu** - A young school girl wants to warn her PT sir, so she hires a goon for this. 
 * **AK Ayyappanum Koshiyum** - The rivalry between two guys. Every incident leads to questioning of rivals ego.
@@ -88,6 +89,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **jacobinte swargarajyam** - A business man is cheated during the global financial recession. Son needs to continue the business in these turbulent times to pay back the investors.
 * **Manoharam** - An art enthusiast needs to update his skills for the latest trends in technology.
 * **Trance** - It shows how the religion is used for business taking the example of proped up Christian Pastor and how he takes the assembled group into a trance.
+* **Godha** - A girls dream to do big in wreslting, an old wrestler who wants to bring back the golden days of wrestling in the village. The son of the wrestler somehow connects. 
 
 ## Hindi
 * **Kahani**
