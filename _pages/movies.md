@@ -71,7 +71,8 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Chekka Chivantha Vaanam** - This is a story of a mafia don and his 3 sons who wants to control his empire after his demise. An unusual cop who aides them in their fight for control.
 * **Dhuruvangal Pathinaaru** - A murder, missing person and an accident. All looks to be linked to each other. 
 * **Thambi** - A missing son of a politician is found after 15 years. The story revolves around how the son joins back the family and how he went missing in his childhood.
-* **Soodhu Kavvum** - A master kidnap gone wrong. Do not look for morality.
+* **Soodhu Kavvum** - A kidnap gone wrong. Do not look for morality.
+* **Maayavan** - A serial killer who seems to come back after dead.
 
 ## Malayalam
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.
@@ -89,7 +90,14 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **jacobinte swargarajyam** - A business man is cheated during the global financial recession. Son needs to continue the business in these turbulent times to pay back the investors.
 * **Manoharam** - An art enthusiast needs to update his skills for the latest trends in technology.
 * **Trance** - It shows how the religion is used for business taking the example of proped up Christian Pastor and how he takes the assembled group into a trance.
-* **Godha** - A girls dream to do big in wreslting, an old wrestler who wants to bring back the golden days of wrestling in the village. The son of the wrestler somehow connects. 
+* **Godha** - A girls dream to do big in wreslting, an old wrestler who wants to bring back the golden days of wrestling in the village. The son of the wrestler somehow connects.
+* **Njandukalude Nattil Oridavela** - A mother is diagnoised with cancer. The film is all about how they face that news and carry on with their life. 
+* **North 24 Kaatham** - An person having OCD had to spend an entire day in a city in an unplanned events at unplanned places.
+* **C u soon** - A movie full of video call conversations.
+* **Neram** - A day can have as many twists as possible.
+* **Maheshinte Prathikaram** - A photographers revenge - he has to prepare for it
+* **Om Shanthi Oshaana**
+* **Adi Kapyare Kootamani** - A girl stuck in a boys hostel.
 
 ## Hindi
 * **Kahani**
@@ -126,3 +134,10 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Batman Begins**
 * **Dark Knight**
 * **Dark Knight Rises**
+* **Spare Parts**
+* **Lord Of the Rings Series**
+* **Hobbit Series**
+* **Oceans Eleven**
+* **Terminal**
+* **You got a mail**
+* **Chef**

@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/33369254-the-manager-s-path
+    url: https://www.goodreads.com/book/show/3938178-debugging
     children:
-      - title: The Manager's Path - A Guide for Tech Leaders Navigating Growth and Change
-        url: https://www.goodreads.com/book/show/33369254-the-manager-s-path
+      - title: Debugging - The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems
+        url: https://www.goodreads.com/book/show/3938178-debugging
