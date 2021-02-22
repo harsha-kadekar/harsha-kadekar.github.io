@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked
+    url: https://www.goodreads.com/book/show/40816589-healing-the-thyroid-with-ayurveda
     children:
-      - title: The Courage to Be Disliked - How to Free Yourself, Change your Life and Achieve Real Happiness
-        url: https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked
+      - title: Healing the Thyroid with Ayurveda - Natural Treatments for Hashimoto’s, Hypothyroidism, and Hyperthyroidism
+        url: https://www.goodreads.com/book/show/40816589-healing-the-thyroid-with-ayurveda
