@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/17571464-the-7-habits-of-highly-effective-people
+    url: https://www.goodreads.com/book/show/8216825-prana-and-pranayama
     children:
-      - title: The 7 Habits of Highly Effective People - Powerful Lessons in Personal Change
-        url: https://www.goodreads.com/book/show/17571464-the-7-habits-of-highly-effective-people
+      - title: Prana and Pranayama
+        url: https://www.goodreads.com/book/show/8216825-prana-and-pranayama
