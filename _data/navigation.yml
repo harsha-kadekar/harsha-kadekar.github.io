@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/8216825-prana-and-pranayama
+    url: https://www.goodreads.com/book/show/1370504.Human_Cycle
     children:
-      - title: Prana and Pranayama
-        url: https://www.goodreads.com/book/show/8216825-prana-and-pranayama
+      - title: Human Cycle - Psychology of Social Development
+        url: https://www.goodreads.com/book/show/1370504.Human_Cycle

@@ -41,6 +41,8 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Alidu Ulidhavaru** - A ghost buster goes to a haunted house to disprove that ghost exists. A horror and suspense movie. 
 * **Birbal Trilogy** - A lawyer takes up client case who is falsely accused of murder.
 * **Striker** - Hero is not able to identify whether an incident happening in life is real thing or dream. 
+* **Ikkkat** - Husband and wife trapped inside the house due to COVID restrictions.
+* **ACT 1978** - A pregnent woman and an old man takes law into their hands to fix the law and corruption
 
 
 ## Telugu
@@ -61,6 +63,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Bommarillu** - A love story and a family drama. Hero wants to come out of the shadows of his father and try to make independent decisions.
 * **HIT** - A very intelligent police officer needs to solve a missing girl case to get to the bottom of his girlfriends missing case.
 * **Bhale Manchi Roju** - When multiple people wants to take revenge on different people on a single day.
+* **Middle Class Melodies** - Struggle of a middle class young man to start a hotel.
 
 ## Tamil
 * **VIP** - Story of an unemployed civil engineer. The life of an unemployed and once he becomes employed, the fight against injustice.
@@ -73,6 +76,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Thambi** - A missing son of a politician is found after 15 years. The story revolves around how the son joins back the family and how he went missing in his childhood.
 * **Soodhu Kavvum** - A kidnap gone wrong. Do not look for morality.
 * **Maayavan** - A serial killer who seems to come back after dead.
+* **Velainu Vandhutta Vellaikaaran** - A minster with location of huge stash of money has lost his memory!
 
 ## Malayalam
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.
@@ -98,28 +102,41 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Maheshinte Prathikaram** - A photographers revenge - he has to prepare for it
 * **Om Shanthi Oshaana**
 * **Adi Kapyare Kootamani** - A girl stuck in a boys hostel.
+* **Oru CBI Diary Kurippu** - A CBI officer tasked to investigate a sucide
+* **Joji** - Son trying to get freedom turns to wrong ways and to cover it up goes even more wrong things.
+
+## Marathi
+* **Astu - So Be It** - A fantastic movie about Alzheimer's disease.
+* **Take Care Good Night** - A family victim of social engineering and lost all its savings
+* **Aamhi Doghi** - An unusual friendship between step mom and daughter.
+* **Smile Please** - Story of a young person suffering from Dementia 
+
+## Gujarathi
+* **Golkeri** - Couples breaking up and parents way to patch things up.
+* **Bonus** - A grandfathers way to make his grandson realize the difficulties faced by laborers
 
 ## Hindi
-* **Kahani**
-* **Swades**
-* **Madras Cafe**
-* **Bhatla House**
-* **Rocket Singh Salesman of the Year**
-* **Paramanu** 
-* **Dhangal**
-* **Queen**
-* **Andhadhoon**
-* **Aankhen**
-* **Special 26**
-* **Uri**
-* **Lagaan**
-* **Andaaz Apna Apna**
-* **Oh My God**
-* **Dil Chahta Hai**
-* **Lakshya**
-* **3 idiots**
-* **Zindagi Naa Milegi Dobara**
-* **The Ghazi Attack**
+* **Kahani** - a pregnent wife in search of missing husband
+* **Swades** -  An NRI returns to India to take his Nanny back to USA
+* **Madras Cafe** - Based on story of assassination of Rajeev Gandhi
+* **Bhatla House** - Based on story of encounter at Bhatla House
+* **Rocket Singh Salesman of the Year** - A young innocent recruited to sales team needs to deliver results
+* **Paramanu**  - Based on story of first Indian atom bomb test explosion
+* **Dhangal** - A father bringing up his daughters as wrestlers
+* **Queen** - A bride going on honeymoon trip alone after breakup
+* **Andhadhoon** - A murder infront of seems to be blind person
+* **Aankhen** - Group of blind try to rob a bank
+* **Special 26** - Group of people rob others in the name CBI
+* **Uri** - Based on Indias Surgical Strike on Terror Camps
+* **Lagaan** - A Indian village fights againts British Colonizers tax imposition through Cricket
+* **Andaaz Apna Apna** - Two lazy bachelors tries their best to get married to rich girl.
+* **Dil Chahta Hai** - 3 friends falling apart and coming together
+* **Lakshya** - A lazy young mens transformation after joining army
+* **3 idiots** - 3 students enters engineering class and tries to fight the system to become more creative
+* **Zindagi Naa Milegi Dobara** - Cross country bachelor party trip
+* **The Ghazi Attack** - Based on Indias 1971 navy submarine operation
+* **The Lunch Box** - lunch box delivered to wrong address
+* **Tumahari Sulu** - A house wife becomes an RJ
 
 ## English
 * **East Side Sushi** – Struggle, passion, hardwork, discrimination. This movie touches on so many concepts. A Mexican trying to become a Sushi Chef. Any art or work, first like what you do. Its not just enough to like what you are doing, you need to constantly work on yourself to improve your skill.
