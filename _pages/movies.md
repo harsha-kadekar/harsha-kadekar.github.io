@@ -78,6 +78,8 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Soodhu Kavvum** - A kidnap gone wrong. Do not look for morality.
 * **Maayavan** - A serial killer who seems to come back after dead.
 * **Velainu Vandhutta Vellaikaaran** - A minster with location of huge stash of money has lost his memory!
+* **Malaysia to Amnesia** - A husband has to cover up his affair as well as explain the reason of how he survived a missing plane tragedy.
+* **Doctor** - An army doctor teams up with ex fiance's family to rescue kidnapped niece. 
 
 ## Malayalam
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.
@@ -139,6 +141,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **The Ghazi Attack** - Based on Indias 1971 navy submarine operation
 * **The Lunch Box** - lunch box delivered to wrong address
 * **Tumahari Sulu** - A house wife becomes an RJ
+* **Mimi** - A US couple hires a young woman aspiring to become star to be their childs sarogate mother 
 
 ## English
 * **East Side Sushi** – Struggle, passion, hardwork, discrimination. This movie touches on so many concepts. A Mexican trying to become a Sushi Chef. Any art or work, first like what you do. Its not just enough to like what you are doing, you need to constantly work on yourself to improve your skill.

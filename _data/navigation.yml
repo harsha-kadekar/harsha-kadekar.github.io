@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/1370504.Human_Cycle
+    url: https://www.goodreads.com/book/show/352078.Be_As_You_Are
     children:
-      - title: Human Cycle - Psychology of Social Development
-        url: https://www.goodreads.com/book/show/1370504.Human_Cycle
+      - title: Be As You Are
+        url: https://www.goodreads.com/book/show/352078.Be_As_You_Are
