@@ -45,7 +45,6 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Ikkkat** - Husband and wife trapped inside the house due to COVID restrictions.
 * **ACT 1978** - A pregnent woman and an old man takes law into their hands to fix the law and corruption
 
-
 ## Telugu
 * **Pelli Choopulu** – Some movies just feels perfect. After watching it, you feel elevated or it just brings a nice small smile by pulling your cheeks  at the opposite direction. And this is one of that movie. Nice story, acting.
 * **Srimanthadu** – A nice social concept taken and made a movie. A good lesson which can be adopted also. There are those telugu movie extra strength fight scenes but overall its a good one.
@@ -65,6 +64,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **HIT** - A very intelligent police officer needs to solve a missing girl case to get to the bottom of his girlfriends missing case.
 * **Bhale Manchi Roju** - When multiple people wants to take revenge on different people on a single day.
 * **Middle Class Melodies** - Struggle of a middle class young man to start a hotel.
+* **Sreekaram** - A farmers son wants to become a farmer
 
 ## Tamil
 * **VIP** - Story of an unemployed civil engineer. The life of an unemployed and once he becomes employed, the fight against injustice.
@@ -107,6 +107,9 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Adi Kapyare Kootamani** - A girl stuck in a boys hostel.
 * **Oru CBI Diary Kurippu** - A CBI officer tasked to investigate a sucide
 * **Joji** - Son trying to get freedom turns to wrong ways and to cover it up goes even more wrong things.
+* **Kilometers and Kilometers** - A carefree bullet enthusiast takes a foriegn tourist on a motor bike road trip.
+* **Home** - A dad wants to update interms of the technology so that he can connect with his children
+* **Kunjiramaynam** - A village plagued by strange curse no one gets married or no one gets a particular brand of liquor 
 
 ## Marathi
 * **Astu - So Be It** - A fantastic movie about Alzheimer's disease.
@@ -147,19 +150,17 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **East Side Sushi** – Struggle, passion, hardwork, discrimination. This movie touches on so many concepts. A Mexican trying to become a Sushi Chef. Any art or work, first like what you do. Its not just enough to like what you are doing, you need to constantly work on yourself to improve your skill.
 * **Peaceful Warrior** – A gymnast trains zen way. Through understanding the life improves the game. Dialogues are treat, an example of zens teaching applicable to whole broad spectrum of life.
 * **Waffle Street** – A life long dream to be a financier. When he is at the top of the game, gets fired from the job. Then restaurant job, its employees help him to understand what he really love.
-* **Interstellar**
-* **Inception**
-* **gravity**
-* **Arrival**
-* **Ex Machina**
-* **Matrix 1,2 & 3**
-* **Batman Begins**
-* **Dark Knight**
-* **Dark Knight Rises**
-* **Spare Parts**
-* **Lord Of the Rings Series**
-* **Hobbit Series**
-* **Oceans Eleven**
-* **Terminal**
-* **You got a mail**
-* **Chef**
+* **Interstellar** - Going in search for next hospitable Earth
+* **Inception** - Planting an idea via dreams
+* **gravity** - A space accident, survior has to return to Earth
+* **Arrival** - Encounter with extra terrestrial beings
+* **Ex Machina** - What happens when the humanized robot reach human equivalent or more intelligence
+* **Matrix 1,2 & 3** - When the whole universe is a simulation
+* **Batman Begins, Dark Knight, Dark Knight Rises** -  A wealthy man leads a double life to save to city from unjustice
+* **Spare Parts** - A community college students dreams of attending marine rescue robot competion. 
+* **Lord Of the Rings Series** - Based on Lord of the rings book
+* **Hobbit Series** - Based on hobbit book
+* **Oceans Eleven** - A team of 11 plans to rob a casino
+* **Terminal** - A man looses his country when in an airport terminal
+* **You got a mail** - Two completely opposite people fall in law via email conversations
+* **Chef** - A chef goes on a trip with his son to revive his charm
