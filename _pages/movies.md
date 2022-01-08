@@ -39,11 +39,11 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ನನ್ನ ಪ್ರಕಾರ (Nanna Prakara)** - A cop is tasked to investigate a car accident. His search to find the identity of desceased person in the car leads him to more mystries.
 * **ಚಂಬಲ್ (Chambal)** - This is a story of the D K Ravi. The film gives its view in a very good way.
 * **ಅವನೇ ಶ್ರೀಮನ್ನಾರಾಯಣ (Avane Srimanarayana)** - Set in a fictional town, a tussel between two brothers, a missing treasure and funky cop. The film has its short comings and yet is nice watch.
-* **Alidu Ulidhavaru** - A ghost buster goes to a haunted house to disprove that ghost exists. A horror and suspense movie. 
-* **Birbal Trilogy** - A lawyer takes up client case who is falsely accused of murder.
-* **Striker** - Hero is not able to identify whether an incident happening in life is real thing or dream. 
-* **Ikkkat** - Husband and wife trapped inside the house due to COVID restrictions.
-* **ACT 1978** - A pregnent woman and an old man takes law into their hands to fix the law and corruption
+* **ಅಳಿದು ಉಳಿದವರು (Alidu Ulidhavaru)** - A ghost buster goes to a haunted house to disprove that ghost exists. A horror and suspense movie. 
+* **ಬೀರ್ಬಲ್ ಟ್ರೈಲಾಜಿ (Birbal Trilogy)** - A lawyer takes up client case who is falsely accused of murder.
+* **ಸ್ಟ್ರೈಕರ್ (Striker)** - Hero is not able to identify whether an incident happening in life is real thing or dream. 
+* **ಇಕ್ಕಟ (Ikkkat)** - Husband and wife trapped inside the house due to COVID restrictions.
+* **ಆಕ್ಟ ೧೯೭೮ (ACT 1978)** - A pregnent woman and an old man takes law into their hands to fix the law and corruption
 
 ## Telugu
 * **Pelli Choopulu** – Some movies just feels perfect. After watching it, you feel elevated or it just brings a nice small smile by pulling your cheeks  at the opposite direction. And this is one of that movie. Nice story, acting.
@@ -65,6 +65,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Bhale Manchi Roju** - When multiple people wants to take revenge on different people on a single day.
 * **Middle Class Melodies** - Struggle of a middle class young man to start a hotel.
 * **Sreekaram** - A farmers son wants to become a farmer
+* **Pushpaka Vimana** - A newly married wife elopes and husbands efforts to hide this infront of society and also efforts to find his wife.
 
 ## Tamil
 * **VIP** - Story of an unemployed civil engineer. The life of an unemployed and once he becomes employed, the fight against injustice.
