@@ -253,7 +253,6 @@ This book gives a birds eye view of the NoSQL. This is a good book for those who
 - It is never fixed until you know the root cause and prove it by removing the fix to reproduce it.
 - When we get stuck, not knowing what is going on, it is important to get a fresh view. We can choose one of these or a combination of them - 1. Talk to Krishna about my thoughts on the issue (Rubber Duck) 2. Talk to experienced person who knows about the environment or used the product a lot. 3. Talk to an expert who knows about the subject.
 
-
 ### The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness
 - Author: **Ichiro Kishimi, Fumitake Koga**
 - GoodReads: [The Courage to Be Disliked - How to Free Yourself, Change your Life and Achieve Real Happiness](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)

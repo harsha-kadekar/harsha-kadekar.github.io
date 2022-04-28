@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/34691716-designing-distributed-systems
+    url: https://www.goodreads.com/book/show/60261913-tarasu---nrupatunga
     children:
-      - title: Designing Distributed Systems - Patterns and Paradigms for Scalable, Reliable Services
-        url: https://www.goodreads.com/book/show/34691716-designing-distributed-systems
+      - title: ನೃಪತುಂಗ (Nrupatunga)
+        url: https://www.goodreads.com/book/show/60261913-tarasu---nrupatunga

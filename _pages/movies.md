@@ -7,6 +7,7 @@ toc: true
 In 2-3 hours time, you are asked to influence a large number of people from varying background with innumerable opinions. One of the most effective way is cinema. It may be documentary, tv/web series or movie. It evokes emotions – you cry yourself, you become empathetic, you enrage, you laugh at the end you become one with a character which is so alien to you just 2-3 hours before. You feel for that character, you think what I can do to a lifeless and imaginary character. – Well I guess by this time you might have figured out I love movies. Here is a list of special mentions –
 
 ## ಕನ್ನಡ (Kannada)
+
 * **ಉಳಿದವರು ಕಂಡಂತೆ (Ulidavaru Kandanthe)** – a cult movie from my favorite actor Rakshit Shetty. And he directed it, wrote it and guess even wrote lyrics for it. What an acting!! What a story!!! “As seen by the rest” – a perfect tagline which sums up the movie.
 * **ಲೂಸಿಯಾ (Lucia)** – I should not compare any movie to another if story is not same. Yet this movie is special. It makes somehow springs the comparison to momento and inception. Direction by Pawan Kumar, acting by Shruthi Hariharan and Satish.
 * **ಉ-ಟರ್ನ್ (U-Turn)** – Though ending is little unexpected in a bad way, yet the story building throughout the movie is awesome. Again a Pawan Kumar direction. Sharadha Srinath has acted well so are the other actors Roger, Dileep, etc.
@@ -20,7 +21,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ನಿಷ್ಕರ್ಷ (Nishkarsha)** - Bank robery turns into hostage scenario. A die hard cop is given the case to rescue the hostages. 
 * **ಪ್ರತ್ಯರ್ಥ (Prathyartha)** - Mysuru Dasara, a plan to assasinate an important dignitary. Ramesh Arvind, a common man is forced to follow orders. The film revolves around how he finds friends from unkown quarters and tries to save everything. 
 * **ಶ್ (Shhh)** - An Upendra classic. An horror story. It has enough of humor scenes, suspense, horror elements and a strong story.
-* **ಬೆಲ್ ಬಾಟಮ್ (Bell Bottom)** - A police constable who has dream to become a detective, gets an oppurtunity to prove his mettle when a series of burglar happens in the town. 
+* **ಬೆಲ್ ಬಾಟಮ್ (Bell Bottom)** - A police constable who has dream to become a detective, gets an oppurtunity to prove his mettle when a series of burglar happens in the town.
 * **ಉಗ್ರಂ (Ugram)** - The most I like about this movie is its strong character building of the hero. Even the cinematography of the movie and dialogues are a treat for viewers.
 * **ಒಂದು ಮೊಟ್ಟೆಯ ಕಥೆ (Ondhu Motteya Kathe)** - Comedy in a movie should be situation based. This film shows it. An important topic is taken for the film and the situations make you laugh as well feel sad about the hero's condition. 
 * **ಕಾವಲುಧಾರಿ (Kavaludhari)** - What to say about this movie. Two murders need to be solved. A cop takes interst and starts solving it. The way mystery unfolds and the way it is explained, it is really in another level. Its a must watch.
@@ -29,23 +30,24 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ಸಿಂಪಲ್ ಆಗಿ ಒಂದು ಲವ್ ಸ್ಟೋರಿ (Simple aagi ondhu love story)** - hero goes and meets a heroine and discuss about their past relationship. A simple story and yet the way it is laid out is different. Film dialogues, editing, cinematography are a big plus.
 * **ಸರಕಾರಿ ಹಿರಿಯ ಪ್ರಾರ್ಥಮಿಕ ಶಾಲೆ (Sarakari Hiriya Prarthamika Shaale)** - A school needs to be protected from the clossure. Students take it upon themselves to save it. Kids and Ananth Nag acting takes this film to next level.
 * **ಯಾರಿಗೂ ಹೇಳ್ಬೇಡಿ (Yarigu Helabedi)** - One of the Ananth Nag Ganesha series. Ladies of an Appartment complex dream of buying individual houses. They take help from Ganesha a "well wisher".
-* **ಗಣೇಶ ಸುಬ್ರಮಣ್ಯ (Ganesha Subramanya)** - Another of Ananth Nag Ganesha series. Two brother's want to lead a bachelour's life. The difficulties faced due to female dominated society. 
-* **ಗಣೇಶನ ಮದುವೆ (Ganeshana Madhuve)** - Yet another Ananth Nag Ganesha series. The fight between the renters and owner of the appartment complex. The hero is the representative to fight the cause of renters. 
+* **ಗಣೇಶ ಸುಬ್ರಮಣ್ಯ (Ganesha Subramanya)** - Another of Ananth Nag Ganesha series. Two brother's want to lead a bachelour's life. The difficulties faced due to female dominated society.
+* **ಗಣೇಶನ ಮದುವೆ (Ganeshana Madhuve)** - Yet another Ananth Nag Ganesha series. The fight between the renters and owner of the appartment complex. The hero is the representative to fight the cause of renters.
 * **ಗೌರಿ ಗಣೇಶ (Gowri Ganesha)** - Yet another Ananth Nag classic. A guy who comes to know about the secrets of a woman and uses it to blackmail and teach the men who caused trouble to her.
 * **ಆಪ್ತ ಮಿತ್ರ (ApthaMitra)** - A couple buys a haunted house against the recommendation of their relatives. The hero arrives to help solve the problem. I guess actress Soundarya's last movie and what an acting she has done!!!
 * **ವ್ರಿತ್ರ (Vrithra)** - A lady cop is given to file a report of a sucide case. What she uncovers goes beyond a simple sucide case. A slow and yet an engaging mystry.
 * **ಲವ್ ಮೊಕ್ಟೈಲ್ (Love Mocktail)** - Its a simple story where there are hero's multiple past relationships stories. Yet its a feel good movie. I guess situation and humor is nice. At the end it makes you feel.
-* **ಕಪಟ ನಾಟಕ ಪಾತ್ರದಾರಿ (Kapata Nataka Patradari)** - An auto driver is called by police for an enquiry about missing people. Driver narates his story about the Auto. 
+* **ಕಪಟ ನಾಟಕ ಪಾತ್ರದಾರಿ (Kapata Nataka Patradari)** - An auto driver is called by police for an enquiry about missing people. Driver narates his story about the Auto.
 * **ನನ್ನ ಪ್ರಕಾರ (Nanna Prakara)** - A cop is tasked to investigate a car accident. His search to find the identity of desceased person in the car leads him to more mystries.
 * **ಚಂಬಲ್ (Chambal)** - This is a story of the D K Ravi. The film gives its view in a very good way.
 * **ಅವನೇ ಶ್ರೀಮನ್ನಾರಾಯಣ (Avane Srimanarayana)** - Set in a fictional town, a tussel between two brothers, a missing treasure and funky cop. The film has its short comings and yet is nice watch.
-* **ಅಳಿದು ಉಳಿದವರು (Alidu Ulidhavaru)** - A ghost buster goes to a haunted house to disprove that ghost exists. A horror and suspense movie. 
+* **ಅಳಿದು ಉಳಿದವರು (Alidu Ulidhavaru)** - A ghost buster goes to a haunted house to disprove that ghost exists. A horror and suspense movie.
 * **ಬೀರ್ಬಲ್ ಟ್ರೈಲಾಜಿ (Birbal Trilogy)** - A lawyer takes up client case who is falsely accused of murder.
-* **ಸ್ಟ್ರೈಕರ್ (Striker)** - Hero is not able to identify whether an incident happening in life is real thing or dream. 
+* **ಸ್ಟ್ರೈಕರ್ (Striker)** - Hero is not able to identify whether an incident happening in life is real thing or dream.
 * **ಇಕ್ಕಟ (Ikkkat)** - Husband and wife trapped inside the house due to COVID restrictions.
 * **ಆಕ್ಟ ೧೯೭೮ (ACT 1978)** - A pregnent woman and an old man takes law into their hands to fix the law and corruption
 
 ## Telugu
+
 * **Pelli Choopulu** – Some movies just feels perfect. After watching it, you feel elevated or it just brings a nice small smile by pulling your cheeks  at the opposite direction. And this is one of that movie. Nice story, acting.
 * **Srimanthadu** – A nice social concept taken and made a movie. A good lesson which can be adopted also. There are those telugu movie extra strength fight scenes but overall its a good one.
 * **Swamy Ra Ra** – Luck, heist, robbery and conning each other. That sums up the movie. And yeah a small love story.
@@ -68,6 +70,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Pushpaka Vimana** - A newly married wife elopes and husbands efforts to hide this infront of society and also efforts to find his wife.
 
 ## Tamil
+
 * **VIP** - Story of an unemployed civil engineer. The life of an unemployed and once he becomes employed, the fight against injustice.
 * **Vikram Vedha** - I guess story is inspired from Vikram Bethal folk story. Fight between a strict encounter specialist cop and his arch rival a gangster don. In this fight between them, they need to find who are their friends and enemies. 
 * **Naanum Rowdy Dhaan** - A cops son who aspires become a don. He gets a chance to prove his mettle when he meets a deaf woman who wants to take revenge of another don.
@@ -83,6 +86,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Doctor** - An army doctor teams up with ex fiance's family to rescue kidnapped niece. 
 
 ## Malayalam
+
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.
 * **Janamaithri** - The humor of this movie is top notch. A police initiative to improve the public relations of department towards the people, a simple common man who is visiting to see his fiancee, a group of car theives, a mysterious sticker theives - all results in humorous situation.
 * **Android Kunjappan Ver 5.25** - A son brings in a robot to take care of his adament father. Father who generally hates any company builds an attachment towards that robot.
@@ -110,9 +114,11 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Joji** - Son trying to get freedom turns to wrong ways and to cover it up goes even more wrong things.
 * **Kilometers and Kilometers** - A carefree bullet enthusiast takes a foriegn tourist on a motor bike road trip.
 * **Home** - A dad wants to update interms of the technology so that he can connect with his children
-* **Kunjiramaynam** - A village plagued by strange curse no one gets married or no one gets a particular brand of liquor 
+* **Kunjiramaynam** - A village plagued by strange curse no one gets married or no one gets a particular brand of liquor
+* **Kanakam Kaamini Kalaham** - A duplicate jewel is lost in a lodge
 
 ## Marathi
+
 * **Astu - So Be It** - A fantastic movie about Alzheimer's disease.
 * **Take Care Good Night** - A family victim of social engineering and lost all its savings
 * **Aamhi Doghi** - An unusual friendship between step mom and daughter.
@@ -120,10 +126,16 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Bonus** - A grandfathers way to make his grandson realize the difficulties faced by laborers
 
 ## Gujarathi
+
 * **Golkeri** - Couples breaking up and parents way to patch things up.
 * **Dhunki** - Two ex employees start a food startup
 
+## Punjabi
+
+* **Ardab Mutiyaran** - Fight between a lady loan recovery agent and a lady sales officier in a finance company
+
 ## Hindi
+
 * **Kahani** - a pregnent wife in search of missing husband
 * **Swades** -  An NRI returns to India to take his Nanny back to USA
 * **Madras Cafe** - Based on story of assassination of Rajeev Gandhi
@@ -145,9 +157,10 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **The Ghazi Attack** - Based on Indias 1971 navy submarine operation
 * **The Lunch Box** - lunch box delivered to wrong address
 * **Tumahari Sulu** - A house wife becomes an RJ
-* **Mimi** - A US couple hires a young woman aspiring to become star to be their childs sarogate mother 
+* **Mimi** - A US couple hires a young woman aspiring to become star to be their childs sarogate mother
 
 ## English
+
 * **East Side Sushi** – Struggle, passion, hardwork, discrimination. This movie touches on so many concepts. A Mexican trying to become a Sushi Chef. Any art or work, first like what you do. Its not just enough to like what you are doing, you need to constantly work on yourself to improve your skill.
 * **Peaceful Warrior** – A gymnast trains zen way. Through understanding the life improves the game. Dialogues are treat, an example of zens teaching applicable to whole broad spectrum of life.
 * **Waffle Street** – A life long dream to be a financier. When he is at the top of the game, gets fired from the job. Then restaurant job, its employees help him to understand what he really love.
@@ -158,10 +171,11 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Ex Machina** - What happens when the humanized robot reach human equivalent or more intelligence
 * **Matrix 1,2 & 3** - When the whole universe is a simulation
 * **Batman Begins, Dark Knight, Dark Knight Rises** -  A wealthy man leads a double life to save to city from unjustice
-* **Spare Parts** - A community college students dreams of attending marine rescue robot competion. 
+* **Spare Parts** - A community college students dreams of attending marine rescue robot competion.
 * **Lord Of the Rings Series** - Based on Lord of the rings book
 * **Hobbit Series** - Based on hobbit book
 * **Oceans Eleven** - A team of 11 plans to rob a casino
 * **Terminal** - A man looses his country when in an airport terminal
 * **You got a mail** - Two completely opposite people fall in law via email conversations
-* **Chef** - A chef goes on a trip with his son to revive his charm
+* **Chef** - A chef goes on a trip with his son to revive his charm.
+* **Guess Who** - Daughter gets her white boy-friend to her parents anniversary celebration.
