@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/67825.Peopleware
+    url: https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow
     children:
-      - title: Peopleware - Productive Projects and Teams
-        url: https://www.goodreads.com/book/show/67825.Peopleware
+      - title: Thinking, Fast and Slow
+        url: https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow

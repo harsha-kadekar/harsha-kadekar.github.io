@@ -418,3 +418,73 @@ This is our final command. This is the teaching. Go forth, live according to thi
 
 This is a book about [Rashtrakuta King Amoghavarsha Nrupatunga](https://en.wikipedia.org/wiki/Amoghavarsha). This is a novel based on historical facts. But author has taken his artistic freedom to change certain aspects of it. On reading the story of King Nrupatunga, I felt it is so important to have a very good teacher who imparts the right knowledge and helps in guiding the development of right attitude. Certain ideals of King are very unique with respect to India - Whether it may be respecting the public, treating people of the state as the utmost authority, subjecting family members to scrutiny as per the law of the land or if need be do not hesitate to go for a war even when you are a peace loving king. Even though it is not democracy and yet people of the kingdom is given the highest authority. I liked the conversations between King Nrupatunga, his son's Guru Gunabadra Acharya and Golayabhatta. They explain how Kings work, if done without any attachments will lead to Moksha. And yet some aspects of the novel was not good, as at one hand King needs to hold Dharma above his family and people but still ends up giving pardon to his son.
 {: style="text-align: justify;"}
+
+### Peopleware - Productive Projects and Teams
+
+- Author: **TomDeMarco & Timothy Lister**
+- GoodReads: [Peopleware](https://www.goodreads.com/book/show/67825.Peopleware)
+
+This book talks about different aspect of software project development, software development environments and how to develop software engineers.
+{: style="text-align: justify;"}
+
+- High performance engineer is 10 times better when compared to the worse ones. They are 2.5 times better than medium ones. This is something we can observe with respect to delivery timelines, ramp up time of the projects worked by high performance engineers and others. This is even more observable when a high performance engineer leaves the team. I guess key is to find that before hand and make sure engineer will not leave the team.
+- We tend to hold very high value to language of choice for development. But in reality there is no relationship between performance and language of choice. Offcourse there are some exceptions, example you are developing kernel code or embedded systems.
+- Authors mention there is no relationship between performance to that of salary and experience. This I tend to disagree a bit. I feel salary should be such that it should provide a satisfaction to developer that I am honoured for my work. This is also true that as we get experience in the same team, the tribal knowledge grows which helps in improving performance in that team. This might not help when team or project changes.
+- Device your own ways to measure your productivity. There cannot be a standard way to measure it. Every developer works in their own style and ways. What works for one may not works for others as things which are important for one may not be important for others.  
+- Your measurements of productivity should be used for improvement, motivation, enhanced job satisfaction. This measurements data should be private
+- Your work environment should be silent and private with very interruption. Open office looks cool but really not good for productivity. That does not means open office does not have any advantage. It is very much necessary for scenarios like when you are new joinee trying to learn about team and service, project is in initial phase where lot of adhoc discussions are needed.
+- For any interruption/message you are about to make, ask is it really important to be interrupted? How long can I wait before answering the message?
+- Appearance does not matter. We are bound to choose who stick to norms which is not useful. Our mind becomes uncomfortable when something is out of the way whether it is dress habbits, work hours. Try to break that bias.
+- Leadership is a service
+  - Step up to the task
+  - Be evidently fit for the task
+  - Prepare for the task by doing homework ahead of time
+  - Maximize value to everyone
+  - Do it all with humor and obvious goodwill
+- The ability to lead without being given authority to do so is what set apart others from leaders
+- For interviewing new candidate
+  - Verify their past work - github, papers, resume
+  - Have a programming session. Its always best if you let them work on your project. Simple programming sessions also helps. Personally, I feel we should be trying to find about the engineer not the end result of the programming. Even though program was not solved but engineer shows all the right aspects of working with a team and learning they should be given opportunity.
+  - Let all the future co workers interview the candidate and provide feedback. This may not work in bigger team but atleast majority of team should get chance to interview.
+  - Aptitude tests are not that useful. Till now I do not see it helping in any way in deciding how a developer will succeed in their programming career.
+- Do one thing at a time. In meeting be in meeting. In standup meeting be at standup meeting. Do not mix up with other tasks. Give total attention. **This is the greatest quality as you grow in engineering**. You are expected to work on multiple things at time but its your ability to make sure you work on a single thing at time otherwise you will not deliver results on anything. This does not mean you will not be managing multiple projects.
+- Understand what is your contract of work. This helps to set the right expectations. This helps to make decision regarding whether to accept a work or not, what are your priorities.
+- Many things what we consider today's technology will become tomorrow's environment.
+- Train the new hires such that they can do the new work independently without your guidance in the future. Training the new hires is linked to the long term retaining of the employee. Instead of just firing because their skill is out of date, retrain them to new skills
+- For jelled team there should be a common goal towards which team works on
+- Team members should have freedom to make mistakes/wrong and learn from it. They should not be too afraid to make changes fearing what happens when there is a mistake.
+- Phony deadlines do not work. It will bring moral of team. Little bit tight deadline will give a challenge but impossible deadlines will falter.
+- Tight deadline will always lead to bad quality product and this will lead to team attrition.
+- We do overtime to shield our selves from not getting things done on time and also we did not say no to things.
+- Peer coaching is a healthy sign of jelled team. If we put team members competing with each other, it will affect peer coaching 
+- Anual salary or merit reviews, management by objectives, praise of certain workers for extrodinary accomplishment, awards, prizes, bonuses tied to performance, performance measurements in any form will impact team badly
+  - But what is the alternative here?
+  - Any action that rewards team members differently will start competition among team members.  
+- Team members should feel proud of their work and yet Team members should not become defensive about their work
+- Team members need time to time small victories/ closures to get inspired and assured. So break a project into smaller milestone so that we can start tracking from early. This helps to understand our deviation from the project much early and also helps us to have the sense of accomplishments from the beginning.
+- For every meeting before scheduling/accepting decide what ends this meeting? It should never be time/clock 
+- Fragmentation of work and project effects our productivity a lot. Its just interruption masked as multi project/tasks. So when you are having multiple projects, understand clearly what are the priorities of each one. Make sure you work on first priority project complete a milestone and then move on to another project or other milestone.
+- Any change has following stages
+  - Old status
+  - chaos
+  - practice & integration
+  - new status
+- For any one to try the change they need to feel safe. They should not be ridiculed or punished for failing
+- Knowledge of the company exists in the middle management/engineers - not the high level managers/heads or beginners.
+- Identify free electrons in the team and give them complete freedom to define their own responsibilities
+
+### ಬ್ರಹ್ಮಪುರಿಯ ಭಿಕ್ಷುಕ (Brahmapuriya Bhikshuka)
+
+- Author: *ಶತಾವಧಾನಿ ಆರ್ ಗಣೇಶ (Shatavadhani R Ganesh)*
+- GoodReads: [ಬ್ರಹ್ಮಪುರಿಯ ಭಿಕ್ಷುಕ](https://www.goodreads.com/book/show/18075698-brahmapuriya-bhikshuka)
+
+ಈ ಪುಸ್ತಕದಲ್ಲಿ ಗಣೇಶರವರು ಡಿ.ವಿ.ಜಿ.ಯವರ ಜೀವನದ ಕೆಲವೊಂದು ಪ್ರಸಂಗಗಳನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ. ಈ ಪುಸ್ತಕ ಓದುವ ಮುಂಚೆ, ಡಿ.ವಿ.ಜಿ.ಯವರು ಒಬ್ಬ ಮಹಾನ್ ಕವಿಯಂದು, ಅವರು ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗವನ್ನು ರಚಿಸಿದ್ದಾರೆಯಂದು ತಿಳಿದಿತ್ತು ಅಷ್ಟೆ. ಈ ಪುಸ್ತಕ ಓದಿದ ಮೇಲೆ ಅವರ ಉತ್ತಮ ವೆಕ್ತಿತ್ವದ ಬಗ್ಗೆ ತಿಳಿದಿದ್ದು. ನಾವು ಎಷ್ಟೋಬಾರಿ ಸ್ವಲ್ಪ ಕ್ಲಿಷ್ಟವಾದ ಸನ್ನವೇಶ ಬಂದ ತಕ್ಷಣ, ನಮ್ಮ ನಿಯಮಗಳನ್ನು ಹಾಗೂ ಆದಷ೯ಗಳನ್ನು ಬಿಟ್ಟು, ಸುಲಬದ ದಾರಿ ಹಿಡಿಯುತ್ತೇವೆ ಅತ್ತವ ರಾಜೆ ಮಾಡ್ಕೋತೀವಿ. ಆದರೆ ಅವರು ಹಾಗಲ್ಲ,  ಏನೇ  ಸನ್ನಿವೇಶ ಬರಲಿ, ಅವರು ಹಾಕಿಕೊಂಡ ಜೀವನದ ನಿಯಮಗಳನ್ನ ಮೀರುತ್ತಿರಲಿಲ್ಲ. ಇನ್ನೊಂದು ವಿಚಾರ ನನಗೆ ಇಷ್ಟವಾಗಿದು ಅಂದರೆ, ಅವರು ಪು.ತಿ.ನ.ರವರಿಗೆ ಕೊಟ್ಟ ಸಲಹೆ. ಪು.ತಿ.ನ.ರವರು ತಮ್ಮ ಕೆಲಸಕ್ಕೆ ರಾಜಿನಾಮೆ ಕೊಡಲು ಯೋಚಿಸುತಿದ್ದರು ಹಾಗು ಇದರ ಬಗ್ಗೆ ಡಿ.ವಿ.ಜಿ. ಅವರ ಅಭಿಪ್ರಾಯ ಕೇಳಿದರು. ಇದಕ್ಕೆ ಡಿ.ವಿ.ಜಿ.ಯವರು, ಪು.ತಿ.ನರವರಿಗೆ ತಮ್ಮ ಹೆಂಡತಿಗೆ ಮೊದಲು ವಿಚಾರವನ್ನು ತಿಳಿಸಿ, ಈ ನಿದಾ೯ರಕ್ಕೆ ಕಾರಣವಾದ ಆಲೋಚನೆಗಳನ್ನು ಹೆಂಡತಿಗೆ ವಿವರಿಸಿ, ಅವರ ಒಪ್ಪಿಗೆ ಮೇಲೆ ರಾಜಿನಾಮೆ ನೀಡಬೇಕೆಂಬ ಸಲಹೆ ನೀಡಿದರು. ಏಷ್ಟೋಬಾರಿ ನಾವು ನಮ್ಮಲಿರುವ ಆಲೋಚನೆಗಳನ್ನ ಇನ್ನೊಬ್ಬರಿಗೆ ವಿವರಿಸಿದಾಗ ಅದು ಸ್ಪಷ್ಟವಾಗುತ್ತದೆ, ಅದರಲ್ಲಿಯು ಹೆಂಡತಿಯಲ್ಲಿ ಹೇಳಿಕಂಡಲ್ಲಿ, ಅದರ ಪರ ವಿರುದ್ಧ ವಾದಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯಬೊಹುದು. ಮತ್ತಂದು ನೆಚ್ಚಿನ ಗುಣವೆಂದರೆ, ಅವರ ಹಾಸ್ಯ ಪ್ರವೃತಿ. ಎಂಥಹ ಗಂಭೀರ ಸಂದಭ೯ದಲ್ಲಿಯು ಹಾಸ್ಯ ಮಾಡಿ ಸ್ಥಿತಿಯನ್ನು ಹಗುರ ಮಾಡುತ್ತಿದ್ದರು. ಹೀಗೆ, ತಮ್ಮ ಹೆಂಡತಿಯೊಂದಿಗಿನ ಪ್ರಸಂಗಗಳು, ಮಗನ ಜೊತೆಗಿನ ವಿಚಾರ ವಿನಿಮಯ, ವಿಷ್ವೇಶ್ವರಯ್ಯ - ಮಿಜಾ಼೯ ಹಾಗೂ ಇನ್ನಿತರ ಗಣ್ಯ ವೆಕ್ತಿಗಳೊಂದಿಗಿನ ಮಾತುಕತೆ ಒಡನಾಟಗಳು ಎಲ್ಲವೂ ಬಹಳಷ್ಟು ಪಾಠಗಳನ್ನು ಹೇಳಿಕೊಡುತ್ತದೆ.
+{: style="text-align: justify;"}
+
+### Five lectures on Reincarnation
+
+- Author: *Abhedhananda*
+- GoodReads: [Five Lectures On Reincarnation](https://www.goodreads.com/book/show/52017351-five-lectures-on-reincarnation)
+
+In this book, Swami Abhedhanada explains about the concept of reincarnation, compares it with contemprory concepts prevelant in other religions and also compares it with scientific theories and laws. One important caveat is, this book is written around 1900. The clarity of thought shown by the author is amazing. Reincarnation is the concept of Atma (~soul) taking birth in a new body once its old body dies. Is it really possible? Well, Atma is nothing but an energy and energy cannot be created or destroyed rather it can only be transformed from one way to another. So when the body is destroyed, Atma will move on to the next ideal body. Now why should that take the next body or rebirth? The law of karma comes into affect here. For any action/cause there has to be a corresponding effect due to that. Every desire we have will have an impression on the atma, which it needs to fulfil, so desire forms the cause and action is the effect. To support the law of Karma, Abhedhananda uses the physical law of "for every effect there should be a cause". Now, Why do we have desires? To evolve. It is a continuous process of evolution till you reach the Brahman. To support this, Abhedananda uses evolution. Author do not agree with the theorey - there is nothing called as rebirths or mind is just a matter which comes into existence during birth and stops at the death. If this is the cause, then there is no evolution concept here or rather there is no urge to change. Abhedhananda also do not agree on Resurrection - Judgement day concept. If the soul is added to the body as the first act by god after the birth, it is like creation of an energy which is against the physical law. Similarly there are many instances where a child at a very young age has mastered the concepts even though it is not exposed to that earlier. This according to Vedanta is something transfered via Atma from the previous birth. This part cannot be explained by other parts. Also major question asked is why is all powerful God created Satan? It seems soul do not have the freedom to evolue but its fate is sealed from the begin. Author also do not agree on the transmigration theory. There is one important question on memory of past births - why cant a person remember about past births or how does the past memory transmit to the next birth? Author says it is present as latent memory and transmitted via germ of life. This part is lacking I felt. Overall its a great book to understand the different concepts of Reincarnation how it fits with sceintific theories and laws. It also gives good explanation on other concepts like resurruction, judgement day and transmigration.
+{: style="text-align: justify;"}

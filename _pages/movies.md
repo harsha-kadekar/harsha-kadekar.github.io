@@ -18,12 +18,12 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ರಾಮ ರಾಮ ರೇ (Rama Rama Re)** – Movie begins with Ramayana and ends with Bhagavad Geeta. A man’s life, his environments influence, his actions and his duties. A concept is shown so nicely.
 * **ಬೆಳದಿಂಗಳ ಬಾಲೆ (Beladhingala Baale)** - Story between a chess grandmaster and an annoymous well wisher. Chess master tries to solve series of puzzles to find the annoymous well wisher.
 * **ಗುಳ್ಟು (Gultoo)** - A first of its kind in Kannada where it explains how data is equivalent to gold. The story has good twists and turns and sums up the social message well.
-* **ನಿಷ್ಕರ್ಷ (Nishkarsha)** - Bank robery turns into hostage scenario. A die hard cop is given the case to rescue the hostages. 
-* **ಪ್ರತ್ಯರ್ಥ (Prathyartha)** - Mysuru Dasara, a plan to assasinate an important dignitary. Ramesh Arvind, a common man is forced to follow orders. The film revolves around how he finds friends from unkown quarters and tries to save everything. 
+* **ನಿಷ್ಕರ್ಷ (Nishkarsha)** - Bank robery turns into hostage scenario. A die hard cop is given the case to rescue the hostages.
+* **ಪ್ರತ್ಯರ್ಥ (Prathyartha)** - Mysuru Dasara, a plan to assasinate an important dignitary. Ramesh Arvind, a common man is forced to follow orders. The film revolves around how he finds friends from unkown quarters and tries to save everything.
 * **ಶ್ (Shhh)** - An Upendra classic. An horror story. It has enough of humor scenes, suspense, horror elements and a strong story.
 * **ಬೆಲ್ ಬಾಟಮ್ (Bell Bottom)** - A police constable who has dream to become a detective, gets an oppurtunity to prove his mettle when a series of burglar happens in the town.
 * **ಉಗ್ರಂ (Ugram)** - The most I like about this movie is its strong character building of the hero. Even the cinematography of the movie and dialogues are a treat for viewers.
-* **ಒಂದು ಮೊಟ್ಟೆಯ ಕಥೆ (Ondhu Motteya Kathe)** - Comedy in a movie should be situation based. This film shows it. An important topic is taken for the film and the situations make you laugh as well feel sad about the hero's condition. 
+* **ಒಂದು ಮೊಟ್ಟೆಯ ಕಥೆ (Ondhu Motteya Kathe)** - Comedy in a movie should be situation based. This film shows it. An important topic is taken for the film and the situations make you laugh as well feel sad about the hero's condition.
 * **ಕಾವಲುಧಾರಿ (Kavaludhari)** - What to say about this movie. Two murders need to be solved. A cop takes interst and starts solving it. The way mystery unfolds and the way it is explained, it is really in another level. Its a must watch.
 * **ಆಪರೇಷನ್ ಅಲಮೇಲಮ್ಮ (Operation Alamelamma)** - Police trying to solve a kidnap and suspect is a common man who is a branded item freak. The story revolves around this common man. The humor and the mystry combination is biggest plus of this movie.
 * **ಶುಭಮಂಗಳ (Shubhamangala)** - A Puttanna Kanagal movie based on a novel. A 70's movie, where female protagonist needs to be independent and full fill her promise to father. Along with that needs to maintain her friendship with male protagonist.
@@ -45,6 +45,8 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ಸ್ಟ್ರೈಕರ್ (Striker)** - Hero is not able to identify whether an incident happening in life is real thing or dream.
 * **ಇಕ್ಕಟ (Ikkkat)** - Husband and wife trapped inside the house due to COVID restrictions.
 * **ಆಕ್ಟ ೧೯೭೮ (ACT 1978)** - A pregnent woman and an old man takes law into their hands to fix the law and corruption
+* **೭೭೭ ಚಾರ್ಲಿ (777 Charlie)** - If you are lucky a dog will come to your life and change your life
+* **ವಿಕ್ರಾಂತ್ ರೋಣ (Vikrant Rona)** - A police visits a village infested by a devil. A son returns to his parents in the same village after many years at the same time.
 
 ## Telugu
 
@@ -72,18 +74,18 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 ## Tamil
 
 * **VIP** - Story of an unemployed civil engineer. The life of an unemployed and once he becomes employed, the fight against injustice.
-* **Vikram Vedha** - I guess story is inspired from Vikram Bethal folk story. Fight between a strict encounter specialist cop and his arch rival a gangster don. In this fight between them, they need to find who are their friends and enemies. 
+* **Vikram Vedha** - I guess story is inspired from Vikram Bethal folk story. Fight between a strict encounter specialist cop and his arch rival a gangster don. In this fight between them, they need to find who are their friends and enemies.
 * **Naanum Rowdy Dhaan** - A cops son who aspires become a don. He gets a chance to prove his mettle when he meets a deaf woman who wants to take revenge of another don.
-* **Kadhalum Kadandhu Pogum** - Female protragonist is a software engineer, who lives in Chennai independently. As her company gets shutdown, and she is layed off, now she needs to find a new job. In her difficult times, she finds unusual friend in a male protragonist who is a rowdy/bouncer. 
+* **Kadhalum Kadandhu Pogum** - Female protragonist is a software engineer, who lives in Chennai independently. As her company gets shutdown, and she is layed off, now she needs to find a new job. In her difficult times, she finds unusual friend in a male protragonist who is a rowdy/bouncer.
 * **All in All Azhagu Raja** - Watch this film for humor. A middle class man who runs his own TV channel in a small town with his friend. He falls in love with a girl who is pampared and has "world is run by her" attitude.
 * **Chekka Chivantha Vaanam** - This is a story of a mafia don and his 3 sons who wants to control his empire after his demise. An unusual cop who aides them in their fight for control.
-* **Dhuruvangal Pathinaaru** - A murder, missing person and an accident. All looks to be linked to each other. 
+* **Dhuruvangal Pathinaaru** - A murder, missing person and an accident. All looks to be linked to each other.
 * **Thambi** - A missing son of a politician is found after 15 years. The story revolves around how the son joins back the family and how he went missing in his childhood.
 * **Soodhu Kavvum** - A kidnap gone wrong. Do not look for morality.
 * **Maayavan** - A serial killer who seems to come back after dead.
 * **Velainu Vandhutta Vellaikaaran** - A minster with location of huge stash of money has lost his memory!
 * **Malaysia to Amnesia** - A husband has to cover up his affair as well as explain the reason of how he survived a missing plane tragedy.
-* **Doctor** - An army doctor teams up with ex fiance's family to rescue kidnapped niece. 
+* **Doctor** - An army doctor teams up with ex fiance's family to rescue kidnapped niece.
 
 ## Malayalam
 
@@ -93,7 +95,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Njan Prakashan** - A lazy common man who wants to go abroad and settle there. He wants to achieve this without any of his efforts. The ways he tries to achieve this forms the underlying story.
 * **Hotel Usthad** - Dream of becoming a chef who goes against his father. His grand father teaches him what it takes to be a chef
 * **Bangalore Days** - Three friends - two guys and a girl, each have their own tastes. After graduation, all three of them end up in Banglore due to various reasons. Each try to find happiness in their life.
-* **Annmariya Kalippilaanu** - A young school girl wants to warn her PT sir, so she hires a goon for this. 
+* **Annmariya Kalippilaanu** - A young school girl wants to warn her PT sir, so she hires a goon for this.
 * **AK Ayyappanum Koshiyum** - The rivalry between two guys. Every incident leads to questioning of rivals ego.
 * **JOSEPH** - A retired police officer starts investigating his ex wife's accident.
 * **Oru Vadakkan Selfie** - A simple selfie can lead to lot of disastor. The comedy is the +ve of the movie.
@@ -103,7 +105,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Manoharam** - An art enthusiast needs to update his skills for the latest trends in technology.
 * **Trance** - It shows how the religion is used for business taking the example of proped up Christian Pastor and how he takes the assembled group into a trance.
 * **Godha** - A girls dream to do big in wreslting, an old wrestler who wants to bring back the golden days of wrestling in the village. The son of the wrestler somehow connects.
-* **Njandukalude Nattil Oridavela** - A mother is diagnoised with cancer. The film is all about how they face that news and carry on with their life. 
+* **Njandukalude Nattil Oridavela** - A mother is diagnoised with cancer. The film is all about how they face that news and carry on with their life.
 * **North 24 Kaatham** - An person having OCD had to spend an entire day in a city in an unplanned events at unplanned places.
 * **C u soon** - A movie full of video call conversations.
 * **Neram** - A day can have as many twists as possible.
@@ -116,13 +118,16 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Home** - A dad wants to update interms of the technology so that he can connect with his children
 * **Kunjiramaynam** - A village plagued by strange curse no one gets married or no one gets a particular brand of liquor
 * **Kanakam Kaamini Kalaham** - A duplicate jewel is lost in a lodge
+* **Bheeshma Parva** - A family run gang and the eldest need to set things right.
+* **Salute** - A cop on a leave trying to set things right for an old case.
+* **Minnal Murali** - A village Super Hero and a village super villan.
 
 ## Marathi
 
 * **Astu - So Be It** - A fantastic movie about Alzheimer's disease.
 * **Take Care Good Night** - A family victim of social engineering and lost all its savings
 * **Aamhi Doghi** - An unusual friendship between step mom and daughter.
-* **Smile Please** - Story of a young person suffering from Dementia 
+* **Smile Please** - Story of a young person suffering from Dementia
 * **Bonus** - A grandfathers way to make his grandson realize the difficulties faced by laborers
 
 ## Gujarathi
@@ -133,6 +138,10 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 ## Punjabi
 
 * **Ardab Mutiyaran** - Fight between a lady loan recovery agent and a lady sales officier in a finance company
+
+## Bengali
+
+* **Gumnami Baba** - Mystery of Netaji Subhas Chandra Bose's death
 
 ## Hindi
 
@@ -158,6 +167,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **The Lunch Box** - lunch box delivered to wrong address
 * **Tumahari Sulu** - A house wife becomes an RJ
 * **Mimi** - A US couple hires a young woman aspiring to become star to be their childs sarogate mother
+* **Rocketry: The Nambi Effect** - Story of Nambi Narayanan ISRO scientist
 
 ## English
 
@@ -179,3 +189,32 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **You got a mail** - Two completely opposite people fall in law via email conversations
 * **Chef** - A chef goes on a trip with his son to revive his charm.
 * **Guess Who** - Daughter gets her white boy-friend to her parents anniversary celebration.
+
+## TV Series
+
+### English
+
+* **Friends**
+* **Modern Family**
+* **Game of Thrones**
+* **Monk**
+* **Mentalist**
+* **How I met your mother**
+* **Westwing**
+
+### Hindi
+
+* **Chanakya**
+* **Upanishad Ganga**
+* **Rag Rag Mein Ganga**
+* **Ithihasa**
+* **Dekh Bai Dekh**
+* **Sreeman Srimathi**
+
+### Tamil
+
+* **Ramani v/s Ramani - 1**
+
+### Chineese
+
+* **Nirvana in Fire**
