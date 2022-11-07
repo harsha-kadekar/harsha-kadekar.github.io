@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow
+    url: https://www.goodreads.com/book/show/22521573-getting-things-done
     children:
-      - title: Thinking, Fast and Slow
-        url: https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow
+      - title: Getting Things Done
+        url: https://www.goodreads.com/book/show/22521573-getting-things-done

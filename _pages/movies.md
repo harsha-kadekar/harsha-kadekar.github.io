@@ -24,7 +24,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ಬೆಲ್ ಬಾಟಮ್ (Bell Bottom)** - A police constable who has dream to become a detective, gets an oppurtunity to prove his mettle when a series of burglar happens in the town.
 * **ಉಗ್ರಂ (Ugram)** - The most I like about this movie is its strong character building of the hero. Even the cinematography of the movie and dialogues are a treat for viewers.
 * **ಒಂದು ಮೊಟ್ಟೆಯ ಕಥೆ (Ondhu Motteya Kathe)** - Comedy in a movie should be situation based. This film shows it. An important topic is taken for the film and the situations make you laugh as well feel sad about the hero's condition.
-* **ಕಾವಲುಧಾರಿ (Kavaludhari)** - What to say about this movie. Two murders need to be solved. A cop takes interst and starts solving it. The way mystery unfolds and the way it is explained, it is really in another level. Its a must watch.
+* **ಕವಲುಧಾರಿ (Kavaludhari)** - What to say about this movie. Two murders need to be solved. A cop takes interst and starts solving it. The way mystery unfolds and the way it is explained, it is really in another level. Its a must watch.
 * **ಆಪರೇಷನ್ ಅಲಮೇಲಮ್ಮ (Operation Alamelamma)** - Police trying to solve a kidnap and suspect is a common man who is a branded item freak. The story revolves around this common man. The humor and the mystry combination is biggest plus of this movie.
 * **ಶುಭಮಂಗಳ (Shubhamangala)** - A Puttanna Kanagal movie based on a novel. A 70's movie, where female protagonist needs to be independent and full fill her promise to father. Along with that needs to maintain her friendship with male protagonist.
 * **ಸಿಂಪಲ್ ಆಗಿ ಒಂದು ಲವ್ ಸ್ಟೋರಿ (Simple aagi ondhu love story)** - hero goes and meets a heroine and discuss about their past relationship. A simple story and yet the way it is laid out is different. Film dialogues, editing, cinematography are a big plus.
@@ -43,10 +43,12 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ಅಳಿದು ಉಳಿದವರು (Alidu Ulidhavaru)** - A ghost buster goes to a haunted house to disprove that ghost exists. A horror and suspense movie.
 * **ಬೀರ್ಬಲ್ ಟ್ರೈಲಾಜಿ (Birbal Trilogy)** - A lawyer takes up client case who is falsely accused of murder.
 * **ಸ್ಟ್ರೈಕರ್ (Striker)** - Hero is not able to identify whether an incident happening in life is real thing or dream.
-* **ಇಕ್ಕಟ (Ikkkat)** - Husband and wife trapped inside the house due to COVID restrictions.
+* **ಇಕ್ಕಟ್ (Ikkkat)** - Husband and wife trapped inside the house due to COVID restrictions.
 * **ಆಕ್ಟ ೧೯೭೮ (ACT 1978)** - A pregnent woman and an old man takes law into their hands to fix the law and corruption
 * **೭೭೭ ಚಾರ್ಲಿ (777 Charlie)** - If you are lucky a dog will come to your life and change your life
 * **ವಿಕ್ರಾಂತ್ ರೋಣ (Vikrant Rona)** - A police visits a village infested by a devil. A son returns to his parents in the same village after many years at the same time.
+* **ಕಾಂತಾರ (Kantara)** - Daiva as a Kshetra pala protects its belivers through generations
+* **ತುತು೯ ನಿಗ೯ಮನ (Turtu Nirgamana)** - A young guy stuck in a cycle of death needs to find a purpose.
 
 ## Telugu
 
@@ -86,6 +88,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Velainu Vandhutta Vellaikaaran** - A minster with location of huge stash of money has lost his memory!
 * **Malaysia to Amnesia** - A husband has to cover up his affair as well as explain the reason of how he survived a missing plane tragedy.
 * **Doctor** - An army doctor teams up with ex fiance's family to rescue kidnapped niece.
+* **Dejavu** - Things happen as written by a writer in his story.
 
 ## Malayalam
 
@@ -121,6 +124,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Bheeshma Parva** - A family run gang and the eldest need to set things right.
 * **Salute** - A cop on a leave trying to set things right for an old case.
 * **Minnal Murali** - A village Super Hero and a village super villan.
+* **John Luther** - An inspector with an injury to his ears need to solve the case with his limited hearing capability.
 
 ## Marathi
 
@@ -129,6 +133,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Aamhi Doghi** - An unusual friendship between step mom and daughter.
 * **Smile Please** - Story of a young person suffering from Dementia
 * **Bonus** - A grandfathers way to make his grandson realize the difficulties faced by laborers
+* **GulabJaam** - Hero comes to Pune to learn about the traditional Maharastrian Cooking with a dream of openning a restaurant in London
 
 ## Gujarathi
 
@@ -189,6 +194,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **You got a mail** - Two completely opposite people fall in law via email conversations
 * **Chef** - A chef goes on a trip with his son to revive his charm.
 * **Guess Who** - Daughter gets her white boy-friend to her parents anniversary celebration.
+* **The Prestige** - Two magicians rival to become top in their act
 
 ## TV Series
 
@@ -213,7 +219,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 
 ### Tamil
 
-* **Ramani v/s Ramani - 1**
+* **Ramani v/s Ramani Part 2**
 
 ### Chineese
 
