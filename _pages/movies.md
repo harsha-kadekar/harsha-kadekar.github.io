@@ -124,6 +124,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Bheeshma Parva** - A family run gang and the eldest need to set things right.
 * **Salute** - A cop on a leave trying to set things right for an old case.
 * **Minnal Murali** - A village Super Hero and a village super villan.
+* **The 12th man** - A group of friends visit a home stay for vacation and a murder happens among them. 
 * **John Luther** - An inspector with an injury to his ears need to solve the case with his limited hearing capability.
 
 ## Marathi
@@ -195,6 +196,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Chef** - A chef goes on a trip with his son to revive his charm.
 * **Guess Who** - Daughter gets her white boy-friend to her parents anniversary celebration.
 * **The Prestige** - Two magicians rival to become top in their act
+* **The Hundred-Foot Journey** - An Indian family opens up a restaurant opposite of a French restaurant in a village in France.
 
 ## TV Series
 
