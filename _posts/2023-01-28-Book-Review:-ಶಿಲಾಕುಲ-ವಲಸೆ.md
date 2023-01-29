@@ -1,5 +1,5 @@
 ---
-title: "Book Review: ಶಿಲಾಕುಲ ವಲಸೆ (Shilakula Valase/Stoneage Migration)"
+title: "Book Review: ಶಿಲಾಕುಲ ವಲಸೆ (Shilaakula Valase/Stoneage Migration)"
 excerpt_separator: "<!--more-->"
 categories:
   - BookReview
