@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/5634236-your-money-or-your-life
+    url: https://www.goodreads.com/book/show/44882.Code
     children:
-      - title: Your Money or Your Life
-        url: https://www.goodreads.com/book/show/5634236-your-money-or-your-life
+      - title: Code - The hidden language of Computer Hardware and Software
+        url: https://www.goodreads.com/book/show/44882.Code
