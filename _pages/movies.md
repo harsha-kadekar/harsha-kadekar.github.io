@@ -49,6 +49,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ವಿಕ್ರಾಂತ್ ರೋಣ (Vikrant Rona)** - A police visits a village infested by a devil. A son returns to his parents in the same village after many years at the same time.
 * **ಕಾಂತಾರ (Kantara)** - Daiva as a Kshetra pala protects its belivers through generations
 * **ತುತು೯ ನಿಗ೯ಮನ (Turtu Nirgamana)** - A young guy stuck in a cycle of death needs to find a purpose.
+* **ಮೇಡ ಇನ್ ಬೆಂಗಳೂರು (Made in Bengaluru)** - 3 young guys wants to build a startup in Bengaluru.
 
 ## Telugu
 
@@ -126,6 +127,8 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Minnal Murali** - A village Super Hero and a village super villan.
 * **The 12th man** - A group of friends visit a home stay for vacation and a murder happens among them. 
 * **John Luther** - An inspector with an injury to his ears need to solve the case with his limited hearing capability.
+* **Malikappuram** - A girl wants to see Ayyappa and visit Sabarimala
+* **Paithrukam** - A fight between father and son on following tradition vs being aitheist.
 
 ## Marathi
 
