@@ -50,6 +50,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ಕಾಂತಾರ (Kantara)** - Daiva as a Kshetra pala protects its belivers through generations
 * **ತುತು೯ ನಿಗ೯ಮನ (Turtu Nirgamana)** - A young guy stuck in a cycle of death needs to find a purpose.
 * **ಮೇಡ ಇನ್ ಬೆಂಗಳೂರು (Made in Bengaluru)** - 3 young guys wants to build a startup in Bengaluru.
+* **ಆಚಾರ್ & ಕೊ (Aachar & Co)** - A young girls journey from being so full of herself to taking the responsibility of complete family
 
 ## Telugu
 

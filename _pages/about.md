@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am a Software Engineer. I am from Chikkamagaluru, Karanataka, India and currently residing in Redmond, Washington, USA.
+I am a Senior Software Engineer. I am from Chikkamagaluru, Karanataka, India and currently residing in Redmond, Washington, USA.
 {: style="text-align: justify;"}
 
 I started my software journey from RedForce Labs as an Intern. Next hop was at Honeywell Technology Solutions Pvt. Ltd. Then took a break and went to do my Masters in Software Engineering at ASU. Once I completed my Masters, I landed in AWS - Amazon as Software Development Engineer.

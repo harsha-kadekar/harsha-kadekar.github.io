@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/10865206-the-willpower-instinct
+    url: https://www.goodreads.com/book/show/17252073-samskruti
     children:
-      - title: The Willpower Instinct
-        url: https://www.goodreads.com/book/show/10865206-the-willpower-instinct
+      - title: ಸಂಸ್ಕೃತಿ (Samskruti)
+        url: https://www.goodreads.com/book/show/17252073-samskruti
