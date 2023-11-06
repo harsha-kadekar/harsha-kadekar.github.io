@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/17252073-samskruti
+    url: https://www.goodreads.com/book/show/39028544-saudi-america
     children:
-      - title: ಸಂಸ್ಕೃತಿ (Samskruti)
-        url: https://www.goodreads.com/book/show/17252073-samskruti
+      - title: Saudi America - The truth about fracking and how its changing the world
+        url: https://www.goodreads.com/book/show/39028544-saudi-america

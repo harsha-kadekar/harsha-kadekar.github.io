@@ -51,6 +51,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ತುತು೯ ನಿಗ೯ಮನ (Turtu Nirgamana)** - A young guy stuck in a cycle of death needs to find a purpose.
 * **ಮೇಡ ಇನ್ ಬೆಂಗಳೂರು (Made in Bengaluru)** - 3 young guys wants to build a startup in Bengaluru.
 * **ಆಚಾರ್ & ಕೊ (Aachar & Co)** - A young girls journey from being so full of herself to taking the responsibility of complete family
+* **ತತ್ಸಮ ತದ್ಬವ (Tatsama Tatbava)** - A wife lodges a complaint that her husband is missing and the interrogation with multiple peoples to understand the truth.
 
 ## Telugu
 
@@ -139,6 +140,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Smile Please** - Story of a young person suffering from Dementia
 * **Bonus** - A grandfathers way to make his grandson realize the difficulties faced by laborers
 * **GulabJaam** - Hero comes to Pune to learn about the traditional Maharastrian Cooking with a dream of openning a restaurant in London
+* **Vaalvi** - A husband plans a perfect suicide for his wife
 
 ## Gujarathi
 
