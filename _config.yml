@@ -73,9 +73,9 @@ author:
     # - label: "HackerRank"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://www.hackerrank.com/harsha_kadekar"
-    - label: "Pocket"
-      icon: "fas fa-fw fa-link"
-      url: "https://getpocket.com/@harsha_kadekar"
+    # - label: "Pocket"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://getpocket.com/@harsha_kadekar"
 
 footer:
   links:
