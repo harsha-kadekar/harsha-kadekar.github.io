@@ -14,7 +14,7 @@ main:
 
 currentreads:
   - title: I am reading this book
-    url: https://www.goodreads.com/book/show/39028544-saudi-america
+    url: https://www.goodreads.com/book/show/29566029-algorithms-to-live-by
     children:
-      - title: Saudi America - The truth about fracking and how its changing the world
-        url: https://www.goodreads.com/book/show/39028544-saudi-america
+      - title: Algorithms to Live By - The Computer Science of Human Decisions
+        url: https://www.goodreads.com/book/show/29566029-algorithms-to-live-by
