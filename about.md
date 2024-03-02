@@ -1,6 +1,7 @@
 ---
-permalink: /about/
-title: "About"
+date: 2024-02-03
+layout: page
+title: About
 ---
 
 I am a Senior Software Engineer. I am from Chikkamagaluru, Karanataka, India and currently residing in Redmond, Washington, USA.
@@ -13,9 +14,8 @@ The work experience & university experience has taught me many concepts - techni
 {: style="text-align: justify;"}
 
 My old blogs - just for reference
+- [harshakadekar.blogspot.com](http://harshakadekar.blogspot.com/)
+- [harshakadekar.wordpress.com](https://harshakadekar.wordpress.com/)
 
-1. [harshakadekar.blogspot.com](http://harshakadekar.blogspot.com/)
-2. [harshakadekar.wordpress.com](https://harshakadekar.wordpress.com/)
-
-
-{: style="text-align: justify;"}
+---
+The theme of this blog is based on [no-style-please](https://github.com/riggraz/no-style-please) and I came to know about this theme when I visited blog [person-al.github.io](https://person-al.github.io)

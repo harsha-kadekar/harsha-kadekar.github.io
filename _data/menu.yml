@@ -1,0 +1,52 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: How to reach me?
+    entries:
+      - title: Email
+        url: mailto:harsha.kadekar@gmail.com
+      - title: Github Profile
+        url: https://github.com/harsha-kadekar
+      - title: Twitter
+        url: https://twitter.com/kadekarHarsha
+      - title: GoodReads
+        url: https://www.goodreads.com/harsha_kadekar
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/harshakadekar
+
+  - title: I am currently reading this book
+    entries:
+      - title: "ಪದ್ಮಪಾಣಿ | Padmapani"
+        url: https://www.goodreads.com/book/show/18243957-padmapani
+
+  - title: Pages in this blog
+    entries:
+      - title: about me
+        url: about.html
+      - title: movie list
+        url: movies.html
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: posts by category `Technology`
+    post_list:
+      category: Technology
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
+  
+  - title: posts by category `Book-Review`
+    post_list:
+      category: Book-Review
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
+
+  - title: rss
+    url: feed.xml

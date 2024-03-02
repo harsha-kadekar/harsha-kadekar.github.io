@@ -1,15 +1,12 @@
 ---
-title: "CCRevEngCC"
-categories:
-  - Tech
-tags:
-  - assembly
-link: https://sites.google.com/site/ccrevengcc/
-toc: true
+category: Technology
+date: 2015-07-28
+layout: post
+title: CCRevEngCC
+updated: 2024-02-03
 ---
 
-Initially after my training I had renewed interest in learning assembly language and try to develop a dissassembler. This is way back in 2011 or 2012. Sadly still disassembler development is going on. I started development of the dissassembler but abandoned it. But few months back I have again taken it up but with new design. So in those days we 3 of us – Me, Srivatsa, Shishir had created this google site. In this all the things we learnt about assembly language, and trails for developing assembly language are put up there. It has very useful resources. And yeah you can see only Shishir was successful in creating disassembler.
+After my first internship at RedForce Labs, I was interested to learn assembly language. I tried to develop a `disassembler`. This is way back in 2011. The development of the `disassembler` did not complete. In those days, we 3 of us – myself, Srivatsa and Shishir had created a google site for the development of this `disassembler`. In this google site, I had published all the learning exercises about assembly language and also initial attempts of development are posted there. It has very useful resources. Only, Shishir was successful in creating a `disassembler`. 
 {: style="text-align: justify;"}
 
->[CCRevEngCC](https://sites.google.com/site/ccrevengcc/) 
-
+Link: [CCRevEngCC](https://sites.google.com/site/ccrevengcc/)

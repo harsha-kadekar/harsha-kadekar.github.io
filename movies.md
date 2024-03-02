@@ -1,13 +1,30 @@
 ---
-permalink: /movies/
-title: "Movies"
-toc: true
+date: 2024-02-03
+layout: page
+title: Movies
 ---
 
-In 2-3 hours time, you are asked to influence a large number of people from varying background with innumerable opinions. One of the most effective way is cinema. It may be documentary, tv/web series or movie. It evokes emotions – you cry yourself, you become empathetic, you enrage, you laugh at the end you become one with a character which is so alien to you just 2-3 hours before. You feel for that character, you think what I can do to a lifeless and imaginary character. – Well I guess by this time you might have figured out I love movies. Here is a list of special mentions –
+In 2-3 hours time, you are asked to influence a large number of people from varying background with innumerable opinions. One of the most effective way is cinema. It may be documentary, tv/web series or movie. It evokes emotions – you cry yourself, you become empathetic, you enrage, you laugh at the end you become one with a character which is so alien to you just 2-3 hours before. You feel for that character, you think what I can do to a lifeless and imaginary character. – Well I guess by this time you might have figured out I love movies. 
 
-## ಕನ್ನಡ (Kannada)
+Here is a list of special mentions –
 
+- [ಕನ್ನಡ-Kannada](#ಕನ್ನಡ-kannada)
+- [Telugu](#telugu)
+- [Tamil](#tamil)
+- [Malayalam](#malayalam)
+- [Marathi](#marathi)
+- [Gujarathi](#gujarathi)
+- [Punjabi](#punjabi)
+- [Bengali](#bengali)
+- [Hindi](#hindi)
+- [English](#english)
+- [TV-Series](#tv-series)
+	- [English](##english)
+	- [Hindi](#hindi)
+	- [Tamil](#tamil)
+	- [Chinese](#chinese)
+
+## ಕನ್ನಡ-Kannada
 * **ಉಳಿದವರು ಕಂಡಂತೆ (Ulidavaru Kandanthe)** – a cult movie from my favorite actor Rakshit Shetty. And he directed it, wrote it and guess even wrote lyrics for it. What an acting!! What a story!!! “As seen by the rest” – a perfect tagline which sums up the movie.
 * **ಲೂಸಿಯಾ (Lucia)** – I should not compare any movie to another if story is not same. Yet this movie is special. It makes somehow springs the comparison to momento and inception. Direction by Pawan Kumar, acting by Shruthi Hariharan and Satish.
 * **ಉ-ಟರ್ನ್ (U-Turn)** – Though ending is little unexpected in a bad way, yet the story building throughout the movie is awesome. Again a Pawan Kumar direction. Sharadha Srinath has acted well so are the other actors Roger, Dileep, etc.
@@ -54,8 +71,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **ತತ್ಸಮ ತದ್ಬವ (Tatsama Tatbava)** - A wife lodges a complaint that her husband is missing and the interrogation with multiple peoples to understand the truth.
 
 ## Telugu
-
-* **Pelli Choopulu** – Some movies just feels perfect. After watching it, you feel elevated or it just brings a nice small smile by pulling your cheeks  at the opposite direction. And this is one of that movie. Nice story, acting.
+* **Pelli Choopulu** – Some movies just feels perfect. After watching it, you feel elevated or it just brings a nice small smile by pulling your cheeks at the opposite direction. And this is one of that movie. Nice story, acting.
 * **Srimanthadu** – A nice social concept taken and made a movie. A good lesson which can be adopted also. There are those telugu movie extra strength fight scenes but overall its a good one.
 * **Swamy Ra Ra** – Luck, heist, robbery and conning each other. That sums up the movie. And yeah a small love story.
 * **Surya vs Surya** – What will you do if your life is only in the dark. Well make that dark colorful. Thats the gist of the movie.
@@ -77,7 +93,6 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Pushpaka Vimana** - A newly married wife elopes and husbands efforts to hide this infront of society and also efforts to find his wife.
 
 ## Tamil
-
 * **VIP** - Story of an unemployed civil engineer. The life of an unemployed and once he becomes employed, the fight against injustice.
 * **Vikram Vedha** - I guess story is inspired from Vikram Bethal folk story. Fight between a strict encounter specialist cop and his arch rival a gangster don. In this fight between them, they need to find who are their friends and enemies.
 * **Naanum Rowdy Dhaan** - A cops son who aspires become a don. He gets a chance to prove his mettle when he meets a deaf woman who wants to take revenge of another don.
@@ -94,7 +109,6 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Dejavu** - Things happen as written by a writer in his story.
 
 ## Malayalam
-
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.
 * **Janamaithri** - The humor of this movie is top notch. A police initiative to improve the public relations of department towards the people, a simple common man who is visiting to see his fiancee, a group of car theives, a mysterious sticker theives - all results in humorous situation.
 * **Android Kunjappan Ver 5.25** - A son brings in a robot to take care of his adament father. Father who generally hates any company builds an attachment towards that robot.
@@ -127,13 +141,12 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Bheeshma Parva** - A family run gang and the eldest need to set things right.
 * **Salute** - A cop on a leave trying to set things right for an old case.
 * **Minnal Murali** - A village Super Hero and a village super villan.
-* **The 12th man** - A group of friends visit a home stay for vacation and a murder happens among them. 
+* **The 12th man** - A group of friends visit a home stay for vacation and a murder happens among them.
 * **John Luther** - An inspector with an injury to his ears need to solve the case with his limited hearing capability.
 * **Malikappuram** - A girl wants to see Ayyappa and visit Sabarimala
 * **Paithrukam** - A fight between father and son on following tradition vs being aitheist.
 
 ## Marathi
-
 * **Astu - So Be It** - A fantastic movie about Alzheimer's disease.
 * **Take Care Good Night** - A family victim of social engineering and lost all its savings
 * **Aamhi Doghi** - An unusual friendship between step mom and daughter.
@@ -143,26 +156,22 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Vaalvi** - A husband plans a perfect suicide for his wife
 
 ## Gujarathi
-
 * **Golkeri** - Couples breaking up and parents way to patch things up.
 * **Dhunki** - Two ex employees start a food startup
 
 ## Punjabi
-
 * **Ardab Mutiyaran** - Fight between a lady loan recovery agent and a lady sales officier in a finance company
 
 ## Bengali
-
 * **Gumnami Baba** - Mystery of Netaji Subhas Chandra Bose's death
 
 ## Hindi
-
 * **Kahani** - a pregnent wife in search of missing husband
-* **Swades** -  An NRI returns to India to take his Nanny back to USA
+* **Swades** - An NRI returns to India to take his Nanny back to USA
 * **Madras Cafe** - Based on story of assassination of Rajeev Gandhi
 * **Bhatla House** - Based on story of encounter at Bhatla House
 * **Rocket Singh Salesman of the Year** - A young innocent recruited to sales team needs to deliver results
-* **Paramanu**  - Based on story of first Indian atom bomb test explosion
+* **Paramanu** - Based on story of first Indian atom bomb test explosion
 * **Dhangal** - A father bringing up his daughters as wrestlers
 * **Queen** - A bride going on honeymoon trip alone after breakup
 * **Andhadhoon** - A murder infront of seems to be blind person
@@ -180,9 +189,9 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Tumahari Sulu** - A house wife becomes an RJ
 * **Mimi** - A US couple hires a young woman aspiring to become star to be their childs sarogate mother
 * **Rocketry: The Nambi Effect** - Story of Nambi Narayanan ISRO scientist
+* **12th Fail**: A boy from village wants to become a high post police officer
 
 ## English
-
 * **East Side Sushi** – Struggle, passion, hardwork, discrimination. This movie touches on so many concepts. A Mexican trying to become a Sushi Chef. Any art or work, first like what you do. Its not just enough to like what you are doing, you need to constantly work on yourself to improve your skill.
 * **Peaceful Warrior** – A gymnast trains zen way. Through understanding the life improves the game. Dialogues are treat, an example of zens teaching applicable to whole broad spectrum of life.
 * **Waffle Street** – A life long dream to be a financier. When he is at the top of the game, gets fired from the job. Then restaurant job, its employees help him to understand what he really love.
@@ -192,7 +201,7 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Arrival** - Encounter with extra terrestrial beings
 * **Ex Machina** - What happens when the humanized robot reach human equivalent or more intelligence
 * **Matrix 1,2 & 3** - When the whole universe is a simulation
-* **Batman Begins, Dark Knight, Dark Knight Rises** -  A wealthy man leads a double life to save to city from unjustice
+* **Batman Begins, Dark Knight, Dark Knight Rises** - A wealthy man leads a double life to save to city from unjustice
 * **Spare Parts** - A community college students dreams of attending marine rescue robot competion.
 * **Lord Of the Rings Series** - Based on Lord of the rings book
 * **Hobbit Series** - Based on hobbit book
@@ -204,10 +213,9 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **The Prestige** - Two magicians rival to become top in their act
 * **The Hundred-Foot Journey** - An Indian family opens up a restaurant opposite of a French restaurant in a village in France.
 
-## TV Series
+## TV-Series
 
 ### English
-
 * **Friends**
 * **Modern Family**
 * **Game of Thrones**
@@ -215,20 +223,14 @@ In 2-3 hours time, you are asked to influence a large number of people from vary
 * **Mentalist**
 * **How I met your mother**
 * **Westwing**
-
 ### Hindi
-
 * **Chanakya**
 * **Upanishad Ganga**
 * **Rag Rag Mein Ganga**
 * **Ithihasa**
 * **Dekh Bai Dekh**
 * **Sreeman Srimathi**
-
 ### Tamil
-
 * **Ramani v/s Ramani Part 2**
-
-### Chineese
-
+### Chinese
 * **Nirvana in Fire**
