@@ -6,7 +6,7 @@ title: Book-Review-7 Easy Ways to Show Employee You Care
 updated: 2024-02-04
 ---
 
-- Author: Jokima Hiller
+- Author: **Jokima Hiller**
 - GoodReads Link: [7 Easy Ways to Show Employee You Care](https://www.goodreads.com/book/show/30065630-7-easy-ways-to-show-your-employees-you-care)
 
 Many successful business people say `customer first`. Your only worry is `how to make the life of customer easy using your product?`. They are spot on. The thing is that its a huge mission. A single person as in `only you` cannot achieve that goal. You need partners, you need helpers, you need supporters, you need Employees. So naturally your second most important work would be to take care of these employees who are sharing your passion to achieve this goal.
