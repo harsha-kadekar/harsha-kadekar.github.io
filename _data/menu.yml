@@ -17,8 +17,8 @@ entries:
 
   - title: I am currently reading this book
     entries:
-      - title: "ಪದ್ಮಪಾಣಿ | Padmapani"
-        url: https://www.goodreads.com/book/show/18243957-padmapani
+      - title: "Let the Bud of Life Bloom"
+        url: https://www.goodreads.com/book/show/1025093.Let_the_Bud_of_Life_Bloom
 
   - title: Pages in this blog
     entries:
@@ -41,9 +41,9 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
   
-  - title: posts by category `Book-Review`
+  - title: posts by category `Book-Summary`
     post_list:
-      category: Book-Review
+      category: Book-Summary
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html

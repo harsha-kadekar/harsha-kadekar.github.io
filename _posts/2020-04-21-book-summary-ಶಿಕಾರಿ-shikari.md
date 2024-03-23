@@ -1,8 +1,8 @@
 ---
-category: Book-Review
+category: Book-Summary
 date: 2020-04-21
 layout: post
-title: Book Review - ಶಿಕಾರಿ (Shikari)
+title: Book-Summary - ಶಿಕಾರಿ (Shikari)
 updated: 2024-02-26
 ---
 

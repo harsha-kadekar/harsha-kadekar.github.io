@@ -1,8 +1,8 @@
 ---
-category: Book-Review
+category: Book-Summary
 date: 2020-04-04
 layout: post
-title: Book-Review-Release It! Design and Deploy Production-Ready Software
+title: Book-Summary - Release It! Design and Deploy Production-Ready Software
 updated: 2024-02-04
 ---
 

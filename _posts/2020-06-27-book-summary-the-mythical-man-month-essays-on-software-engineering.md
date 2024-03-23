@@ -1,8 +1,8 @@
 ---
-category: Book-Review
+category: Book-Summary
 date: 2020-06-27
 layout: post
-title: Book Review - The Mythical Man Month - Essays on Software Engineering
+title: Book-Summary - The Mythical Man Month - Essays on Software Engineering
 updated: 2024-03-13
 ---
 

@@ -1,8 +1,8 @@
 ---
-category: Book-Review
+category: Book-Summary
 date: 2018-08-04
 layout: post
-title: Book-Review-7 Easy Ways to Show Employee You Care
+title: Book-Summary - 7 Easy Ways to Show Employee You Care
 updated: 2024-02-04
 ---
 

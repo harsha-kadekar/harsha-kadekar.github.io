@@ -1,9 +1,9 @@
 ---
-category: Book-Review
+category: Book-Summary
 date: 2020-06-04
 layout: post
 modification date: 2024-03-04
-title: Book-Review-Light on the Yoga Sūtras of Patañjali
+title: Book-Summary - Light on the Yoga Sūtras of Patañjali
 ---
 
 - Author: **Patañjali (Commentator & Translator: B K S Iyengar)**

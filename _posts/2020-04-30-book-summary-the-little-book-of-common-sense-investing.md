@@ -1,9 +1,9 @@
 ---
-category: Book-Review
+category: Book-Summary
 date: 2020-04-30
 layout: post
 modification date: 2024-03-03
-title: Book-Review-The Little Book Of Commonsense Investing
+title: Book-Summary - The Little Book Of Commonsense Investing
 ---
 
 - Author: **John C Bogle**
