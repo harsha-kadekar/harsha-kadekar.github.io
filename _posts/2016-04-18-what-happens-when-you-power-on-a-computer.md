@@ -1,5 +1,5 @@
 ---
-category: Technology
+category: Technical
 date: 2016-04-18
 layout: post
 title: What Happens When You Power On A Computer

@@ -1,5 +1,5 @@
 ---
-category: Technology
+category: Technical
 date: 2022-05-13
 layout: post
 title: My Personal and Development Configuration

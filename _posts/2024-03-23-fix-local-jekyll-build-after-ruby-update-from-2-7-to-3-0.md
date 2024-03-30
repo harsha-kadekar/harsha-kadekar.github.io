@@ -1,5 +1,5 @@
 ---
-category: Technology
+category: Technical
 date: 2024-03-23
 layout: post
 title: Fix Local Jekyll build after ruby update from 2.7 to 3.0

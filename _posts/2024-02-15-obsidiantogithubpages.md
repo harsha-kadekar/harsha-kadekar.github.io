@@ -1,5 +1,5 @@
 ---
-category: Technology
+category: Technical
 date: 2024-02-15
 layout: post
 title: Obsidian To Github Pages Script

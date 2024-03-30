@@ -1,5 +1,5 @@
 ---
-category: Career
+category: Technical
 date: 2018-09-01
 layout: post
 title: One Year Since Reborn as Programmer

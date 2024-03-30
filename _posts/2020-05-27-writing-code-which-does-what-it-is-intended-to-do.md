@@ -1,5 +1,5 @@
 ---
-category: Technology
+category: Technical
 date: 2020-05-27
 layout: post
 title: Writing code which does what it is intended to do

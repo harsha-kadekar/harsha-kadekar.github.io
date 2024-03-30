@@ -1,5 +1,5 @@
 ---
-category: Technology
+category: Technical
 date: 2015-10-05
 layout: post
 title: Runtimes Of Algorithms

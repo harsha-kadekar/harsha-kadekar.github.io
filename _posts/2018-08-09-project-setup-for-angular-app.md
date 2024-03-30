@@ -1,5 +1,5 @@
 ---
-category: Technology
+category: Technical
 date: 2018-08-09
 layout: post
 modification date: 2024-03-03

@@ -1,5 +1,5 @@
 ---
-category: Technology
+category: Technical
 date: 2015-07-28
 layout: post
 title: CCRevEngCC

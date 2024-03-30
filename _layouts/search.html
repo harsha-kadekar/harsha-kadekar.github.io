@@ -19,6 +19,7 @@ layout: default
 <!-- Configuration -->
 <script>
 SimpleJekyllSearch({
+  searchResultTemplate: '<li><a href="{url}"><b>{title}</b></a> | date: {date} | category: <i>{category}</i> </li>',
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json'

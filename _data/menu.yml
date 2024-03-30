@@ -41,8 +41,8 @@ entries:
 
   - title: <b>Posts by Category</b>
     entries:
-      - title: <i>Technology</i>
-        url: technology-archive.html
+      - title: <i>Technical</i>
+        url: technical-archive.html
       - title: <i>Book-Summary</i>
         url: book-summary-archive.html
 
