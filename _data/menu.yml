@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: How to reach me?
+  - title: <b>How to reach me?</b>
     entries:
       - title: Email
         url: mailto:harsha.kadekar@gmail.com
@@ -15,38 +15,36 @@ entries:
       - title: LinkedIn
         url: https://www.linkedin.com/in/harshakadekar
 
-  - title: I am currently reading this book
+  - title: <b>I am currently reading</b>
     entries:
       - title: "Let the Bud of Life Bloom"
         url: https://www.goodreads.com/book/show/1025093.Let_the_Bud_of_Life_Bloom
 
-  - title: Pages in this blog
+  - title: <b>Pages in this blog</b>
     entries:
-      - title: about me
+      - title: <i>to know about me</i>
         url: about.html
-      - title: movie list
+      - title: <i>to know about movies i liked</i>
         url: movies.html
+      - title: <i>search for a post</i>
+        url: search.html
 
-  - title: all posts
+  - title: <b>all posts</b>
     post_list:
-      limit: 5
+      limit: 10
       show_more: true
-      show_more_text: See archive...
+      show_more_text: See full list...
       show_more_url: archive.html
 
-  - title: posts by category `Technology`
-    post_list:
-      category: Technology
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-  
-  - title: posts by category `Book-Summary`
-    post_list:
-      category: Book-Summary
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+  - title: <b>Search Posts</b>
+    url: search.html
+
+  - title: <b>Posts by Category</b>
+    entries:
+      - title: <i>Technology</i>
+        url: technology-archive.html
+      - title: <i>Book-Summary</i>
+        url: book-summary-archive.html
 
   - title: rss
     url: feed.xml

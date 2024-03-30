@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{%-include back_link.html-%}
+
+<hr>
+<h3 class="h3-centered">Search among the published posts</h3>
+<hr>
+
+<!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" class="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+</script>
