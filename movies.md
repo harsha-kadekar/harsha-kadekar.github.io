@@ -144,7 +144,8 @@ Here is a list of special mentions –
 * **The 12th man** - A group of friends visit a home stay for vacation and a murder happens among them.
 * **John Luther** - An inspector with an injury to his ears need to solve the case with his limited hearing capability.
 * **Malikappuram** - A girl wants to see Ayyappa and visit Sabarimala
-* **Paithrukam** - A fight between father and son on following tradition vs being aitheist.
+* **Paithrukam** - A fight between father and son on following tradition vs being atheist.
+* **Anweshippin Kandethum** - A cop with his own interest trying find the culprit of murder mystry.
 
 ## Marathi
 * **Astu - So Be It** - A fantastic movie about Alzheimer's disease.
