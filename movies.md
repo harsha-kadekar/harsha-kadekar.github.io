@@ -107,6 +107,7 @@ Here is a list of special mentions –
 * **Malaysia to Amnesia** - A husband has to cover up his affair as well as explain the reason of how he survived a missing plane tragedy.
 * **Doctor** - An army doctor teams up with ex fiance's family to rescue kidnapped niece.
 * **Dejavu** - Things happen as written by a writer in his story.
+* **Kamali from Nadukkaveri** - A girl from village wants to study in IIT
 
 ## Malayalam
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.
