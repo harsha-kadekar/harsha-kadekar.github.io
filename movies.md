@@ -194,6 +194,7 @@ Here is a list of special mentions –
 * **Mimi** - A US couple hires a young woman aspiring to become star to be their childs sarogate mother
 * **Rocketry: The Nambi Effect** - Story of Nambi Narayanan ISRO scientist
 * **12th Fail**: A boy from village wants to become a high post police officer
+* **Article 370**: The work done to remove Article 370 from the constitution
 
 ## English
 * **East Side Sushi** – Struggle, passion, hardwork, discrimination. This movie touches on so many concepts. A Mexican trying to become a Sushi Chef. Any art or work, first like what you do. Its not just enough to like what you are doing, you need to constantly work on yourself to improve your skill.
