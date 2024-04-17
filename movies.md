@@ -108,6 +108,8 @@ Here is a list of special mentions –
 * **Doctor** - An army doctor teams up with ex fiance's family to rescue kidnapped niece.
 * **Dejavu** - Things happen as written by a writer in his story.
 * **Kamali from Nadukkaveri** - A girl from village wants to study in IIT
+* **Raththam** - A retired journalist comes back to journalism to solve his friends murder.
+* **Por Thozhil** - A newly appointed DySP  is teamed with an experienced police officer for solving a serial murder case.
 
 ## Malayalam
 * **Action Hero Biju** – One of the best cop movie. Just show the life of cop, no need to put some masala and all to glamorize it. Just a normal life itself is worth a great story. This movie shows it.

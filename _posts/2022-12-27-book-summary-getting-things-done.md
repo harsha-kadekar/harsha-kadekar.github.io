@@ -10,7 +10,7 @@ updated: 2024-03-28
 - GoodReads: [Getting Things Done - the art of stress-free productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done?ac=1&from_search=true&qid=KRBsx7GWoZ&rank=2)
 
 ## Why I read this book?
-I currently work as a software development engineer and as part of my job I deal with multiple projects and operational tasks. Apart from that there are many personal career improvement tasks I need to take up along with my job. If I view my tasks outside of job, there will be lot of personal projects going on, house stuff that need to be taken care of, things for myself as well as things related to my wife, parents, sister, in-laws, family and friends. So, there is a constant stream of tasks that needed to be handled all the time.
+I currently work as a software development engineer and as part of my job I deal with multiple projects and operational tasks. Apart from that there are many personal career improvement tasks I need to take up along with my job. If I view my tasks outside of job, there will be lot of personal projects going on, house stuff that need to be taken care of, things for myself as well as things related to my wife, parents, sister, in-laws, family and friends. So, there is a constant stream of tasks that need to be handled all the time.
 {: style="text-align: justify;"}
 
 With this constant stream of tasks, there are these feelings -
