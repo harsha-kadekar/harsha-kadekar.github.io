@@ -3,23 +3,31 @@ category: Technical
 date: 2024-06-14
 layout: post
 title: Linux commands for Reference
-updated: 2024-06-18
+updated: 2024-06-22
 ---
 
 In this post, I want to capture the most used linux commands by me as well as some rare ones I did use, so that I can refer these commands whenever I need it.
 
-- [To know which directory we are in](#To know which directory we are in)
-- [To go inside a directory](#To go inside a directory)
-- [To Print the contents of file to StdOut](#To Print the contents of file to StdOut)
-- [To Print the details of the file and folder](#To Print the details of the file and folder)
-- [To Copy Files and Folders](#To Copy Files and Folders)
-- [To move files and folders](#To move files and folders)
-- [To create an empty file](#To create an empty file)
-- [To create a directory](#To create a directory)
-- [To delete files and folders](#To delete files and folders)
-- [To print messages to stdout](#To_print_messages_to_stdout)
+The two books that has helped in learning these commands apart from linux itself are - 
+- [The Linux Command Line](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
+- [How Linux Works](https://www.amazon.com/How-Linux-Works-Brian-Ward/dp/1718500408)
 
-### To know which directory we are in
+## Table of Content
+- [To know which directory we are in](#to-know-which-directory-we-are-in)
+- [To go inside a directory](#to-go-inside-a-directory)
+- [To Print the contents of file to StdOut](#to-print-the-contents-of-file-to-stdout)
+- [To Print the details of the file and folder](#to-print-the-details-of-the-file-and-folder)
+- [To Copy Files and Folders](#to-copy-files-and-folders)
+- [To move files and folders](#to-move-files-and-folders)
+- [To create an empty file](#to-create-an-empty-file)
+- [To create a directory](#to-create-a-directory)
+- [To delete files and folders](#to-delete-files-and-folders)
+- [To_print_messages_to_stdout](#to-print-messages-to-stdout)
+- [To read a text file](#to-read-a-text-file)
+- [To search for text in files](#to-search-for-text-in-files)
+
+
+### [To know which directory we are in](to-know-which-directory-we-are-in)
 
 `pwd` - To know current working directory
 
@@ -305,3 +313,180 @@ How are you?
 How are you
 ➜  dir1
 ```
+
+### To read a text file
+Use `less` to read the files in the form of pages -  `less file.log`.  Use `spacebar`/`f` to move to next page in forward direction. Use `b` to go to page backwards. In order to search a text in the following pages use `/word`. In order to search a text in the previous pages use `?word`. Once searched use `n` to search next occurrence in forward direction and use `N` to search occurrence in the reverse direction.  To go to the starting point of file use `g`. Similarly to go to the last line use `G`.  Use `F` to tail the file, as the input comes, it will show the input and scroll to next line. Use `&word` to display only those lines which match a pattern. If you are reading a code file which uses brackets like `{}`, `()`, `[]` then you can type `{`, `}`, `(`, `)`, `[`, `]` to find the corresponding opening or closing brackets - make sure those opening brackets are the first line in the screen.
+
+### [To search for text in files](to-search-for-text-in-files)
+
+`grep` is the tool to search for text in files. 
+
+In its simple form, find all the lines in the file that has a particular word in it -  `grep myword file.log`
+
+We can pass a regular expression for the file to search in multiple files - `grep myword *.log`
+
+In order to search for case insensitive word in the file, use `-i` flag - `grep -i myWord *.log`
+
+```shell
+➜  testdirectory grep Purpose testnextfile.txt
+Purpose is to use AI.
+➜  testdirectory grep -i Purpose testnextfile.txt
+My purpose is to provide intelligent and multilingual responses to queries.
+what is our purpose?
+Purpose is to use AI.
+➜  testdirectory
+```
+
+If we want to search for all those lines which do not match the word then use `-v` flag - `grep -v myWord *.log`
+
+```shell
+➜  testdirectory grep test testnextfile3.txt
+This is a test line with word - TEST
+This is another test with word - TEST
+➜  testdirectory grep -v test testnextfile3.txt
+This is a line without the key word
+➜  testdirectory
+```
+
+If we want to display only the file names which have the matching word/pattern then use `-l` flag - `grep -l myword *.log`. Similarly, in-order to list all the files which do not have the matching word/pattern then use `-L` - `grep -L myword *.log`
+```shell
+➜  testdirectory grep -l the test*
+testnextfile.txt
+testnextfile1.txt
+➜  testdirectory grep -L the test*
+testnextanotherdirectory.txt
+testnextfile2.txt
+➜  testdirectory
+```
+
+If we want to display the line number along with the line where the match was found use `-n` flag - `grep -n myword *.log`.
+
+```shell
+➜  testdirectory grep -n the test*
+testnextfile.txt:5:I strive to offer accurate and insightful answers tailored to the needs of each user.
+testnextfile1.txt:3:With a population of over 1.3 billion people, India is the second most populous country in the world.
+testnextfile1.txt:5:India is famous for its historical landmarks like the Taj Mahal and vibrant festivals like Diwali and Holi.
+testnextfile1.txt:9:India's economy is one of the fastest-growing in the world, with sectors like IT, agriculture, and pharmaceuticals playing a crucial role.
+```
+
+To print the name of the file along with the matched lines, use flag `-H` - `grep -H myword *.log`
+
+If we want to stop the search after max number of matched lines, use flag `-m` - `grep -m 2 myword *.log`
+```shell
+➜  testdirectory grep the test*
+testnextfile.txt:I strive to offer accurate and insightful answers tailored to the needs of each user.
+testnextfile1.txt:With a population of over 1.3 billion people, India is the second most populous country in the world.
+testnextfile1.txt:India is famous for its historical landmarks like the Taj Mahal and vibrant festivals like Diwali and Holi.
+testnextfile1.txt:India's economy is one of the fastest-growing in the world, with sectors like IT, agriculture, and pharmaceuticals playing a crucial role.
+
+➜  testdirectory grep -m 2 the test*
+testnextfile.txt:I strive to offer accurate and insightful answers tailored to the needs of each user.
+testnextfile1.txt:With a population of over 1.3 billion people, India is the second most populous country in the world.
+testnextfile1.txt:India is famous for its historical landmarks like the Taj Mahal and vibrant festivals like Diwali and Holi.
+```
+
+To get only the count of the matched lines use flag `-c` - `grep -c myword *.log`
+
+```shell
+➜  testdirectory grep -c the test*
+testnextanotherdirectory.txt:0
+testnextfile.txt:1
+testnextfile1.txt:3
+testnextfile2.txt:0
+```
+
+When you use regular expression to provide target files, the list of files might include the folder as well , grep will not work for directories and it will throw an error. Sometimes it cannot search a file due to permissions issue. In such cases it will print an error message. When searching large number of files, you would like to suppress these error/warnings. Use `-s` flag - `grep -s myword *est`
+
+```shell
+➜  dir1 grep "123-1234-1234" test*
+testanotherfile.txt:123-1234-1234 this is a test.
+grep: testdirectory: Is a directory
+testfile.txt:My capabilities include language translation, information 123-1234-1234 retrieval, and problem-solving.
+testfile1.txt:The country has made significant advancements in technology, 123-1234-1234 space exploration, and various industries.
+
+➜  dir1 grep -s  "123-1234-1234" test*
+testanotherfile.txt:123-1234-1234 this is a test.
+testfile.txt:My capabilities include language translation, information 123-1234-1234 retrieval, and problem-solving.
+testfile1.txt:The country has made significant advancements in technology, 123-1234-1234 space exploration, and various industries.
+```
+
+Grep do not search if the target location is a folder. If we want to search in all the files under that directory then use `-r` flag. Example `grep -r myword targetdirectory`
+
+```shell
+➜  dir1 grep "123-1234-1234" test*
+testanotherfile.txt:123-1234-1234 this is a test.
+grep: testdirectory: Is a directory
+testfile.txt:My capabilities include language translation, information 123-1234-1234 retrieval, and problem-solving.
+testfile1.txt:The country has made significant advancements in technology, 123-1234-1234 space exploration, and various industries.
+
+➜  dir1 grep -r  "123-1234-1234" test*
+testanotherfile.txt:123-1234-1234 this is a test.
+testdirectory/testnextfile.txt:My capabilities include language translation, information 123-1234-1234 retrieval, and problem-solving.
+testdirectory/testnextfile1.txt:The country has made significant advancements in technology, 123-1234-1234 space exploration, and various industries.
+testdirectory/testnextanotherdirectory.txt:123-1234-1234 this is a test.
+testfile.txt:My capabilities include language translation, information 123-1234-1234 retrieval, and problem-solving.
+testfile1.txt:The country has made significant advancements in technology, 123-1234-1234 space exploration, and various industries.
+```
+
+Sometimes we would like to get the context around the matched line. We would like to display along with the matched line few lines before that matched line. In such cases use `-B` - `grep -B 2 myword myfile` . Similarly, sometimes we would like to see few lines after the matched line. In such cases use `-A` example - `grep -A 2 myword myfile`.
+
+```Shell
+➜  testdirectory grep Hindi testnextfile1.txt
+The country's official language is Hindi, but it has 22 recognized languages.
+➜  testdirectory grep -B 2 Hindi testnextfile1.txt
+It shares borders with Pakistan, China, Nepal, Bhutan, Bangladesh, and Myanmar.
+With a population of over 1.3 billion people, India is the second most populous country in the world.
+The country's official language is Hindi, but it has 22 recognized languages.
+➜  testdirectory grep -A 2 Hindi testnextfile1.txt
+The country's official language is Hindi, but it has 22 recognized languages.
+India is famous for its historical landmarks like the Taj Mahal and vibrant festivals like Diwali and Holi.
+It is a secular republic with a parliamentary system of government.
+➜  testdirectory
+```
+
+
+To specify the to be matched word, we can specify regular expressions. To use regular expression for matching word, use flag `-e`. Example to match all the 3 letter words which are ending with letter t 
+
+```Shell
+➜  testdirectory grep -e "[a-z][a-z]t" testnextfile4.txt
+This is cat
+there is mat
+then there is hat
+why not pot
+why not ant
+hey there is bat
+oh there is dot
+➜  testdirectory
+```
+
+If we just want to list the matched word instead of complete line use `-o` flag - 
+
+```Shell
+➜  testdirectory grep -oe "[a-z][a-z]t" testnextfile4.txt
+cat
+mat
+hat
+not
+pot
+not
+ant
+bat
+dot
+➜  testdirectory
+```
+
+Some of the special characters honoured in the regular expressions are - 
+
+- `*` - it can match any character  0 or more times
+- `+` - any character but atleast 1 occurrence should be there. 
+- `.` - any single character
+- `?` - 0 or 1 occurrence of any character
+- `^` - search the preceding characters at the beginning of the line
+- `$` - search the preceding characters at the end of the line
+- `[]` - Used to specify a group of possible character for a single position. Example - `[A-Z]`, `[0-9]`, `[a-z0-9]`, `[amn]`. If used with `^` it can be treated as negation - `[^mto]` excluding m,t,o rest of the characters is okay
+- `|` - to chose either one of the patter. Example - `ABC|XYZ` - either `ABC` or `XYZ` are matched.
+- `{}` - to match preceding elements based on the number of occurrence.
+	- `{n}` - if it occurs exactly n times
+	- `{n,m}` - if it occurs atleast n times but not more than m times
+	- `{n,}` - if it occurs atleast n times.
+	- `{,m}` - if it occurs not more than m times
