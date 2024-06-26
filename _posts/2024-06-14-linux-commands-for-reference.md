@@ -13,21 +13,23 @@ The two books that has helped in learning these commands apart from linux itself
 - [How Linux Works](https://www.amazon.com/How-Linux-Works-Brian-Ward/dp/1718500408)
 
 ## Table of Content
-- [To know which directory we are in](#to-know-which-directory-we-are-in)
-- [To go inside a directory](#to-go-inside-a-directory)
-- [To Print the contents of file to StdOut](#to-print-the-contents-of-file-to-stdout)
-- [To Print the details of the file and folder](#to-print-the-details-of-the-file-and-folder)
-- [To Copy Files and Folders](#to-copy-files-and-folders)
-- [To move files and folders](#to-move-files-and-folders)
-- [To create an empty file](#to-create-an-empty-file)
-- [To create a directory](#to-create-a-directory)
-- [To delete files and folders](#to-delete-files-and-folders)
-- [To_print_messages_to_stdout](#to-print-messages-to-stdout)
-- [To read a text file](#to-read-a-text-file)
-- [To search for text in files](#to-search-for-text-in-files)
+- [To know which directory we are in - pwd](#to-know-which-directory-we-are-in---pwd)
+- [To go inside a directory - cd](#to-go-inside-a-directory---cd)
+- [To Print the contents of file to stdout - cat](#to-print-the-contents-of-file-to-stdout---cat)
+- [To Print the details of the file and folder - ls](#to-print-the-details-of-the-file-and-folder---ls)
+- [To Copy Files and Folders - cp](#to-copy-files-and-folders---cp)
+- [To move files and folders - mv](#to-move-files-and-folders---mv)
+- [To create an empty file - touch](#to-create-an-empty-file---touch)
+- [To create a directory - mkdir](#to-create-a-directory---mkdir)
+- [To delete files and folders - rm](#to-delete-files-and-folders---rm)
+- [To print messages to stdout - echo](#to-print-messages-to-stdout---echo)
+- [To read a text file - less](#to-read-a-text-file---less)
+- [To search for text in files - grep](#to-search-for-text-in-files---grep)
+- [To know the difference between files - diff](#to-know the difference-between-files---diff)
+- [To find a file - find](#to-find-a-file---find)
 
 
-### [To know which directory we are in](to-know-which-directory-we-are-in)
+### [To know which directory we are in - pwd](to-know-which-directory-we-are-in---pwd)
 
 `pwd` - To know current working directory
 
@@ -36,7 +38,7 @@ The two books that has helped in learning these commands apart from linux itself
 /home/harsha/workspace/ObsidianToGithubPages
 ```
 
-### To go inside a directory
+### [To go inside a directory - cd](to-go-inside-a-directory---cd)
 `cd` - Usually when you log in, you will be in the home directory. From there you can use `cd` i.e. change directory to go to different directory
 
 ```shell
@@ -52,7 +54,7 @@ There are special characters which are shorthand to indicate a directory
 - To go to home directory - `cd ~` or `cd` or `cd ~harsha`
 
 
-### To Print the contents of file to StdOut
+### [To Print the contents of file to stdout - cat](to-print-the-contents-of-file-to-stdout---cat)
 `cat file1` - This is used to print the contents of file to stdout. It is actually used to concatenate 2 or more files. Example `cat file1, file2, file3`
 
 ```shell
@@ -69,7 +71,7 @@ new file
 this is atest
 ```
 
-### To Print the details of the file and folder
+### [To Print the details of the file and folder - ls](to-print-the-details-of-the-file-and-folder---ls)
 
 `ls` is the command to list the details of a file or a folder
 
@@ -113,7 +115,7 @@ drwxrwxr-x  8 harsha harsha 4.0K Feb 11 10:06 .git
 -rwxrwxr-x  1 harsha harsha 2.7K Feb 11 10:02 obsidian_to_githubpages.py
 ```
 
-### To Copy Files and Folders
+### [To Copy Files and Folders - cp](to-copy-files-and-folders---cp)
 To copy file1 to file2 use `cp file1 file2`
 
 ```shell
@@ -169,7 +171,7 @@ testcopiedfile.txt  testfile.txt  testfiledir
 ➜  Playground
 ```
 
-### To move files and folders
+### [To move files and folders - mv](to-move-files-and-folders---mv)
 Instead of copy, we need to move the file from one location to another, we can use `mv`  command. Example `mv file1 file2`. In its simple term it is renaming the file1 to file2
 
 ```shell
@@ -212,7 +214,7 @@ testfile1.txt  testfile2.txt
 ➜  dir1
 ```
 
-### To create an empty file
+### [To create an empty file - touch](to-create-an-empty-file---touch)
 We can use `touch` to create an empty file. If the file already exists, it will just update the last modification time of the file.
 
 ```shell
@@ -239,7 +241,7 @@ drwxrwxr-x 3 harsha harsha 4.0K Jun 18 17:56 ..
 ➜  testdirectory
 ```
 
-### To create a directory
+### [To create a directory - mkdir](to-create-a-directory---mkdir)
 
 use `mkdir` to create the directory
 
@@ -254,7 +256,7 @@ drwxrwxr-x 2 harsha harsha 4.0K Jun 18 20:17 testdirectory
 ➜  dir1
 ```
 
-### To delete files and folders
+### [To delete files and folders - rm](to-delete-files-and-folders---rm)
 To delete files use `rm` command. Example `rm file1 file2 file3`
 
 ```shell
@@ -303,7 +305,7 @@ testdirectory
 ➜  anothertestdir
 ```
 
-### To_print_messages_to_stdout
+### [To print messages to stdout - echo](to-print-messages-to-stdout---echo)
 To print messages to the screen use `echo`
 
 ```shell
@@ -314,10 +316,10 @@ How are you
 ➜  dir1
 ```
 
-### To read a text file
+### [To read a text file - less](to-read-a-test-file---less)
 Use `less` to read the files in the form of pages -  `less file.log`.  Use `spacebar`/`f` to move to next page in forward direction. Use `b` to go to page backwards. In order to search a text in the following pages use `/word`. In order to search a text in the previous pages use `?word`. Once searched use `n` to search next occurrence in forward direction and use `N` to search occurrence in the reverse direction.  To go to the starting point of file use `g`. Similarly to go to the last line use `G`.  Use `F` to tail the file, as the input comes, it will show the input and scroll to next line. Use `&word` to display only those lines which match a pattern. If you are reading a code file which uses brackets like `{}`, `()`, `[]` then you can type `{`, `}`, `(`, `)`, `[`, `]` to find the corresponding opening or closing brackets - make sure those opening brackets are the first line in the screen.
 
-### [To search for text in files](to-search-for-text-in-files)
+### [To search for text in files - grep](to-search-for-text-in-files---grep)
 
 `grep` is the tool to search for text in files. 
 
@@ -490,3 +492,77 @@ Some of the special characters honoured in the regular expressions are -
 	- `{n,m}` - if it occurs atleast n times but not more than m times
 	- `{n,}` - if it occurs atleast n times.
 	- `{,m}` - if it occurs not more than m times
+
+### [To know the difference between files - diff](to-know the difference-between-files---diff)
+If we have 2 text files and want to compare then & find differences in them use `diff` - Example `diff file1 file2`
+
+```shell
+➜  dir1 diff tempfile1.txt tempfile2.txt
+1,2c1,2
+< This is a text in tempfile1
+< This is an unique line in tempfile1
+---
+> This is a text in tempfile2
+> Here is something very different in tempfile2
+➜  dir1
+
+➜  dir1 cp tempfile1.txt tempfile3.txt
+➜  dir1 diff tempfile1.txt tempfile3.txt
+➜  dir1
+```
+
+For a better format use `-u` - `diff -u file1 file2`
+```shell
+➜  dir1 diff -u tempfile1.txt tempfile2.txt
+--- tempfile1.txt       2024-06-24 22:46:17.259536361 -0700
++++ tempfile2.txt       2024-06-24 22:47:10.270392162 -0700
+@@ -1,3 +1,3 @@
+-This is a text in tempfile1
+-This is an unique line in tempfile1
++This is a text in tempfile2
++Here is something very different in tempfile2
+ This is a common line
+➜  dir1
+```
+
+### [To find a file - find](to-find-a-file---find)
+Sometimes we do not know the location of the file. We can use `find` to locate that file in the given directory tree - `find dir -name file -print`
+
+```shell
+➜  ~ ls ~/workspace/Playground/dir1/testdirectory
+tempfile3.txt  testnextanotherdirectory.txt  testnextfile1.txt  testnextfile3.txt
+tempfile4.txt  testnextfile.txt              testnextfile2.txt  testnextfile4.txt
+➜  ~ find workspace -name tempfile4.txt -print
+workspace/Playground/dir1/testdirectory/tempfile4.txt
+➜  ~
+➜  ~ find workspace -name tempfile3.txt -print
+workspace/Playground/dir1/testdirectory/tempfile3.txt
+workspace/Playground/dir1/tempfile3.txt
+➜  ~
+```
+
+`find` can do multiple things on finding the file like print contents or exec. Example to know all the files and folder in a folder we can use `find directorypath` 
+
+```shell
+➜  ~ find ~ | wc -l
+731986
+➜  ~
+```
+
+We can use `-type` argument to restrict the search to particular type of file - file, directory, symbolic link
+
+```shell
+➜  ~ find workspace -name commonfilefolder -print
+workspace/Playground/dir2/testfiledir/commonfilefolder
+workspace/Playground/dir2/commonfilefolder
+➜  ~ find workspace -type d -name commonfilefolder -print
+workspace/Playground/dir2/testfiledir/commonfilefolder
+➜  ~ find workspace -type f -name commonfilefolder -print
+workspace/Playground/dir2/commonfilefolder
+➜  ~
+```
+
+We can also use `size` attribute to search files based on file size (to be continued)
+
+### Still To Come
+- wc, head, tail, uniq, sort, ln, ps, kill, chown, chsh, sudo, chgrp, chmod, su, ping, ip, ssh, scp, traceroute, netstat,curl, wget, tar, zip, gzip, bzip2
