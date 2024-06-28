@@ -525,6 +525,38 @@ For a better format use `-u` - `diff -u file1 file2`
 ➜  dir1
 ```
 
+
+### [To count the number of lines or words or characters - wc](to-count-the-number-of-lines-or-words-or-characters---wc)
+Sometimes we would like to get the count of lines or words in a given text file. We can use `wc` example - `wc file.txt`
+
+```shell
+➜  harsha-kadekar.github.io git:(master) wc /etc/passwd
+  58  112 3578 /etc/passwd
+```
+
+To just know the number of lines use `-l` flag
+
+```shell
+➜  harsha-kadekar.github.io git:(master) wc -l /etc/passwd
+58 /etc/passwd
+```
+
+To just know the number of words use `-w` flag
+
+```shell
+➜  harsha-kadekar.github.io git:(master) wc -w /etc/passwd
+112 /etc/passwd
+```
+
+To just know the number of bytes use `-c` flag
+
+```shell
+➜  harsha-kadekar.github.io git:(master) wc -c /etc/passwd
+3578 /etc/passwd
+```
+
+
+### [To filter our duplicate lines and get only unique entries - uniq]()
 ### [To find a file - find](to-find-a-file---find)
 Sometimes we do not know the location of the file. We can use `find` to locate that file in the given directory tree - `find dir -name file -print`
 
@@ -565,4 +597,4 @@ workspace/Playground/dir2/commonfilefolder
 We can also use `size` attribute to search files based on file size (to be continued)
 
 ### Still To Come
-- wc, head, tail, uniq, sort, ln, ps, kill, chown, chsh, sudo, chgrp, chmod, su, ping, ip, ssh, scp, traceroute, netstat,curl, wget, tar, zip, gzip, bzip2
+- head, tail, uniq, sort, ln, ps, kill, chown, chsh, sudo, chgrp, chmod, su, ping, ip, ssh, scp, traceroute, netstat,curl, wget, tar, zip, gzip, bzip2
