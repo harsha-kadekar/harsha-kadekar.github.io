@@ -3,7 +3,7 @@ category: Technical
 date: 2024-06-14
 layout: post
 title: Linux commands for Reference
-updated: 2024-06-22
+updated: 2024-07-05
 ---
 
 In this post, I want to capture the most used linux commands by me as well as some rare ones I did use, so that I can refer these commands whenever I need it.
@@ -26,6 +26,8 @@ The two books that has helped in learning these commands apart from linux itself
 - [To read a text file - less](#to-read-a-text-file---less)
 - [To search for text in files - grep](#to-search-for-text-in-files---grep)
 - [To know the difference between files - diff](#to-know the difference-between-files---diff)
+- [To sort out a given list of string or numbers - sort](#to-sort-out-a-given-list-of-strings-or-numbers---sort)
+- [To filter out duplicate lines and get only unique entries - uniq](#to-filter-out-duplicate-lines-and-get-only-unique-entries---uniq)
 - [To find a file - find](#to-find-a-file---find)
 
 
@@ -556,7 +558,146 @@ To just know the number of bytes use `-c` flag
 ```
 
 
-### [To filter our duplicate lines and get only unique entries - uniq]()
+### [To sort out a given list of string or numbers - sort](to-sort-out-a-given-list-of-strings-or-numbers---sort)
+
+If we have a list of words in a file and we want to sort them out, we can use `sort` command - `sort myfile`
+```shell
+➜  dir1 cat samplefile.txt
+cat
+bat
+mat
+pet
+bat
+eat
+cat
+top
+bat
+and
+dot
+➜  dir1 sort samplefile.txt
+and
+bat
+bat
+bat
+cat
+cat
+dot
+eat
+mat
+pet
+top
+```
+
+If we want to sort in the descending order, we can use `-r` flag.
+
+```shell
+➜  dir1 sort -r samplefile.txt
+top
+pet
+mat
+eat
+dot
+cat
+cat
+bat
+bat
+bat
+and
+➜  dir1
+```
+
+This uses alphabetic order for sorting. If we have a list of numbers, we might want to sort them as numbers, instead of alphabetic order. We need to use `-n`
+
+```shell
+➜  dir1 cat samplefileNumber.txt
+1
+56
+5
+7
+20
+3
+7
+89
+0
+5
+2
+44
+6
+18
+➜  dir1 sort -n samplefileNumber.txt
+0
+1
+2
+3
+5
+5
+6
+7
+7
+18
+20
+44
+56
+89
+➜  dir1
+```
+### [To filter out duplicate lines and get only unique entries - uniq](to-filter-out-duplicate-lines-and-get-only-unique-entries---uniq)
+In the sorted list, we want to use only the unique elements, in such a case, we can use `uniq` command on the `sort` output.
+
+```shell
+➜  dir1 sort samplefile.txt
+and
+bat
+bat
+bat
+cat
+cat
+dot
+eat
+mat
+pet
+top
+➜  dir1 sort samplefile.txt | uniq
+and
+bat
+cat
+dot
+eat
+mat
+pet
+top
+```
+
+If we want to know the number of occurrence of the words then use `-c` flag
+```shell
+➜  dir1 sort samplefile.txt | uniq -c
+      1 and
+      3 bat
+      2 cat
+      1 dot
+      1 eat
+      1 mat
+      1 pet
+      1 top
+```
+
+If we want to only display the repeated words then we can use `-d` flag
+```shell
+➜  dir1 sort samplefile.txt | uniq -d
+bat
+cat
+```
+The opposite case of display only those which are unique and not repeated, can be achieved via `-u` flag
+
+```shell
+➜  dir1 sort samplefile.txt | uniq -u
+and
+dot
+eat
+mat
+pet
+top
+```
 ### [To find a file - find](to-find-a-file---find)
 Sometimes we do not know the location of the file. We can use `find` to locate that file in the given directory tree - `find dir -name file -print`
 
@@ -594,7 +735,28 @@ workspace/Playground/dir2/commonfilefolder
 ➜  ~
 ```
 
-We can also use `size` attribute to search files based on file size (to be continued)
+We can also use `size` attribute to search files based on file size.
+
+```shell
+➜  ~ find Downloads -type f -size +100M | wc -l
+49
+➜  ~ find Downloads -type f -size +200M | wc -l
+38
+```
+
+We also have following useful parameter
+- `-empty` - match only empty files and directories
+- `-name pattern` - match files and directory with specified pattern
+- `-user name` - match files and directories belonging the given user
+- `-newer file` - match only files which are newer that the given file
+
+Once we find the files, we can ask find to act on it like - 
+- `-delete` - this will delete the matching files
+- `quit` - quit find immediately after first match
+- `-ls` - do a `ls` on the found file/folder
+
+We can use `-exec command '{}' ';'`  to execute custom commands on the matched files/folders. Example `find ~ -type f -name 'testfile*' ls -l '{}' ';' `. We can make the command interactive with `-ok` attribute - `find ~ -type f -name 'testfile*' -ok ls -l '{}' ';'`
+
 
 ### Still To Come
-- head, tail, uniq, sort, ln, ps, kill, chown, chsh, sudo, chgrp, chmod, su, ping, ip, ssh, scp, traceroute, netstat,curl, wget, tar, zip, gzip, bzip2
+- head, tail, ln, ps, kill, chown, chsh, sudo, chgrp, chmod, su, ping, ip, ssh, scp, traceroute, netstat,curl, wget, tar, zip, gzip, bzip2
