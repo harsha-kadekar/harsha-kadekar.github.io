@@ -1,0 +1,74 @@
+---
+category: Book-Summary
+date: 2023-07-30
+layout: post
+title: Book-Summary - The Willpower Instinct
+updated: 2024-07-05
+---
+
+- Author: **Kelly McGonigal**
+- GoodReads: [The Willpower Instinct - How Self-Control Works, Why It  Matters, and What you can do to get more of it](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
+- Willpower has 3 aspects  
+	- I will - things I want to do more of  
+	- I won't - things I want to do less of  
+	- I want - things I want to achieve in long term  
+- Always there is a fight between exerting willpower and not exerting willpower. As there are lots of choices for every action
+- Self awareness is key for will power improvement. Understand when you are making choice, when you exerting will power or under mining it, what will be path after you exert or undermine will power  
+- Two ways to improve willpower  
+	- Have small tests/challenges for I will and I won't will power. So constantly you are training your brain 
+	- Regular Meditation. Even small periods of regular meditation will improve tremendously  
+- When you find your self that you are wasting time or getting distracted then do a quick pranayama or meditation to bring the focus back.  
+- Meditation is not about emptying thoughts/getting rid of thoughts rather it's about observing that vast thoughts and not getting lost in them. Not to get lost in them that you forget your goal. Practice coming back to breath again and again
+- When you don't know why you are doing certain things against your will, then just observe who is moving things in your inner mind. What thoughts are running, which one is frightening you or which one is making you more happy  
+- The decision to have self control will trigger us to reduce ಆಸೆ (desire) 
+- So when I start solving all the customer question tickets instead of actual important work, I am exhibiting fight or flight instance. As I am overwhelmed by the important work I have to do instead I am taking a flight towards tickets which is my area.
+- Stress and will power are inversely proportional
+- Stress concentrates on short term/immediate goals/outcomes whereas self control concentrates on long term goals
+- Stress helps fight/flight where as self control helps pause and plan
+- When you overuse your willpower then you will get drained and easily given to temptation. Do not try to change everything at the same time. Slowly build from small things
+- Every-time we fight our impulse, weigh out options, do a task we do not want to or do not align to our values, filter out distractions, try to fit it - all these drain will power.
+- Identify in our typical day, when we will have the highest will power and when the lowest. How does the will power vary through out the day. Based on that plan your schedule
+- `I will` challenges should be the first thing to do or schedule at the starting time when you have most strength
+- Ekadashi upavasa is kind of training brain to not resort to fight/flight or loose self control or stop reducing energy expense just because body is showing signs of low blood sugar levels. This increasing will power eventually.  
+	- But during initial stages of upavasa, we are spending way too much will power to handle upavasa. So, it happens that, other places our will power will be less example more Twitter or eating more food after upavasa
+- When you are trying to make a big change or transform an old habit, look for a small way to practice self control that strengthens your will power but does not overwhelm it completely  
+- The self control limits we observe is usually based on our belief of our capabilities rather than actual limits on mental or physical energies
+	- When your mind says you have done too much then it's usually cautious, we would still have more energy to continue. But we are always drained then need to cut back or rest
+- When we have opposing desires, then being good will make you to believe that we have permission to do little bad. Example when you think I did great in work or worked hard today at work, automatically it will make you to procrastinate little tomorrow - moral license
+	- Its like I am so good at being these x,y,z. So people should forgive me for being bad at a,b,c. This is an entitlement  
+- We are most motivated by what we want and avoiding what we don't want. Moralising a behaviour will make us more doubtful about the behaviour rather than motivated to do it.
+- Always remember why you did that activity instead of what you did.  
+- When you use past good behaviour to justify or give an ego boost or moral license remember why you did that. That will stop you from doing bad behaviour.
+- Mind sometimes gets excited about the opportunity to do the task that it mistakes opportunity with actually satisfied of done it and starts concentrate on immediate pleasure activities.
+- Tomorrow optimism - it is okay to indulge or break your self control now as tomorrow I will get back to the routine.
+	- We see tomorrow as the ideal world. When predicting how I will do a task in tomorrow we give the best ideal estimates. Even though in reality as of today we have not done well, we think tomorrow it will be different  
+		- One way to fix this is try reducing the variability of the behaviour. Instead of thinking I can do this tomorrow instead think can I afford to not do it today
+- Feeling good usually replaces common sense. We always try to find a good justification for our bad actions to feel better. This will make us do bad things more.   
+- We usually feel internally we want to do that bad thing or our self is actually bad. Hence we are okay to pay that extra price or penalty as a penance and then go back to bad way.  
+- When we are postponing a task for long, try to provide some dopamine to it. Like attach a reward to it or imagine what it will be when you complete this task   
+	- When dopamine releases it is making us to perceive the path of happiness. We confuse it for happiness itself. Because it is asking us to perceive it and we are confusing it as happiness, anxiety builds up for when we will actually get happiness. This puts pressure.  
+	- Observe when you think this is making you happy. Is it really happiness or did we got confused with dopamine perceiving for happiness. When we observe, it will wear off false happiness  
+	- When you are indulging in dopamine inducing activity, force your mind to think what is the expectation from the activity. This will wear off the effect
+- Self criticism will make us repeat the mistake again and not learn from mistakes. Self criticism will make the risk analysis and retrospective even more painful so we never introspect on our failures. Forgiveness for failure is a better way to handle failure. This would help to retrospect and learn.  
+	- During the childhood our self control system is not fully developed and hence it becomes necessary for the parents to be critical or force things to control or do it. But as we grow, our self control mechanism grows. So, parents also need to update as they see their kid grow. For kids grown, they think criticism and self criticism works because they were taught via punishment and criticism  
+		- For any failure, to avoid the guilt trip and increase personal accountability, do the following  
+			- What did you feel? - at the time of failure and immediately after how did you feel mind wise as well as body wise. 
+			- Comfort yourself - after all you are human. Everyone looses self control 
+			- What do you say to a friend who is in the same boat?  
+- We realise that we are failing or doing something wrong for long, then we finally make a decision that we need to change. Then, we imagine how nice it would have if we had implemented that decision and what our state would be when we accomplish that decision. So, mind is laying a trap to experience that good and escape from the failure. When we actually start implementing that decision or working towards that goal we would experience the failure and get overwhelmed and abandon it. Whenever we make a decision or decide a goal, think on failures as well to understand what type of failures you will encounter and how to mitigate them  
+- Bounded rationality - you are very logical or rational about handling a situation in theory but when actually faced with the situation we forget the logic/rationality
+- Delay Discounting - something which is reasonably rewarding as of now becomes less preferable when a delay is introduced 
+	- 10 minute rule - delay it for 10 minutes or do it for  10 mins for avoiding immediate gratification  
+- When choosing between a short term immediate reward vs long term reward, think from long term view. Imagine you already have the long term, then imagine what you will loose by going with short term option to understand the loss  
+- Treat your tempted self as a separate person and make it hard for tempted self to achieve things. Think what your tempted self will do to achieve it's objectives and add obstacles to them. Burn all the temptations by taking strict action so that tempted self do not dare to bring that out next time.  
+- Can you assign a manager to achieve your long term goals - wife or friend who can intervene when you are tempted to do something  
+- We always feel our future self is completely different person, something like a God who can do things differently and in a correct way. Actually, we should realise that our future self is nothing but our current self who would have same type of thoughts and similar type of distractions  
+- Will power failures are contagious. In our social group one is failing on any aspect, the others will also start failing slowly. We tend to go towards the mean of the group. For many people it is the reason why every one does it so we should also do it. Shaming can be a deterrent for anticipatory indulgence but once done is done shame will shatter your will power and we will give in. Even willpower success is contagious. Many a times we give in because we are in front of the social group. In the background we always think, what does the others think. Have a social circle that share your goals and ideals. We always tend to mimic or follow someone. Example, husband and wife - they unknowingly follow each other. When either of them starts slacking other will also slack. Early mornings of every day, spend time in thinking on your goals and how it might fail or pass. That will keep us on hook. When little extra will power is needed then bring a role model into your mind and think how would they do that goal. Make partners with whom you can discuss about will power challenges, goals and time to time let them check in on your goals. Also imagine when you succeed on your goals and how everyone will appreciate - this might also help in maintain the goals of will power  
+- In films an event which should have been applicable for specific cases are made generalised to be applicable for everyone. Following the films are disastrous as a result  
+- When you make a restriction on anything, there is a danger of rebound. When we add a restriction, mind creates a monitor which will be always be looking or thinking about it so that it can alert us. But if do not have a control we will be engulfed in that monitors thought.
+	- What could you do instead of the `I won't` behaviour that might satisfy the same needs? Example coffee with tea  
+	- If you weren't doing the bad habit, what might you be doing instead? Example spending time on Twitter instead learning about new technology/working on a personal project  
+	- Redefine the `I won't` challenge so that it becomes an `I will` challenge. Example `I won't be late to meeting` with `I will be the first to meetings`  
+- Instead using probation or banning to handle `I won't` cases rather observe the bad thought or feeling and then concentrate on the breathing - surf the feeling.  
+- Avoid these 3 - Temptation, self criticism, stress  by replacing them with Self awareness, self care and remembering what matters most
