@@ -29,8 +29,14 @@ The two books that has helped in learning these commands apart from linux itself
 - [To sort out a given list of string or numbers - sort](#to-sort-out-a-given-list-of-strings-or-numbers---sort)
 - [To filter out duplicate lines and get only unique entries - uniq](#to-filter-out-duplicate-lines-and-get-only-unique-entries---uniq)
 - [To find a file - find](#to-find-a-file---find)
+- [To view last few lines of the file or follow the log in live - tail](#to-view-last-few-lines-of-the-file-or-follow-the-log-in-live---tail)
+- [To view first few lines of the file - head](#to-view-first-few-lines-of-the-file---head)
+- [To extract section of text from the line - cut](#to-extract-section-of-text-from-the-line---cut)
+- [To list process that are running - ps](#to-list-process-that-are-running---ps)
+- [To view the system stats and list of processes in real time - top](#to-view-the-system-stats-and-list-of-processes-in-real-time---top)
+- [To kill a process that is running - kill](#to-kill-a-process-that-is-running---kill)
 
-
+## Commands
 ### [To know which directory we are in - pwd](to-know-which-directory-we-are-in---pwd)
 
 `pwd` - To know current working directory
@@ -757,6 +763,197 @@ Once we find the files, we can ask find to act on it like -
 
 We can use `-exec command '{}' ';'`  to execute custom commands on the matched files/folders. Example `find ~ -type f -name 'testfile*' ls -l '{}' ';' `. We can make the command interactive with `-ok` attribute - `find ~ -type f -name 'testfile*' -ok ls -l '{}' ';'`
 
+### [To view last few lines of the file or follow the log in live - tail](to-view-last-few-lines-of-the-file-or-follow-the-log-in-live---tail)
+`tail` can be used to view the last 10 lines of the file `tail myfile`. We can modify the number of lines to display with `-n` flag.
+
+```shell
+➜  dir1 cat tempfile1.txt
+This is a text in tempfile1
+This is an unique line in tempfile1
+This is a common line
+➜  dir1 tail -n 2 tempfile1.txt
+This is an unique line in tempfile1
+This is a common line
+➜  dir1
+```
+
+Sometimes we would want to view the content of the file live as in as it gets added by another process, we need to use `-f` flag. It will keep following the file until `Ctrl+C` is pressed.
+
+```shell
+➜  dir1 tail -f tempfile1.txt
+```
+
+### [To view first few lines of the file - head](to-view-first-few-lines-of-the-file---head)
+Similar to `tail` command, this command helps to view the first few lines of the file. By default it will show first 10 lines. With `-n` flag, we can control the number of lines we want to display.
+
+```Shell
+➜  dir1 cat tempfile1.txt
+This is a text in tempfile1
+This is an unique line in tempfile1
+This is a common line
+this is a new line added in live
+➜  dir1 head -n 2 tempfile1.txt
+This is a text in tempfile1
+This is an unique line in tempfile1
+➜  dir1
+```
+
+### [To extract section of text from the line - cut](to-extract-section-of-text-from-the-line---cut)
+We can use `cut` to extract particular fields or certain range of characters from the given line. To extract based on the field we can use flag `-f`. By default cut divides the line based on the `tab`/`space`. 
+
+```Shell
+➜  dir1 cat datafile.txt
+Harsha  ABC     2024-07-12      45red89
+Anu     MNO     2024-11-01      67sea90
+Smriti  JKL     2024-01-23      90blr45
+➜  dir1 cut -f 3 datafile.txt
+2024-07-12
+2024-11-01
+2024-01-23
+```
+
+If we want to use some other delimiter than `tab`/`space` then use `-d` flag with the delimiter mentioned. 
+
+```Shell
+➜  dir1 cut -f 3 datafile.txt | cut -d '-' -f 2
+07
+11
+01
+```
+
+If we want to cut specific position of characters, we can use `-c` flag
+
+```Shell
+➜  dir1 cut -f 4 datafile.txt | cut -c 3-5
+red
+sea
+blr
+```
+
+### [To list process that are running - ps](to-list-process-that-are-running---ps)
+
+`ps` command helps to list all processes which are running in the system. The default `ps` will only display the current process associated with the current terminal.
+```Shell
+➜  Playground ps
+    PID TTY          TIME CMD
+  36329 pts/3    00:00:00 zsh
+  36698 pts/3    00:00:00 ps
+➜  Playground
+```
+
+- `PID` is the process ID
+- `TTY` is the terminal id to which these processes are associated
+- `TIME` is the amount of time process spent in CPU
+- `CMD` is actual command that started this process
+
+In order to list all the process belonging the current user across all terminals, we need to use `x`. This will also give more details about the process
+
+```Shell
+➜  Playground ps x
+    PID TTY      STAT   TIME COMMAND
+   2290 ?        Ss     0:01 /lib/systemd/systemd --user
+   2291 ?        S      0:00 (sd-pam)
+   2297 ?        S<sl   0:00 /usr/bin/pipewire
+   2298 ?        Ssl    0:11 /usr/bin/pipewire-media-session
+   2299 ?        S<sl  14:24 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+   4692 ?        Sl     0:00 /opt/vivaldi/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/harsha/.config/vivaldi/Crash Reports --url=https://crash
+   4694 ?        Sl     0:00 /opt/vivaldi/chrome_crashpad_handler --no-periodic-tasks --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/home/harsha/.config/vivaldi/Crash Report
+   4700 ?        S      0:00 /opt/vivaldi/vivaldi-bin --type=zygote --no-zygote-sandbox --crashpad-handler-pid=4692 --enable-crash-reporter=,stable --change-stack-guard-on-fork=enable
+   4984 ?        Sl     0:01 update-notifier
+   6362 ?        Sl     1:00 /snap/obsidian/34/obsidian --no-sandbox
+   10790 ?        Z      0:00 [sd_espeak-ng-mb] <defunct>
+    36800 pts/3    R+     0:00 ps x
+```
+- If a `TTY` is `?` that means, no terminal is associated to the process. 
+- `STAT` - state of the process. Example `S` means process is sleeping and waiting for an interrupt to wake up. `R` means running. `Z` means a zombie process which is terminated and parent has not yet cleaned up. `<` means higher priority process and `L` means low priority process
+
+To get a detailed process across all terminals and users, we need to use `aux`
+
+```Shell
+➜  Playground ps aux
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0 167548 11956 ?        Ss   07:35   0:03 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    07:35   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   07:35   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   07:35   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   07:35   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   07:35   0:00 [netns]
+root        1202  0.0  0.0      0     0 ?        I<   07:35   0:00 [ext4-rsv-conver]
+systemd+    1241  0.1  0.0  14836  6784 ?        Ss   07:35   1:39 /lib/systemd/systemd-oomd
+systemd+    1242  0.0  0.0  26200 13932 ?        Ss   07:35   0:25 /lib/systemd/systemd-resolved
+syslog      1371  0.0  0.0 222456  5888 ?        Ssl  07:35   0:00 /usr/sbin/rsyslogd -n -iNONE
+lp          2255  0.0  0.0  16288  6528 ?        S    07:35   0:00 /usr/lib/cups/notifier/dbus dbus://
+harsha      2290  0.0  0.0  18560 11136 ?        Ss   07:35   0:01 /lib/systemd/systemd --user
+harsha      2291  0.0  0.0 105220  6576 ?        S    07:35   0:00 (sd-pam)
+harsha      2297  0.0  0.0  40696  6400 ?        S<sl 07:35   0:00 /usr/bin/pipewire
+harsha      2298  0.0  0.0  24332  6528 ?        Ssl  07:35   0:11 /usr/bin/pipewire-media-session
+harsha     33810  0.5  0.2 1374176 90444 ?       Rl   21:33   0:14 /snap/alacritty/130/bin/alacritty
+```
+- `USER` - this gives the user which owns/created this process
+- `%CPU` - Total percentage of CPU utilised by the process until now
+- `%MEM` - Total percentage of memory utilised by the process until now
+- `VSZ` - Total virtual size of the RAM utilised by the process
+- `RSS` - This is the physical RAM size utilised by the process
+- `START` - This is the time of the day when the process was started.
+
+### [To view the system stats and list of processes in real time - top](to-view-the-system-stats-and-list-of-processes-in-real-time---top)
+Unlike `ps`, top gives the real time view of all the process running with sorted based on the CPU utilisation. `top` refreshes every 3 seconds
+
+```Shell
+➜  ~ top
+
+top - 23:33:55 up 16:01,  1 user,  load average: 1.07, 0.74, 0.72
+Tasks: 383 total,   1 running, 381 sleeping,   0 stopped,   1 zombie
+%Cpu(s):  0.7 us,  0.4 sy,  0.0 ni, 98.2 id,  0.6 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  31945.3 total,  19023.3 free,   5263.4 used,   7658.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.  24934.8 avail Mem
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2540 harsha    20   0 5997132 354500 159296 S   5.3   1.1  36:31.31 gnome-shell
+  25449 harsha    20   0 1349972  88344  61508 S   1.3   0.3   0:00.74 alacritty
+   6201 harsha    20   0 1140.3g 367220 129584 S   1.0   1.1  10:00.25 obsidian
+  24538 harsha    20   0 1133.8g 332880 142924 S   1.0   1.0   1:25.30 vivaldi-bin
+   1270 root      20   0 2133856  35164  19584 S   0.7   0.1   0:15.26 snapd
+   4628 harsha    20   0   32.8g 533412 254964 S   0.7   1.6  11:26.93 vivaldi-bin
+   4682 harsha    20   0   32.4g 148796 106708 S   0.7   0.5   5:42.27 vivaldi-bin
+   6176 harsha    20   0   32.7g 145412  98048 S   0.7   0.4  11:15.50 obsidian
+   6818 harsha    20   0 9851.2m 315956 180404 S   0.7   1.0   8:44.26 spotify
+    678 root     -51   0       0      0      0 S   0.3   0.0   0:15.02 irq/144-iwlwifi:default_queue
+    869 root      20   0       0      0      0 S   0.3   0.0   5:22.79 nv_queue
+   2873 harsha    20   0  719316  68876  41968 S   0.3   0.2   0:47.72 ulauncher
+   2926 harsha    20   0  708212 111444  73856 S   0.3   0.3   8:24.45 Xwayland
+   3092 harsha    20   0   36.7g 136260 104176 S   0.3   0.4   1:54.10 breaktimer
+   4768 harsha    20   0 1132.0g 391660 137444 S   0.3   1.2   7:27.01 vivaldi-bin
+   4791 harsha    20   0 7967144 332528  49792 S   0.3   1.0   2:33.62 jetbrains-toolb
+   5908 harsha    20   0 1132.0g 261640 129736 S   0.3   0.8   6:40.10 vivaldi-bin
+   7033 harsha    20   0   50.3g 280020 107984 S   0.3   0.9  53:06.65 spotify
+  11532 harsha    20   0 1133.9g 358624 171444 S   0.3   1.1   5:40.96 vivaldi-bin
+  11570 harsha    20   0   32.4g 113316  59164 S   0.3   0.3   1:41.08 vivaldi-bin
+  24729 root      20   0       0      0      0 I   0.3   0.0   0:00.09 kworker/2:1-mm_percpu_wq
+  25619 harsha    20   0 1678412  74392  17184 S   0.3   0.2   0:00.90 zellij
+  25690 harsha    20   0   14600   4224   3200 R   0.3   0.0   0:00.70 top
+      1 root      20   0  168976  13436   8060 S   0.0   0.0   0:05.43 systemd
+```
+
+The top row is showing 
+- `23:33:55` - the current time of the day
+- `up 16:01` - System is up for 16 hours
+- `1 user` - 1 user is logged in
+- `load average: 1.07, 0.74, 0.72` - Number of processes waiting to run 5 second, 5 mins and 15 mins
+- `Tasks` - Number of processes and categorised based on the state of the process
+- `%Cpu(s)` - How the CPU is being used - `u` for user processes, `s` for system/kernel process, `ni` for nice/lower priority processes, `id` for idle, `wa` for waiting for IO, `hi` for managing hardware interrupts, `si` for managing software interrupts, `st` for getting hold of physical CPU/ time stolen by the hypervisor.
+- `MiB Mem` and `MiB Swap` - memory and swap usage information
+- `VIRT` is virtual memory, `RES` is the physical memory and `SHR` is shared memory
+### [To kill a process that is running - kill](to-kill-a-process-that-is-running---kill)
+
+Sometimes the process has reached a bad state or just in a zombie state without doing anything. In such cases, we can use `kill` to terminate the process. Example - `kill 1234` where `1234` was the process id. `kill` command performs this action by sending signals. It can send multiple types of signals.
+- `TERM` - `15` - Send terminate signal to the program.  This is the default signal of `kill` command. Usage `kill -TERM PID` or `kill -15 PID`
+- `INT` - `2` - Send interrupt signal to the program. `Ctrl - C` generates this signal. Usage `kill -INT PID` or `kill -2 PID`
+- `KILL` - `9` - Send this signal to kernel to kill a particular program. So, program will not receive this signal, hence not able to clean up properly. Use it rarely. Usage `kill -STOP PID` or `kill -9 PID`
+- `STOP` - `19` - Send this signal to kernel to stop a particular program without actually terminating it. Usage `kill -STOP PID` or `kill -19 PID`
+- `TSTP` - `20`  - Send this signal for a terminal linked process to stop without killing it. We can use `ctrl z` to achieve this as well. Usage `kill -TSTP PID` or `kill -20 PID`
+
+We can use `killall` command to kill all the processes matching a user or a program name. Usage `killall -u kadekar` or `killall vivaldi`
 
 ### Still To Come
-- head, tail, ln, ps, kill, chown, chsh, sudo, chgrp, chmod, su, ping, ip, ssh, scp, traceroute, netstat,curl, wget, tar, zip, gzip, bzip2
+- uname, ln, tr, chown, chsh, sudo, chgrp, chmod, su, ping, ip, ssh, scp, traceroute, netstat,curl, wget, tar, zip, gzip, bzip2

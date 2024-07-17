@@ -21,4 +21,6 @@ I use Linux terminal a lot. During the day to day usage of terminal, we have to 
 - `ctrl + u` -> to delete from cursor to the beginning of line (if you are using zsh then you need to add `bindkey \^U backward-kill-line` to `.zshrc` file)
 - `ctrl + y` -> to yank/paste the copied/cut contents at the cursor position
 - `ctrl + c` -> to stop the feed/kill the existing process
-- `ctrl + d` -> to exit the terminal
+- `ctrl + d` -> to exit the terminal/ end of file signal
+- `ctrl + l` -> to clear the screen or redraw the terminal window
+- `ctrl + r` -> to do a backward search of all the commands typed previously
