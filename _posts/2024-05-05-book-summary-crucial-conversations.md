@@ -1,0 +1,125 @@
+---
+category: Book-Summary
+date: 2024-05-05
+layout: post
+title: Book-Summary - Crucial Conversations - Tools for talking when stakes are high
+updated: 2024-07-22
+---
+
+- Author: **Kerry Patterson**, **Stephen R. Covey**, **Joseph Grenny**, **Ron McMillan**, **Al Switzler**
+- GoodReads: [Crucial Conversations - Tools for talking when stakes are high](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
+
+- When we have differing opinions, stakes are high and emotions are high - that's the usual setup to have a crucial conversation  
+- Any crucial conversation can be handled in 3 ways  
+	- Ignore (all ways the worst option)
+	- Handle them and make it worse
+	- Handle them and make it better (all ways the best option)
+- Crucial conversation usually starts as a casual conversation and then moves to crucial. So these are ad-hoc
+	- Moment when it reaches crucial that is when we realise. Once realised either we stop that conversation by being silent or changing topic or handle it way worse. Adrenaline would have kicked in, brain would have stopped thinking as it is diverting supplies to hand and leg, heart beating fast all preparing to run. Logical reasoning would have been stopped
+	- Lack of previous experience of this particular instance also makes mind go blank 
+- During crucial conversations we usually think we need to make a choice between telling the truth vs keeping friendship/ empathy / caring 
+	- Rather I should be just thinking about -  how can I be honest/truthful and yet I am respectful to the other person?  
+- When group of people enter a conversation, each will have different opinions and different experiences. Hence, it is important to setup a common shared memory where every member contribute to it. Decisions are made based out of that common memory   
+- When people are silent on a touchy subject then they are are committed to that decision  
+- When conversation is getting heated up or getting to crucial - take a deep breath and think what is the end goal of this conversation 
+	- In the mid of conversation which is based on the emotions, our mind will change the objective of the conversation to show them that you are correct, show them that they are wrong, make fun of something, etc.   
+	- Hence, ask these questions by taking deep breath 
+		- what do I want from this?
+		- what do others what from this?
+		- what do I want from this relationship?
+		- if I really wanted what is the best way I would do it? 
+	- By asking these broad questions you are also indicating to brain that this is not fight/flight scenario rather more of thinking and brain work
+- For a crucial conversation, we need to clarify ourselves both of the following points
+	- What we really want AND
+	- What we really do not want
+- During the conversation we need to look for both of the following points
+	- What content is being talked about?
+	- What is the condition?
+- In order to understand when the conversation is going wrong, we need to find these - 
+	- Moment conversation turned crucial
+	- Signs that people don't feel safe  - violence or silence
+	- Things that change in me when under stress
+	- You can identify if the conversation has become crucial by physical ques like breathing getting shallow, stomach or heart becoming tight. Or via emotions like feeling fear, sad, angry. Or seeing yourself from outside view like becoming quiet, making aggressive signs
+- People become defensive not because of what we say rather it is fear or condition of the discussion. When they are feeling humiliated or we have affected them, then either they will try to forcefully push their opinion or stay silent basically fight or flight.
+- When you sense that other side is feeling threatened, or they have silenced, or they are turning into violent which are not safe then actively try to make it safe. Fight the urge to fight or flight.
+- Silence comes in the form of
+	- Masking - sarcasm, sugar coating, coaching
+	- Avoiding or divert the topic to something else
+	- Withdrawing
+- Violence comes in the form of
+	- Controlling
+	- Labelling
+	- Attacking 
+- When you sense that there is no safety in the conversation then we need to bring the environment to mutual respect and mutual purpose
+	- Mutual purpose - other party believes that their goals are cared
+	- Mutual Respect - do other party believe you respect them
+- Following things help to get back to the safety
+	- Apologise - When someone felt that due to our actions they are hurt or felt let down, then apologise
+	- Contrast
+		- Address the issue of disrespect
+		- Express how much we admire/respect
+		- Remediate the issue
+	- Mutual purpose
+- Sometimes the other person will see as a negative what you see as a positive. So it seems there is no common ground.
+	- Always remember that there is a third way which is different than what you see. You might be thinking this is the only way and similarly even other person also thinks their is the only way. But, there is always a third way/middle way.
+	- We always concentrate on strategy instead of the purpose. Example you want to go to movie. That's just strategy for actually purpose was to have a relaxing time away from others. Concentrate on purpose, strategies can be changed.
+- To create mutual purpose
+	- Commit to seek mutual purpose
+	- Recognise the purpose behind the strategy
+	- Invent a mutual purpose
+	- Brainstorm new strategies
+- In most of the fights or crucial conversation, we become emotionally charged up. Emotions will be running the whole show and we are just following based on the emotions. We usually blame others for making us emotionally charged up. 
+	- It is actually we are the reasons why we ourselves get emotionally charged up. Not because due to someone spiked it by saying something but rather it's our own thoughts which is making us emotionally charged.
+	- Once we are emotionally charged, either we need to master/handle them or emotion will become master and take us for a ride.
+- When we see or hear something, unconsciously we do some steps.
+	- We try to understand what happened. In that process, we try to understand the motive of this action. We are usually guessing here.
+	- Once we guessed the motive, we pass a judgement saying was it good or bad/ right or wrong 
+	- So basically we are feeding a story to ourselves 
+	- See/Hear - Tell a story - feel - act
+- One of the way to take control of our story is retracing the path
+	- Analyse and see how we are behaving - silence or violence 
+	- What emotions are leading to this feeling
+	- What story have I created
+	- What were the actual facts i.e. what did we actually see or listen   
+- Usually we invent 3 types of stories to convince our behaviour
+	- Victim Stories
+	- Villain Stories
+	- Helpless Stories
+- We tell these clever stories when we did sellout. We committed to do something but failed to do, we wanted to apologise but didn't, we wanted to do something but couldn't, etc. To cover up/justify these, we invent clever  stories.
+- Ask these questions for better understanding the story
+	- Am I pretending that I did not contribute to the problem?
+	- Why would a reasonable and decent person do that?
+	- What do I really want? For me, for others, for the relationship
+	- What do I do right now if I really want it?
+- In order to say delicate things, we need to have following attributes
+	- Be confident - Once you know the reason why we are having this conversation and what is your intended purpose, confidence will build.
+	- Humility - express your opinion but also listen and allow others to express their's  
+	- Skill - express your thoughts in proper way
+- Start with sharing the facts. Then go to your story. Walk the other person of how did you came to that conclusion instead of just starting with accusations/ stories
+- Use tentative language when communicating your story. Just because you need to be soft doe not mean you need to water down your facts or story. Be confident as well when communicating
+- When we want to understand their point of view or listen to their end of story, we can try following
+	- Ask them what is causing this emotion or feeling to them
+	- Mirroring them - used when other side says they are okay but their behaviour or facial expression says otherwise. Then start with - you say you are fine but your expression says otherwise. Are you really fine?
+	- Paraphrase what they are saying/understanding to let them know what you are actually listening/understanding. Even after paraphrasing and mirroring they are not opening up then wait or back off. Do not push it
+	- Priming - You basically guess why they may be sad or angry. This is to be used as a last step to help other side to open up from silence or violence. We should also not try too much of this as well.
+- Just because we are listening or trying to understand their story does not mean we are agreeing to their story.
+- After listening to their story and you still have things which you do not agree then do these
+	- Agree - agree on things that both are saying same things. This forms the base.
+	- Build - once you have agreed, let them know what parts you think are left out in the discussion and need to be discussed.
+	- Compare - instead of telling others as wrong, just compare both views and explain the differences.
+- Decision can be done in 4 ways 
+	- Command
+	- Consult
+	- Vote
+	- Consensus   
+- To decide which way we need to take decision, we need to answer following questions 
+	- Who cares? 
+	- Who knows most about this?
+	- Who must agree?
+	- Who all must be involved? 
+- As part of the decision making, following aspects need to be finalised - 
+	- Who is going to do this? Single person needs to be assigned 
+	- What is the expected output? Be as clear about the outcome 
+	- When is it needed?
+	- How will the followup for the work will be done?
+	- Document the action items and all the related notes
