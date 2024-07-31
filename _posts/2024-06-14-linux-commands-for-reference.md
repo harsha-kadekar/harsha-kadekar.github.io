@@ -35,6 +35,11 @@ The two books that has helped in learning these commands apart from linux itself
 - [To list process that are running - ps](#to-list-process-that-are-running---ps)
 - [To view the system stats and list of processes in real time - top](#to-view-the-system-stats-and-list-of-processes-in-real-time---top)
 - [To kill a process that is running - kill](#to-kill-a-process-that-is-running---kill)
+- [To know about the version of kernel system is using - uname](#to-know-about-the-version-of-kernel-system-is-using---uname)
+- [To create shortcut of file or directory - ln](#to-create-shortcut-of-file-or-directory---ln)
+- [To change the owner of the file or folder - chown](#to-change-the-owner-of-the-file-or-folder)
+- [To change the permission of the file or folder - chmod](#to-change-the-permission-of-the-file-or-folder---chmod)
+- [To copy bytes or characters from input file to output file - dd](#to-copy-byptes-or-characters-from-input-file-to-output-file---dd)
 
 ## Commands
 ### [To know which directory we are in - pwd](to-know-which-directory-we-are-in---pwd)
@@ -955,5 +960,175 @@ Sometimes the process has reached a bad state or just in a zombie state without 
 
 We can use `killall` command to kill all the processes matching a user or a program name. Usage `killall -u kadekar` or `killall vivaldi`
 
-### Still To Come
-- uname, ln, tr, chown, chsh, sudo, chgrp, chmod, su, ping, ip, ssh, scp, traceroute, netstat,curl, wget, tar, zip, gzip, bzip2
+### [To know about the version of kernel system is using - uname](to-know-about-the-version-of-kernel-system-is-using---uname)
+Sometimes we may want to know the version of Linux kernel the system is running.  The command to use will be `uname -r` 
+
+```shell
+➜  ~ uname -r
+6.5.0-41-generic
+➜  ~
+```
+
+It can also provide other information about the machine like
+
+Kernel Name:
+```shell
+➜  ~ uname -s
+Linux
+➜
+```
+
+Platform Type 
+
+```shell
+➜  ~ uname -i
+x86_64
+➜
+```
+
+Operating System
+
+```shell
+➜  ~ uname -o
+GNU/Linux
+➜  ~
+```
+
+
+### [To create shortcut of file or directory - ln](to-create-shortcut-of-file-or-directory---ln)
+
+`ln` is for creating hard links. Hard links cannot be created outside of a file system and we cannot create hard link to a directory. Hence, more convenient is to have soft links.  The way to create soft link is `ln -s target linkname`. Here `target` can be actual path or a relative path.  This will create new file with `linkname`. If you check the content of the `linkname`, it will have an entry for the target. 
+
+```shell
+➜  testground ls -lah
+total 12K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 21 22:14 .
+drwxrwxr-x 4 harsha harsha 4.0K Jul 17 21:38 ..
+-rw-rw-r-- 1 harsha harsha   15 Jul 21 22:14 originalfile
+➜  testground cat originalfile
+this is a test
+➜  testground ln -s originalfile symlinkexample
+➜  testground ls -lah
+total 12K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 21 22:15 .
+drwxrwxr-x 4 harsha harsha 4.0K Jul 17 21:38 ..
+-rw-rw-r-- 1 harsha harsha   15 Jul 21 22:14 originalfile
+lrwxrwxrwx 1 harsha harsha   12 Jul 21 22:15 symlinkexample -> originalfile
+➜  testground cat symlinkexample
+this is a test
+➜  testground
+```
+
+```shell
+➜  Playground ls
+dir1  dir2
+➜  Playground ls -lah dir2/testground
+total 12K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 21 22:15 .
+drwxrwxr-x 4 harsha harsha 4.0K Jul 17 21:38 ..
+-rw-rw-r-- 1 harsha harsha   15 Jul 21 22:14 originalfile
+lrwxrwxrwx 1 harsha harsha   12 Jul 21 22:15 symlinkexample -> originalfile
+➜  Playground ln -s dir2/testground symdir
+➜  Playground ls -lah symdir
+lrwxrwxrwx 1 harsha harsha 15 Jul 21 22:19 symdir -> dir2/testground
+➜  Playground cd symdir
+➜  symdir ls -lah
+total 12K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 21 22:15 .
+drwxrwxr-x 4 harsha harsha 4.0K Jul 17 21:38 ..
+-rw-rw-r-- 1 harsha harsha   15 Jul 21 22:14 originalfile
+lrwxrwxrwx 1 harsha harsha   12 Jul 21 22:15 symlinkexample -> originalfile
+➜  symdir
+```
+
+With the hardlink, inode number will be same but the hard link count increases for each new hard link. Soft link will have different inode numbers.
+
+```shell
+➜  dir_temp2 ln ../dir_temp1/testfileTemp1 testfileTemp2
+➜  dir_temp2 cd ..
+➜  testdirectory ls -ilah dir_temp2/testfileTemp2
+5900489 -rw-rw-r-- 2 harsha harsha 33 Jul 21 22:23 dir_temp2/testfileTemp2
+➜  testdirectory cat dir_temp2/testfileTemp2
+this is a test file of dir_temp1
+➜  testdirectory ln -s dir_temp1/testfileTemp1 symtempfile
+➜  testdirectory ls -ilah symtempfile
+5899755 lrwxrwxrwx 1 harsha harsha 23 Jul 21 22:36 symtempfile -> dir_temp1/testfileTemp1
+➜  testdirectory cat symtempfile
+this is a test file of dir_temp1
+➜  testdirectory ls -ilah dir_temp1/testfileTemp1
+5900489 -rw-rw-r-- 2 harsha harsha 33 Jul 21 22:23 dir_temp1/testfileTemp1
+➜  testdirectory
+```
+
+### [To change the owner of the file or folder - chown](to-change-the-owner-of-the-file-or-folder)
+In unix, each file or folder is owned by a user and group. We can use `chown` to change the ownership of these files and folders. Example - `chown user:group filename`
+
+```shell
+➜  dir_temp1 ls -lah
+total 12K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 28 18:52 .
+drwxrwxr-x 4 harsha harsha 4.0K Jul 21 22:36 ..
+-rw-rw-r-- 2 harsha harsha   33 Jul 21 22:23 testfileTemp1
+-rw-rw-r-- 1 harsha harsha    0 Jul 28 18:52 testfileTemp2
+➜  dir_temp1 sudo chown root:root testfileTemp1
+[sudo] password for harsha:
+➜  dir_temp1 ls -lah
+total 12K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 28 18:52 .
+drwxrwxr-x 4 harsha harsha 4.0K Jul 21 22:36 ..
+-rw-rw-r-- 2 root   root     33 Jul 21 22:23 testfileTemp1
+-rw-rw-r-- 1 harsha harsha    0 Jul 28 18:52 testfileTemp2
+```
+
+### [To change the permission of the file or folder - chmod](to-change-the-permission-of-the-file-or-folder---chmod)
+We can use `chmod` to update the permissions to the file and folder.  We can provide or remove  read, write and execute permissions for user , group and others. We can give the permissions in the form of octal numbers or characters (r, w, x). 
+
+```shell
+➜  dir1 ls -lah
+total 8.0K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 30 21:39 .
+drwxrwxr-x 3 harsha harsha 4.0K Jul 30 21:38 ..
+-rw-rw-r-- 1 harsha harsha    0 Jul 30 21:39 testfile1.txt
+➜  dir1 chmod 400 testfile1.txt
+➜  dir1 ls -lah
+total 8.0K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 30 21:39 .
+drwxrwxr-x 3 harsha harsha 4.0K Jul 30 21:38 ..
+-r-------- 1 harsha harsha    0 Jul 30 21:39 testfile1.txt
+➜  dir1 chmod +x testfile1.txt
+➜  dir1 ls -lah
+total 8.0K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 30 21:39 .
+drwxrwxr-x 3 harsha harsha 4.0K Jul 30 21:38 ..
+-r-x--x--x 1 harsha harsha    0 Jul 30 21:39 testfile1.txt
+➜  dir1 chmod u+w testfile1.txt
+➜  dir1 ls -lah
+total 8.0K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 30 21:39 .
+drwxrwxr-x 3 harsha harsha 4.0K Jul 30 21:38 ..
+-rwx--x--x 1 harsha harsha    0 Jul 30 21:39 testfile1.txt
+➜  dir1
+```
+
+### [To copy bytes or characters from input file to output file - dd](to-copy-byptes-or-characters-from-input-file-to-output-file---dd)
+If want to read from a block/character device file and write to an output file or output device file then use `dd`. 
+
+```shell
+➜  dir_temp1 ls -lah
+total 12K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 28 18:52 .
+drwxrwxr-x 4 harsha harsha 4.0K Jul 21 22:36 ..
+-rw-rw-r-- 2 root   root     33 Jul 21 22:23 testfileTemp1
+-rw-rw-r-- 1 harsha harsha    0 Jul 28 18:52 testfileTemp2
+➜  dir_temp1 dd if=/dev/zero of=test_dd_output bs=1024 count=1
+1+0 records in
+1+0 records out
+1024 bytes (1.0 kB, 1.0 KiB) copied, 5.2137e-05 s, 19.6 MB/s
+➜  dir_temp1 ls -lah
+total 16K
+drwxrwxr-x 2 harsha harsha 4.0K Jul 28 21:25 .
+drwxrwxr-x 4 harsha harsha 4.0K Jul 21 22:36 ..
+-rw-rw-r-- 1 harsha harsha 1.0K Jul 28 21:25 test_dd_output
+-rw-rw-r-- 2 root   root     33 Jul 21 22:23 testfileTemp1
+-rw-rw-r-- 1 harsha harsha    0 Jul 28 18:52 testfileTemp2
+```
