@@ -35,3 +35,6 @@ updated: 2024-08-02
 	- Let children know of your current problems in a lighter way so that they observe you and understand how you will be dealing with problems
 	- Listen to kids when they something.  Do not just ignore their talks.  
 	- Remind them of their commitments.
+- When dealing with emotionally charged up discussion with your mind or in an emotional trap/guilt trip - ask yourself  `What then?`
+	- I should have done like that then things will be different. - `What then?`
+	- I should have replied like this then I could have taught them a lesson - `What then?`
