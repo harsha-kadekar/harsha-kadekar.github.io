@@ -28,6 +28,7 @@ In this post, I will capture all the common commands I use often so that I do no
 - To go to the beginning of line - `^`
 - To move one word at a time - `w`
 - To delete a single character - `x`
+- To go to the corresponding closing bracket (you need cursor to be on top of opening bracket) - `%`
 
 ## NERDTree Plugin
 

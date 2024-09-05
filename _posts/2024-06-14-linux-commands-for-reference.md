@@ -40,6 +40,7 @@ The two books that has helped in learning these commands apart from linux itself
 - [To change the owner of the file or folder - chown](#to-change-the-owner-of-the-file-or-folder)
 - [To change the permission of the file or folder - chmod](#to-change-the-permission-of-the-file-or-folder---chmod)
 - [To copy bytes or characters from input file to output file - dd](#to-copy-byptes-or-characters-from-input-file-to-output-file---dd)
+- [To Archive list of files and directories - tar](#to-archive-list-of-files-and-directories---tar)
 
 ## Commands
 ### [To know which directory we are in - pwd](to-know-which-directory-we-are-in---pwd)
@@ -1132,3 +1133,67 @@ drwxrwxr-x 4 harsha harsha 4.0K Jul 21 22:36 ..
 -rw-rw-r-- 2 root   root     33 Jul 21 22:23 testfileTemp1
 -rw-rw-r-- 1 harsha harsha    0 Jul 28 18:52 testfileTemp2
 ```
+
+
+### [To Archive list of files and directories - tar](to-archive-list-of-files-and-directories---tar)
+To archive list of files and folders into a single file we use `tar` command. `tar` has 3 main options - 
+- to create archive file `c` - Example `tar cf myarchive.tar targetfolder`. This will archive all the contents of the `targetfolder` and generates the tar file `myarchive.tar`. If we use the actual path to the targetfolder, it will use the complete path from the root when this archive is extracted.
+- to list the contents of archive file `t` - Example `tar tf myarchive.tar`. This will generate the list of pathnames present in that archive file.
+
+```shell
+➜  Playground tar tf myarchive.tar
+playground/
+playground/dir-077/
+playground/dir-077/file-K
+playground/dir-077/file-H
+playground/dir-077/file-N
+playground/dir-077/file-X
+playground/dir-077/file-L
+playground/dir-077/file-T
+playground/dir-077/file-G
+playground/dir-077/file-E
+playground/dir-077/file-W
+playground/dir-077/file-C
+playground/dir-077/file-D
+```
+
+We can use `v` to have long listing of the files and folders inside the archive. Example `tar tvf myarchive.tar`
+
+```shell
+drwxrwxr-x harsha/harsha     0 2024-09-03 19:23 playground/dir-028/
+-rw-rw-r-- harsha/harsha     0 2024-09-03 19:23 playground/dir-028/file-K
+-rw-rw-r-- harsha/harsha     0 2024-09-03 19:23 playground/dir-028/file-H
+-rw-rw-r-- harsha/harsha     0 2024-09-03 19:23 playground/dir-028/file-N
+-rw-rw-r-- harsha/harsha     0 2024-09-03 19:23 playground/dir-028/file-X
+-rw-rw-r-- harsha/harsha     0 2024-09-03 19:23 playground/dir-028/file-L
+-rw-rw-r-- harsha/harsha     0 2024-09-03 19:23 playground/dir-028/file-T
+-rw-rw-r-- harsha/harsha     0 2024-09-03 19:23 playground/dir-028/file-G
+```
+
+- to extract the archive file `x` - 
+
+```shell
+➜  foo tar xf ../myarchive.tar
+➜  foo ls
+playground
+➜  foo
+```
+
+
+In all of these `f` means file name of the tar file.
+
+We can combine compression with the archiving by using following options - 
+- We can generate the gzip file using `z` option - 
+
+```shell
+➜  Playground tar czf mycompressedarchive.tgz playground
+➜  Playground ls -lah
+total 1.4M
+drwxrwxr-x   3 harsha harsha 4.0K Sep  3 19:47 .
+drwxrwxr-x  21 harsha harsha 4.0K Aug  8 18:31 ..
+-rw-rw-r--   1 harsha harsha 1.4M Sep  3 19:41 myarchive.tar
+-rw-rw-r--   1 harsha harsha  21K Sep  3 19:47 mycompressedarchive.tgz
+drwxrwxr-x 102 harsha harsha 4.0K Sep  3 19:22 playground
+```
+
+We can use `j` for bzip2 compression instead of gzip. We can use similarly with the extraction. Example `tar xzf mycompressedarchive.tgz`
