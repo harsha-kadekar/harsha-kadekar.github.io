@@ -41,6 +41,7 @@ The two books that has helped in learning these commands apart from linux itself
 - [To change the permission of the file or folder - chmod](#to-change-the-permission-of-the-file-or-folder---chmod)
 - [To copy bytes or characters from input file to output file - dd](#to-copy-byptes-or-characters-from-input-file-to-output-file---dd)
 - [To Archive list of files and directories - tar](#to-archive-list-of-files-and-directories---tar)
+- [To compress & uncompress files and directories - gzip/gunzip](#to-compress-&-uncompress-files-and-directories---gzip/gunzip)
 
 ## Commands
 ### [To know which directory we are in - pwd](to-know-which-directory-we-are-in---pwd)
@@ -1197,3 +1198,42 @@ drwxrwxr-x 102 harsha harsha 4.0K Sep  3 19:22 playground
 ```
 
 We can use `j` for bzip2 compression instead of gzip. We can use similarly with the extraction. Example `tar xzf mycompressedarchive.tgz`
+
+
+### [To compress & uncompress files and directories - gzip/gunzip](to-compress-files-and-directories---gzip/gunzip)
+We can use `gzip` to compress a file. To uncompress the file we use `gunzip`. 
+Example - `gzip foo.txt` and `gunzip foo.txt.gz`
+
+```shell
+➜  foo ls -lah /etc > listing_file.txt
+➜  foo ls -lah
+total 32K
+drwxrwxr-x 2 harsha harsha 4.0K Sep 11 21:36 .
+drwxrwxr-x 4 harsha harsha 4.0K Sep  3 21:10 ..
+-rw-rw-r-- 1 harsha harsha  21K Sep 11 21:36 listing_file.txt
+➜  foo gzip listing_file.txt
+➜  foo ls -lah
+total 12K
+drwxrwxr-x 2 harsha harsha 4.0K Sep 11 21:36 .
+drwxrwxr-x 4 harsha harsha 4.0K Sep  3 21:10 ..
+-rw-rw-r-- 1 harsha harsha 2.9K Sep 11 21:36 listing_file.txt.gz
+➜  foo gunzip listing_file.txt.gz
+➜  foo ls -lah
+total 32K
+drwxrwxr-x 2 harsha harsha 4.0K Sep 11 21:42 .
+drwxrwxr-x 4 harsha harsha 4.0K Sep  3 21:10 ..
+-rw-rw-r-- 1 harsha harsha  21K Sep 11 21:36 listing_file.txt
+```
+
+If we want to compress all the files within a directory we need to use `-r` flag. Example `gzip -r logdirectory/`
+If we want to keep the input file even after the operation, we can use `-k` flag.
+```shell
+➜  foo gzip -k listing_file.txt
+➜  foo ls -lah
+total 36K
+drwxrwxr-x 2 harsha harsha 4.0K Sep 11 21:51 .
+drwxrwxr-x 4 harsha harsha 4.0K Sep  3 21:10 ..
+-rw-rw-r-- 1 harsha harsha  21K Sep 11 21:36 listing_file.txt
+-rw-rw-r-- 1 harsha harsha 2.9K Sep 11 21:36 listing_file.txt.gz
+➜  foo
+```
