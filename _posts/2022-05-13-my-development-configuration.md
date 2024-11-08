@@ -3,7 +3,7 @@ category: Technical
 date: 2022-05-13
 layout: post
 title: My Personal and Development Configuration
-updated: 2024-03-24
+updated: 2024-11-07
 ---
 
 In this post, I would like to explain about development configurations and development tools I use in my personal system. I have a laptop with dual partition. My primary partition is [Ubuntu Operating System](https://ubuntu.com) and the secondary partition is [Windows 11 Operating System](https://www.microsoft.com/en-us/windows?r=1). My early exposure to computer started via Windows and continued in Windows for a long-time. I switched to Linux once I joined Amazon. At my workplace, I use Mac and Linux. Almost all the things I use in Mac are Linux compatible software.
@@ -14,12 +14,13 @@ Here are the few tools I use in personal system.
 - [OhMyZsh](https://ohmyz.sh/): My default shell is `zsh`. On top of that, I use `OhMyZsh`. *OhMyZsh* provides a set of functions and plugins for the terminal which makes it easy to work with your shell. *OhMyZsh* has a great set of plug-ins. My dotfile for zsh can be found [here](https://github.com/harsha-kadekar/dotfiles/blob/main/zshrc). Among the ohmyzsh plugins, I particularly use following -
 	- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): This helps in highlighting the syntax of the commands in zsh. Pretty useful in catching some small errors. It also makes your shell pleasing.
 	- [zsh-autosuggesions](https://github.com/zsh-users/zsh-autosuggestions): This suggests the commands as you type in based on the history. Quite useful when you are using repeated commands.
-- [TMUX](https://github.com/tmux/tmux/wiki): This is a terminal multiplexer. In a single window of terminal, we can work on multiple things by dividing the window. It also maintains our environments as session. We can configure it with various plugins. You can find my T-Mux dot file [here](https://github.com/harsha-kadekar/dotfiles/blob/main/tmux.conf). Here are the plug-ins I use -
-	- [Tmux plug-in manager](https://github.com/tmux-plugins/tpm): The plug-ins in T-Mux can be managed by different plug-in manager. I personally use this. I have not used any other managers and this has never caused any issues till date.
-	- [Tmux Sensible](https://github.com/tmux-plugins/tmux-sensible): This plug-in helps us to add some settings like key bindings.
-	- [tmux-battery](https://github.com/tmux-plugins/tmux-battery): This plug-in helps in displaying the current laptop battery percentage in the T-Mux window.
-	- [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu): This plug-in helps in displaying the current CPU usage and RAM usage.
-- [NeoVim](https://neovim.io): This is a terminal text editor. It is extensible with lot of plug-ins. This will be my go to text editor for small changes to the file or writing small programs. [Here](https://github.com/harsha-kadekar/dotfiles/blob/main/init.vim) is my dot file for neovim. Some of the plug-ins I use-
+- [Zellij](https://zellij.dev): This is a terminal multiplexer. In a single window of terminals, we can work on multiple things by dividing the window or adding more terminal tabs. We can even configure this.
+	- Before I started using zellij, I used to use [TMUX](https://github.com/tmux/tmux/wiki).You can find my T-Mux dot file [here](https://github.com/harsha-kadekar/dotfiles/blob/main/tmux.conf). Here are the plug-ins I used in tmux -
+		- [Tmux plug-in manager](https://github.com/tmux-plugins/tpm): The plug-ins in T-Mux can be managed by different plug-in manager. I personally use this. I have not used any other managers and this has never caused any issues till date.
+		- [Tmux Sensible](https://github.com/tmux-plugins/tmux-sensible): This plug-in helps us to add some settings like key bindings.
+		- [tmux-battery](https://github.com/tmux-plugins/tmux-battery): This plug-in helps in displaying the current laptop battery percentage in the T-Mux window.
+		- [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu): This plug-in helps in displaying the current CPU usage and RAM usage.
+- [NeoVim](https://neovim.io): This is a terminal text editor. It is extensible with lot of plug-ins. This will be my go to text editor for small changes to the file or writing small programs. I am experimenting with [lazyvim](https://www.lazyvim.org) and [kickstartvim](https://github.com/nvim-lua/kickstart.nvim). Probably, I will shift to one of them for full fledge IDE or code editor once I am comfortable in any one of them. Until then,  [here](https://github.com/harsha-kadekar/dotfiles/blob/main/init.vim) is my dot file for neovim. Store the configuration in `~/.config/nvim/init.vim` file. Some of the plug-ins I use-
 	- [vim-plug](https://github.com/junegunn/vim-plug): Vim Plug is my plugin manager for neovim. I have not used other plugin managers and this has not caused any issues so all good.
 	- [NERDTree](https://github.com/preservim/nerdtree): This provides the file system explorer within Vim editor. This is useful when you are working on a package and you need to edit multiple files.
 	- [vim-airline](https://github.com/vim-airline/vim-airline): This provides an intitutive status bar to VIM windows.
@@ -33,7 +34,9 @@ Here are the few tools I use in personal system.
 - [FireFox](https://www.mozilla.org/en-US/firefox/new/): FireFox is my backup browser.
 - [Ulaa](https://ulaa.com): This is also my backup browser. I flip between Firefox and Ulaa.
 - [Zoho Notebook](https://www.zoho.com/notebook/): This is my mobile note taking app.
-- [KeyPass](https://keepass.info): This is my password storage tool.
+- [KeyPass](https://keepass.info): This is my password storage tool. I use this version [KeePassXC](https://keepassxc.org/)
+- [Pomatez](https://zidoro.github.io/pomatez/): This is my pomodoro technique app. I use it to keep the pomodoro timer. 
+- [Albert](https://albertlauncher.github.io): This is a keyboard launcher and added functionalities like search and others.
 
 The dot file configurations are not my own creation, rather I have taken from multiple places and tried to fit into something what works for me. If you use any good tools or configurations do let me know, so that I can try it.
 {: style="text-align: justify;"}

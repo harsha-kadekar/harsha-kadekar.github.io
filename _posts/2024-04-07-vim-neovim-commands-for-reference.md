@@ -3,7 +3,7 @@ category: Technical
 date: 2024-04-07
 layout: post
 title: VIM/NVIM Commands for Reference
-updated: 2024-07-10
+updated: 2024-11-07
 ---
 
 In this post, I will capture all the common commands I use often so that I do not have to do google search every-time I want to type something in NVIM
@@ -13,7 +13,7 @@ In this post, I will capture all the common commands I use often so that I do no
 
 - To delete a line -  `dd`
 - To delete a word - `dw`
-- To delete from cursor to end of line - `d$`
+- To delete from cursor to end of line - `d$` or `D`
 - To move the cursor to particular line number - `:n` where n can be any number
 - To copy (yank) multiple characters based on selection
 	- Go to visual mode by `v`
@@ -29,7 +29,14 @@ In this post, I will capture all the common commands I use often so that I do no
 - To move one word at a time - `w`
 - To delete a single character - `x`
 - To go to the corresponding closing bracket (you need cursor to be on top of opening bracket) - `%`
+- To delete all the characters from the current cursor position till the next occureance of character - `dtx` where `x` is the character you wish like `dt"`. So delete till you find `"`.
 
 ## NERDTree Plugin
 
-- To cycle through the different panes - `Ctrl + w + w`
+- To cycle through the different panes - `Ctrl + w + w` 
+
+## LazyVim 
+- To Open file explorer - `space + e`
+- To move to the left tab - `Shift + H`
+- To move to the right tab - `Shift + L`
+- To cycle through different panes - `ctrl + w + w`

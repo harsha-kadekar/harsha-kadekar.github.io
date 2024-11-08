@@ -41,7 +41,7 @@ The two books that has helped in learning these commands apart from linux itself
 - [To change the permission of the file or folder - chmod](#to-change-the-permission-of-the-file-or-folder---chmod)
 - [To copy bytes or characters from input file to output file - dd](#to-copy-byptes-or-characters-from-input-file-to-output-file---dd)
 - [To Archive list of files and directories - tar](#to-archive-list-of-files-and-directories---tar)
-- [To compress & uncompress files and directories - gzip/gunzip](#to-compress-&-uncompress-files-and-directories---gzip/gunzip)
+- [To compress & uncompress files and directories - gzip/bzip2/zip/gunzip/bunzip2/unzip](#to-compress-&-uncompress-files-and-directories---gzip/bzip2/zip/gunzip/bunzip2/unzip)
 
 ## Commands
 ### [To know which directory we are in - pwd](to-know-which-directory-we-are-in---pwd)
@@ -1200,7 +1200,7 @@ drwxrwxr-x 102 harsha harsha 4.0K Sep  3 19:22 playground
 We can use `j` for bzip2 compression instead of gzip. We can use similarly with the extraction. Example `tar xzf mycompressedarchive.tgz`
 
 
-### [To compress & uncompress files and directories - gzip/gunzip](to-compress-files-and-directories---gzip/gunzip)
+### [To compress & uncompress files and directories - gzip/bzip2/zip/gunzip/bunzip2/unzip](to-compress-files-and-directories---gzip/bzip2/zip/gunzip/bunzip2/unzip)
 We can use `gzip` to compress a file. To uncompress the file we use `gunzip`. 
 Example - `gzip foo.txt` and `gunzip foo.txt.gz`
 
@@ -1235,5 +1235,56 @@ drwxrwxr-x 2 harsha harsha 4.0K Sep 11 21:51 .
 drwxrwxr-x 4 harsha harsha 4.0K Sep  3 21:10 ..
 -rw-rw-r-- 1 harsha harsha  21K Sep 11 21:36 listing_file.txt
 -rw-rw-r-- 1 harsha harsha 2.9K Sep 11 21:36 listing_file.txt.gz
+➜  foo
+```
+
+`bzip2` is also used for compression of files. It produces higher compressed file than gzip though it is of speed is less. 
+
+```shell
+➜  foo ls
+listing_file.txt
+➜  foo gzip -k listing_file.txt
+➜  foo bzip2 -k listing_file.txt
+➜  foo ls -lah
+total 40K
+drwxrwxr-x 2 harsha harsha 4.0K Sep 17 21:35 .
+drwxrwxr-x 4 harsha harsha 4.0K Sep  3 21:10 ..
+-rw-rw-r-- 1 harsha harsha  21K Sep 11 21:36 listing_file.txt
+-rw-rw-r-- 1 harsha harsha 2.5K Sep 11 21:36 listing_file.txt.bz2
+-rw-rw-r-- 1 harsha harsha 2.9K Sep 11 21:36 listing_file.txt.gz
+```
+
+Any file which is compressed via `bzip2` can be uncompressed via `bunzip2`. Most of the options of `gzip` is present in `bzip2` and similar case for `bunzip2` & `gunzip`
+
+We can also use `zip` to compress and archive the files. Similarly `unzip` is for de-compress and de-archive the file.
+
+To compress & archive - 
+```shell
+➜  Playground ls
+foo  playground
+➜  Playground zip -qr playground.zip playground
+➜  Playground ls -lah
+total 556K
+drwxrwxr-x   4 harsha harsha 4.0K Sep 30 21:46 .
+drwxrwxr-x  21 harsha harsha 4.0K Aug  8 18:31 ..
+drwxrwxr-x   2 harsha harsha 4.0K Sep 17 21:35 foo
+drwxrwxr-x 102 harsha harsha 4.0K Sep  3 19:22 playground
+-rw-rw-r--   1 harsha harsha 537K Sep 30 21:46 playground.zip
+```
+
+If it is a folder than `r` flag needs to be used. `q` is the quite mode to not to display any information messages that displayed during the process.
+
+To uncompress - 
+
+```shell
+➜  foo ls
+playground.zip
+➜  foo unzip -q playground.zip
+➜  foo ls -lah
+total 552K
+drwxrwxr-x   3 harsha harsha 4.0K Sep 30 21:48 .
+drwxrwxr-x   4 harsha harsha 4.0K Sep 30 21:47 ..
+drwxrwxr-x 102 harsha harsha 4.0K Sep  3 19:22 playground
+-rw-rw-r--   1 harsha harsha 537K Sep 30 21:46 playground.zip
 ➜  foo
 ```
