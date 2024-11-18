@@ -33,7 +33,7 @@ My old blogs - just for reference
 - [harshakadekar.blogspot.com](http://harshakadekar.blogspot.com/)
 - [harshakadekar.wordpress.com](https://harshakadekar.wordpress.com/)
 
-To know what I am doing now - [now]({% post_url 2024-09-12-now %})
+To know about what I am doing now visit - [now page](https://harsha-kadekar.github.io/now.html)
 
 My other media references - 
 - [Github Profile](https://github.com/harsha-kadekar)

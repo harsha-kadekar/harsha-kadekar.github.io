@@ -42,6 +42,7 @@ The two books that has helped in learning these commands apart from linux itself
 - [To copy bytes or characters from input file to output file - dd](#to-copy-byptes-or-characters-from-input-file-to-output-file---dd)
 - [To Archive list of files and directories - tar](#to-archive-list-of-files-and-directories---tar)
 - [To compress & uncompress files and directories - gzip/bzip2/zip/gunzip/bunzip2/unzip](#to-compress-&-uncompress-files-and-directories---gzip/bzip2/zip/gunzip/bunzip2/unzip)
+- [To understand the disk consumption in a directory - du](#to-understand-the-disk-consumption-in-a-directory---du)
 
 ## Commands
 ### [To know which directory we are in - pwd](to-know-which-directory-we-are-in---pwd)
@@ -1287,4 +1288,141 @@ drwxrwxr-x   4 harsha harsha 4.0K Sep 30 21:47 ..
 drwxrwxr-x 102 harsha harsha 4.0K Sep  3 19:22 playground
 -rw-rw-r--   1 harsha harsha 537K Sep 30 21:46 playground.zip
 ➜  foo
+```
+
+
+### [To understand the disk consumption in a directory - du](to-understand-the-disk-consumption-in-a-directory---du)
+
+Sometimes we want to understand which files and folders within a directory are leading to the consumption of the disk in a directory. The `du` command will help to give the exact disk consumption of each files within a directory including its sub directories.
+
+```shell
+➜  Playground du -ah foo
+4.0K    foo/playground/dir-100/file-B.gz
+4.0K    foo/playground/dir-100/file-M.gz
+4.0K    foo/playground/dir-100/file-D.gz
+4.0K    foo/playground/dir-100/file-E.gz
+4.0K    foo/playground/dir-100/file-A.gz
+4.0K    foo/playground/dir-100/file-L.gz
+4.0K    foo/playground/dir-100/file-P.gz
+4.0K    foo/playground/dir-100/file-O.gz
+4.0K    foo/playground/dir-100/file-C.gz
+4.0K    foo/playground/dir-100/file-R.gz
+4.0K    foo/playground/dir-100/file-H.gz
+4.0K    foo/playground/dir-100/file-J.gz
+4.0K    foo/playground/dir-100/file-I.gz
+4.0K    foo/playground/dir-100/file-S.gz
+4.0K    foo/playground/dir-100/file-N.gz
+4.0K    foo/playground/dir-100/file-V.gz
+0       foo/playground/dir-100/file-Z
+4.0K    foo/playground/dir-100/file-U.gz
+4.0K    foo/playground/dir-100/file-K.gz
+4.0K    foo/playground/dir-100/file-T.gz
+4.0K    foo/playground/dir-100/file-Q.gz
+4.0K    foo/playground/dir-100/file-X.gz
+4.0K    foo/playground/dir-100/file-G.gz
+4.0K    foo/playground/dir-100/file-Y.gz
+4.0K    foo/playground/dir-100/file-W.gz
+4.0K    foo/playground/dir-100/file-F.gz
+104K    foo/playground/dir-100
+108K    foo/playground
+540K    foo/playground.zip
+652K    foo
+```
+Here `a` option is making it to print every file in the directory foo. If we just need directories then drop `a`. We can get a summary as well with `s` option
+
+```Shell
+➜  Playground du -sh foo
+652K    foo
+```
+We can also list the last modification time of each of the files.
+```shell
+➜  Playground du -h --time foo
+104K    2024-09-11 21:46        foo/playground/dir-100
+108K    2024-11-17 16:03        foo/playground
+652K    2024-11-17 16:03        foo
+```
+
+We can use to list the inode consumption instead of size with `--inode` option.
+
+```shell
+➜  Playground du -h --inodes --time foo
+27      2024-09-11 21:46        foo/playground/dir-100
+28      2024-11-17 16:03        foo/playground
+30      2024-11-17 16:03        foo
+```
+
+Sometimes, I need to get details upto a certain sub directory. In such a case use `d` or max-depth option
+
+```shell
+➜  ~ du -ah -d 1 workspace
+528K    workspace/no-style-please-master
+19M     workspace/obsidian-translations
+304K    workspace/dotfiles
+11M     workspace/PLPAssembler
+3.7M    workspace/LogsAndReflections
+332K    workspace/ObsidianToGithubPages
+1.4G    workspace/subhasitas
+68K     workspace/SimplePrograms
+65M     workspace/testinggitpull
+12M     workspace/pythonProject1
+1.1M    workspace/pre-release-copy-blog
+24M     workspace/Albert-Mozhi
+20K     workspace/JavaTutorial
+162M    workspace/RustTutorial
+11M     workspace/Playground
+66M     workspace/LocalWorkspaceSync
+5.9M    workspace/old_blog_folder
+44M     workspace/pusthaka
+292K    workspace/temp_blog
+6.9M    workspace/harsha-kadekar.github.io
+1.8G    workspace
+```
+
+Sometimes, we only care about certain size files. Either smaller files or bigger files. We can use `t` or threshold option to mention the thresholds of the file size. If given positive value, it will ignore all the files which are smaller than that number and if given negative value, it will ignore all the files which are greater than that number
+
+```shell
+➜  ~ du -ah -d 1 -t 66M  workspace
+1.4G    workspace/subhasitas
+162M    workspace/RustTutorial
+1.8G    workspace
+➜  ~ du -ah -d 1 -t -66M  workspace
+528K    workspace/no-style-please-master
+19M     workspace/obsidian-translations
+304K    workspace/dotfiles
+11M     workspace/PLPAssembler
+3.7M    workspace/LogsAndReflections
+332K    workspace/ObsidianToGithubPages
+68K     workspace/SimplePrograms
+65M     workspace/testinggitpull
+12M     workspace/pythonProject1
+1.1M    workspace/pre-release-copy-blog
+24M     workspace/Albert-Mozhi
+20K     workspace/JavaTutorial
+11M     workspace/Playground
+66M     workspace/LocalWorkspaceSync
+5.9M    workspace/old_blog_folder
+44M     workspace/pusthaka
+292K    workspace/temp_blog
+6.9M    workspace/harsha-kadekar.github.io
+```
+
+Sometimes, we would like to exclude certain type of files. We can use `X` or `exclude` or `exclude-from` option. Exclude-from option will take a file as input with all the file patterns that need to be excluded.
+
+```shell
+➜  SimplePrograms du -ah .
+4.0K    ./FindShortestPath.java
+4.0K    ./find_shortest_path.py
+4.0K    ./find_shortest_path.cpp
+4.0K    ./.vscode/launch.json
+4.0K    ./.vscode/tasks.json
+12K     ./.vscode
+40K     ./find_shortest_path
+68K     .
+➜  SimplePrograms du -ah --exclude="*.json"  .
+4.0K    ./FindShortestPath.java
+4.0K    ./find_shortest_path.py
+4.0K    ./find_shortest_path.cpp
+4.0K    ./.vscode
+40K     ./find_shortest_path
+60K     .
 ```
