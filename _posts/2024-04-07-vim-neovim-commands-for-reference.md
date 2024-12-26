@@ -11,6 +11,8 @@ In this post, I will capture all the common commands I use often so that I do no
 
 ## General Commands
 
+In general, format is `<count><action><scope><object>`
+
 - To delete a line -  `dd`
 - To delete a word - `dw`
 - To delete from cursor to end of line - `d$` or `D`
@@ -30,6 +32,11 @@ In this post, I will capture all the common commands I use often so that I do no
 - To delete a single character - `x`
 - To go to the corresponding closing bracket (you need cursor to be on top of opening bracket) - `%`
 - To delete all the characters from the current cursor position till the next occureance of character - `dtx` where `x` is the character you wish like `dt"`. So delete till you find `"`.
+- To remove everything between the quotes and place cursor after quotes - `ciq`
+- To delete all the elements between brackets - `dab`
+- To copy the current word your cursor is in - `yiw`
+- To select all the lines with current indentation - `vii`
+- to select all the elements around bracket - `vab`
 
 ## NERDTree Plugin
 
@@ -40,3 +47,5 @@ In this post, I will capture all the common commands I use often so that I do no
 - To move to the left tab - `Shift + H`
 - To move to the right tab - `Shift + L`
 - To cycle through different panes - `ctrl + w + w`
+- To close an open tab - `space B D`
+- To close all the open tab but the current one - `space B O`

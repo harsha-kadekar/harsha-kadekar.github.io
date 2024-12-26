@@ -17,8 +17,8 @@ entries:
 
   - title: <b>I am currently reading</b>
     entries:
-      - title: "Made In Japan - Akio Morita and Sony"
-        url: https://www.goodreads.com/book/show/1008101.Made_in_Japan
+      - title: "Stories for the Innocent"
+        url: https://www.goodreads.com/book/show/40231930-stories-for-the-innocent
 
   - title: <b>Pages in this blog</b>
     entries:
@@ -28,6 +28,8 @@ entries:
         url: now.html
       - title: <i>to know about movies i liked</i>
         url: movies.html
+      - title: <i>to read about some of the interesting blogs/articles I read/listened</i>
+        url: blog-summaries.html 
       - title: <i>search for a post</i>
         url: search.html
 
