@@ -28,6 +28,8 @@ entries:
         url: now.html
       - title: <i>to know about movies i liked</i>
         url: movies.html
+      - title: <i>my recommendations of blogs/articles/videos</i>
+        url: bookmarks.html
       - title: <i>to read about some of the interesting blogs/articles I read/listened</i>
         url: blog-summaries.html 
       - title: <i>search for a post</i>

@@ -262,5 +262,275 @@ This page holds some of the good blogs I have read and what I took from it.
 - Link: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - Summary:
 	-  Teach yourself a programming by giving dedicated time and do deliberate effort consistently for a prolong period.
-	- Go indepth, discuss with fellow programmers
+	- Go in-depth, discuss with fellow programmers
 	- Do not go for quick learning or just reading books, rather learn by practice and for a consistent periodic practice. Not just a normal practice, rather deliberate practice.
+
+## Is Critical Thinking the Most Important Skill for Software Engineers?
+- Source: -
+- Tag: Skills
+- Date Added To List: - 
+- Date Read: 2024-12-26
+- Link: [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/)
+- Summary
+	- When you hear something in jargon then un-jargon them.   
+	- Jargon masks partial understanding. You should be able to explain stuff in simple terms  
+	- Do not think about the source of knowledge. Just because it came from a very respected person or a thought leader, do not take that in as truth. Objectively and logically think if that is truth, that is applicable to you and if it makes sense logically.  
+	- To improve critical thinking 
+		- Un jargon what you heard.  
+		- Do the research and validate the info  
+		- Ask why and how. Do not move ahead until you understand and why and how aspect.   
+	- Without critical thinking, you will let others think for you and also do not spot the issues in the arguments  
+	- Anything you do not understand, then question it. Put effort to understand it .
+
+## The art of Prarthana – Gayatri mantra
+- Source: Ami
+- Tag: Bharatiya/Hindu
+- Date Added To List: 2024-11-02
+- Date Read: 2024-12-28
+- Link: [The art of Prarthana - Gayatri mantra](https://dharmorakshtirakshitah.wordpress.com/2018/04/19/the-art-of-prarthana-gayatri-mantra/)
+- Summary:
+	- ॐ भूर्भुवः स्वः (Om Bhur Bhuvaḥ Swaḥ)  तत्सवितुर्वरेण्यं (Tat-savitur Vareñyaṃ)  भर्गो देवस्यः धीमहि (Bhargo Devasya Dhīmahi)  धियो यो नः प्रचोदयात् (Dhiyo Yonaḥ Prachodayāt)
+	- That most excellent, Savituh, the giver of life, the one of divine radiance, on you we meditate, May You illuminate our intellect
+
+
+## Invest in things that don't change
+- Source: DHH
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-12-01
+- Link: [Invest in things that don't change](https://world.hey.com/dhh/invest-in-things-that-don-t-change-6f7f19e1)
+- Summary:
+	- Invest in things that do not change. Example - Linux, MySQL, Java, are present for decades. People want to their products shipped early, hence invest in logistics. 
+	- So, what is that I need to invest that can last for decades?
+
+## How I hire Programmers
+- Source: Twitter
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-12-01
+- Link: [How I hire Programmers](http://www.aaronsw.com/weblog/hiring.en)
+- Summary:
+	- Hire who gets things done 
+	- Hire who are smart 
+	- Hire whom you can work with 
+	- Interview with coding questions is bad because we are testing them in high pressure 
+	- If they are smart - they will be curious l, ask questions, listen and understand what you are telling.
+	- They should also able to explain clearly what they have done
+	- Ask for their code link and read their code
+	- Meet for lunch and have casual conversation
+	- Give them small work on your code base or open source
+
+## What can we remove?
+- Source: StephAngo
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-12-01
+- Link: [What can we remove?](https://stephango.com/remove)
+- Summary:
+	- From our life, product what can be removed.   
+	- We always tend to keep on adding more than things. This will break the system slowly and then spectacularly
+
+## On being a Senior Engineer
+- Source: JVNS
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-12-01
+- Link: [On being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+- Summary:
+	- You don't wake up one day and become a senior engineer.   
+	- Senior engineers do not know everything  
+	- There is no check list to say that yes we can cross off these entries hence he/she is a senior engineer.  
+	- They are not perfect with their technical knowledge and they are okay with that.  
+	- Senior engineer should be a mature engineer   
+	- Some level of mastery is needed in technical fields like algorithms, networking, debugging, etc  
+	- What are the personal characteristics that can influence the team and organization in a positive way  
+	- Mature engineers seek out constructive criticism of their designs 
+	- Is this sound right?  
+	- What I am missing here?  
+	- Where will this go wrong?  
+	- Is this explained in a way others can understand?  
+	- Beg for bad news in the design phase 
+	- Code doesn't have feelings. Critique the code and the design. Point out what might fail in code/design. But do not critique the engineer or character of the engineer.  
+	- You should be the engineer who others want to work with. Do not be an asshole.  
+	- Mature engineers should be comfortable with working with some uncertainty and risk.  
+	- They should be able to provide estimates and constantly work on improving those estimates  
+	- Mature engineers have anticipations like  
+		- Does this code look good  
+		- Does others will be able to understand it  
+		- How effectively this is going to execute in production   
+		- Etc  
+	- Getting things done - whether it's a super fun project and bored to death work - they give their best. It has to be done  
+	- Be a force multiplier. You cannot do all the work. You need to involve others and make sure they learn what to do, how to do and why they need to do.Dont be that super hero who just parachutes into that place asks others to move aside do the work and fly out from there. That's not cool. Have patience, teach them, work with them, involve them in the work you are doing.  
+	- Be a sponsor to your junior engineers so that they get enough platform to showcase their excellent skills.  
+	- Every decision whether it is design choices or coding choices or anything process has tradeoffs. Be upfront of what are the tradeoffs. What is ideal and what is not so ideal about this decision or design. So that we know what breaks and take necessary mitigation or know when this needs to be re written.   
+	- Everyone is aiming for optimization of cost, be upfront about it  
+	- Don't do " cover your ass engineer" - "hey everything I did was right but they did it all wrong, so everything broke so I am not responsible"  
+	- As a leader it is your responsibility. To fix inherent issues in product and team  
+	- Be empathetic towards all the stakeholders of the project. There will be conflicting goals and requirements as each has different perspectives. Work the requirements instead of just complaining about difference   
+	- Do not just bring empty complaints. Come with data why it needs to be changed and important come with at least one solution of how to solve that.  
+	- Remove the fear in the product for the team  
+	- Fight or aware of these biases 
+	- Self serving biases - if something is good that's mine, if something is bad or broken then it is done by others  
+	- Fundamental attribution - of some did wrong or broke something it's because of the personality of that person. If I did something bad, it is because of the situation I was in rather others made me to do it  
+	- Hindsight biased - In the hindsight we should have seen this or they should have seen it, how did they not think about it or I knew it all along  
+	- Outcome biases - judgement of the decision or product is proportional to the severity of the event.   
+	- Planning fallacy - being optimistic about the time and outcome in the future  
+	- Understand that you will make mistake in code or design - so it is about how early you can catch them before it goes to production   
+	- You are not your code. Point of review is to find errors or problems. It will be found so do not take it personally   
+	- Seek and accept inputs from others especially when you think you do not need. No matter how much you know about a subject there is some knowledge out there which is present with someone else. So seek it.  
+	- Do not rewrite code without consultation or rather if you think someone has written a code which you think could have written better, work with that engineer discuss and improve it with him in the code review.  
+	- Treat everyone with respect, especially the ones with non technical and less knowledgeable people  
+	- Every thing will change accept it and work for that change. Do not treat a change as inconvenience rather if you think that change is inconvenience find out why and make that change better  
+	- Cultivate and seek knowledge. Knowledge earns respect. Position should not earn respect.   
+	- Fight for your cause but gracefully accept defeat. Or disagree and committ. Do not be that person who says - I told you so  
+	- Do not be the coder in the corner. Coder in the corner is out of touch out of sight and out of control  
+	- Get involved in the conversations and get involved in the team and organization   
+	- Critique code. Be nice to the person who wrote the code but not to the code. Be positive towards the changes recommended   
+	- Remember that when you take a decision some people will be against it or do not like it.  
+
+## What's a senior engineer's job?
+- Source: JVNS
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-12-01
+- Link: [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/)
+- Summary:
+	- Write code - what type of code?  
+	- Get your code reviewed as well as do other code reviews  
+	- Come up with designs  
+	- Review your design as well as review other designs  
+	- Help team members when they are stuck  
+	- Hold folks for high standard - If someone has written something or taken a decision which looks off to you - either you know something that they do not know or they know something that you do not know. Discuss to sort it out  
+	- Create new projects  
+	- Plan your projects work  
+	- Proactively communicate your projects risks  
+	- Communicate successes  
+	- Do side projects that benefit team and org  
+	- Be aware of why a project is important in business terms  
+	- Decide when to stop the project or not do the project
+
+## Commit to competence in this coming year
+- Source: DHH
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-01-14
+- Link: [Commit to competence in this coming year](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5)
+- Summary:
+	- Use your office to excel in all round qualities. Use it to learn - coding, marketing, management, writing  
+	- For coding  or any other work don't just think of completing the task. That is basic ask. To excel or grow think of how to make it work, make it right, make it fast and make it beautiful  
+	- Any work it should have multiple rounds of write - revise. We need to go back to the work multiple times to make it right, concise  
+	- This may initially look very slow and annoying but it will give good dividends later.  
+	- For writing it may be internal communication to team, external public doc, comment, informal reviews or your own opinion.  
+	- The moment you have a thought write it and keep going back to it to make it better.
+
+## Rules of Thumb for Software Development Estimations
+- Source: vadim
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-01-18
+- Link: [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
+- Summary:
+	- Have complexity, uncertainty, best effort and worst effort  
+	- Your estimates keep changing throughout  
+	- It should move from high numbers to small  
+	- Keep history of estimates to see how you are progressing  
+	- Over communicate and communicate early on changes or slips  
+	- Help your managers by being proactive in communication
+
+## Buy Wisely
+- Source: StephAngo
+- Tag: Skills/PersonalFinance
+- Date Added To List:
+- Date Read: 2024-02-20
+- Link: [Buy Wisely](https://stephango.com/buy-wisely)
+- Summary: 
+	- When you are buying anything look for cost per use value - How many times you  will use it and divide the price by that number.
+	- Sometimes even though price of the thing will be high upfront but it will be durable and hence lasts longs. So its cost per use value is very less when compared to buying a low quality item with less price.
+	- All items cannot be looked into cost per use, some have cost per thrill, cost per smile, cost per lesson, cost per externality.
+	- Conditions for durability varies
+		- what is the quality of this?
+		- can it be dismantled and repaired?
+		- does it have resale value?
+		- does it have replacable parts?
+		- can it perform multiple jobs?
+	- Sometimes we will not know the exact number of usage. In such cases we have to estimate via the frequency of the usage.
+
+## Pay Attention
+- Source: Shalini
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-03-39
+- Link: [Pay Attention](https://shalinisinghscribe.substack.com/p/pay-attention)
+- Summary:
+	- Knowing who we are and what we don't like
+	- When you know a person is not nice, you need to disengage
+	- Toxic people loose interest in you when their cover is blown or when we stop responding/reacting to them
+	- To go to higher frequency you need to trash a lot of things we can think we know
+	- Be attentive to the life and yourself. Do not get distracted by the  things and entertainment which wants to keep you as it it
+
+## ಉಜಿರೆಯ ಎಸ್.ಡಿ.ಎಂ ಪದವಿಪೂರ್ವ ವಿದ್ಯಾರ್ಥಿಗಳ ಜೊತೆ ಅಣ್ಣಾಮಲೈ ಸಂವಾದ - Annamalai in SDM College Ujire
+- Source: youtube
+- Tag: Skills
+- Date Added to List:
+- Date Read: 2024-04-07
+- Link: [ಉಜಿರೆಯ ಎಸ್.ಡಿ.ಎಂ ಪದವಿಪೂರ್ವ ವಿದ್ಯಾರ್ಥಿಗಳ ಜೊತೆ ಅಣ್ಣಾಮಲೈ ಸಂವಾದ - Annamalai in SDM College Ujire](https://www.youtube.com/watch?v=Z0H8xKzIK18)
+- Summary:
+	- Purpose should be something that should drive your day to day life. Something that makes you to get up from bed early morning.
+	- It should be not a short term rather it should be of long term
+	- Have a vision
+	- Find out your greatest strength and weakness.
+	- Work on your weakness
+	- Be courageous and ready to accept the change.
+
+## Steal successful ideas from everywhere
+- Source: InvertedPassion
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-01-27
+- Link: [Steal successful ideas from everywhere](https://invertedpassion.com/steal-successful-ideas-from-everywhere/)
+- Summary:
+	- In startup many things has to work. We are trying to make multiple things work. So stick with originality on one thing and for the rest copy ideas from everywhere. Before choosing a solution be clear on why that solution applies to your case.   
+	- For future decisions with respect to Akshara or anything, have a clear thought process of why you are taking that decision and what reasons helped to make that decision during that time.  
+
+## Start them in the deep end
+- Source: DHH
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-03-04
+- Link: [Start them in the deep end](https://world.hey.com/dhh/start-them-in-the-deep-end-8c9c77fe "https://world.hey.com/dhh/start-them-in-the-deep-end-8c9c77fe")
+- Summary: 
+	- For new joinees, it is best for them start them on real world project on day one or as early as possible. 
+	- We need to provide them support to get comfortable with the environment like mentor and buddy.
+
+## But what if you're wrong?
+- Source: DHH
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-01-27
+- Link: [But what if you're wrong?](https://world.hey.com/dhh/but-what-if-you-re-wrong-6de2168c)
+- Summary:
+	- Be ready to hear counter arguments  
+	- A sense of negative / counter arguments does not make it a fact.  
+	- Always ask question what if I am wrong?
+
+## Becoming a Better Writer as a Software Engineer
+- Source: PragmaticProgrammer
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-02-19
+- Link: [Becoming a better writer as a software engineer](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/)
+- Summary:
+	- Take notes voluntarily and share it.
+	- Prepare weekly summary and daily summary to express and practice writing
+	- Write, edit, feedback loop over this for design and other big docs
+
+## Maker's Schedule, Manager's Schedule
+- Source: PaulGraham
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2024-02-13
+- Link: [Maker's schedule, Manager's schedule](https://paulgraham.com/makersschedule.html "https://paulgraham.com/makersschedule.html")
+- Summary:
+	- Better to have the office hours  
+	- Divide the day into 2 chunks - one with interruptions and another with reserved space to do creative work  
+	- I need to get back to getting up early and start the work.
