@@ -1,0 +1,128 @@
+---
+category: Book-Summary
+date: 2025-01-10
+layout: post
+title: Book-Summary - Made In Japan - Akio Morita and Sony
+updated: 2025-01-11
+---
+
+- Author: **Akio Morita, Edwin M. Reingold, Mitsuko Shimomura**
+- GoodReads: [Made in Japan: Akio Morita and Sony](https://www.goodreads.com/author/show/51700.Akio_Morita)
+
+[Made in Japan: Akio Morita and Sony](https://www.goodreads.com/author/show/51700.Akio_Morita) - This book changed my view of how a company needs to be run. It gave a very refreshing view of Japan and its culture. This is written in a simple English given that English is not their mother tongue.  But it has expressed all thoughts in a much effective way. After reading this, I felt Japanese Culture is very similar to India/Sanatana Dharma and its ethos. One important learning, which I felt after reading this book is Akio Morita and other Japanese worked with what was available whether resources or law and made the most out of it. They did not complain that this was lacking due to this or government rules are very restrictive. Rather, they made the best out of what was available and tried to get better at their work.  
+
+This is the book I would recommended to anyone to know about Japanese way, about how to build a company, about how to develop peers. So many lessons exists in this book.
+
+Here are some of the important points from the book, I liked
+- Just because you are at the top does not mean you can say anything or order somebody to do stuff.
+	- Be very clear of what you want to say 
+	- Everyone in general wants to succeed   
+	- Do not scream or shout at some one, do not look for scape goat or blame others. It is useless. Do not be mean with others. Do not be selfish
+	- Work with others using motivation so you can work for advantage to both of you
+	- Manager needs to cultivate patience and understanding
+- Just having a great good quality product is not sufficient for people to buy stuff. You need to market and sell it. You need to identify the people who will really have value for that product
+- Name of the company does not have to be literal meaning. Make it something which can be easily identifiable. Just do not put a bad meaning name. Names can be changed during early days
+- Your company name and trademark are your companies spirit. Boldly protect it, defend it and fight for it.
+- Japan did not had any natural resources so they had to rely on People Energy.   
+- Why did not emphasize that product is from Made in Japan in the initial days because there is no precedent that product with high quality is from Japan. Hence, people or customers will have many biases. So, when people hear that product is from Japan instead of their known country then they will reject it before trying. To avoid this, initially printed with small font "made in Japan" and did not emphasize it.
+- In electronic field usually customers do not know what they want. Rather the product developer would know and it is product makers responsibility to lead the people to the product by communicating and educating the public. 
+- A company should provide environment to allow members/employees to respond in team spirit and allow them to express in full content about the creativity. " If it were possible to establish conditions where persons could become united in firm with spirit of teamwork and exercise to their hearts desire their technology capacity, then such an organization could bring untold pleasure and untold benefits"  
+- When you are trying to learn foreign culture or about a foreign country learn from the persons who belong to that culture or country rather than from your own people who have studied that culture or company - I think, there is a corollary for us Indians here. We need to learn our culture from our own people rather than outsiders.   
+- Always put effort to think. If you do not utilize the tool that is mind, it will not sharpen or develop.  
+- We should always fit to the world and not the other way around. But we should also not leave our roots.
+- Try to learn new things from different culture but get them back to your culture.
+- It seems many new discoveries happens because we had worked on an equivalent one earlier and it had many issues. While fixing these issues based on our ideal model or constraints we come across new system.
+- Invest on something which are being researched as of now and they will be very expensive now but could be optimized later as more research and effort is put.
+- Keep an eye on number of competitors entering the area. There could be future price war. Get out of it if possible to avoid loss. If you are okay to sustain loss and there is a future improvement that would need this loss, then persist.
+- Somethings are good for short term but not good for long term.
+- Olympic hosting by a country is like a Yagna being done by the country. It will do an all round development of the country and especially true for the city which is hosting it. 
+- Any government should be the ambassador of their countries private companies to the external world. It is a sorry state, if government thinks, they are the enemy of the private business.
+- When you want to setup a factory in another country or in a new area, first have your sales and marketing team set up in that location. Learn about the market in that area/country and get the confidence of the market. Then, only venture out to build the factory locally.
+- Companies that are able to establish a shared responsibility among all of its employees - managers & workers are the ones which will succeed.
+- Your business's future depends on the people you hire, especially on the hands of the youngest recruit.
+	- Personally meet them on their first day and give a talk. 
+	- Introduction to Freshers Joining the Company
+		- You should understand the difference between the school and a company. When you are going to school, you pay tuition to the school. When you are going to company, company is paying tuition to you. While you are learning your job you are a burden and a load on the company. 
+		- When you are in school, if you do well in exam and score 100 percent that is fine. But if you do not write anything yet all in the examination paper, you get a zero. In the world of business, you face an examination every day. You can gain not only 100 points but thousands of points or just fifty points. But in business, if you make a mistake, you will not get a simple zero. If you make a mistake, it is always minus something and there is no limit on how far down you can go, so this could be a danger to the company.
+		- We do not draft you into company like an army does. That means you have voluntarily chosen Sony. So, this is your responsibility to succeed and work to succeed the company, and normally if you join this company we expect that you will stay for the next twenty or thirty years  
+		- Nobody can live twice, and the next twenty or thirty years is the brightest period of your life. You only get it once.     
+		- When you leave the company thirty years from now or when your life is finished, I or you do not want to regret that you spent all those years here. That would be a tragedy. I cannot stress the point too much that this is your responsibility to yourself. So I say to you, the most important thing in the next few months is for you to decide whether you will be happy or unhappy here. So even though we recruited you, we cannot, as management, or a third party, make other people happy; happiness must be created yourself.   
+-  People do not work just for money and if you are trying to motivate, money is not the most effective tool. To motivate people, you need to bring them into the family and treat them as respected members of it.  
+	- It is possible if you have an educated population and their basic needs are already satisfied.
+- Recognize the workers who have the ability to inspire others to work for an idea. Usually people who have become head of a union within the company kind of demonstrated that. Recognize them and give them enough opportunity.
+- We do not want a worker to work in the same job life long. They need to be changed every few years and they need to try out different things. If they are stuck in the same job, then they will become dull. 
+- To know about the problems, mingle with all the employees - managers and workers, from highest to lowest. One of the way is to have lunch/dinner/breakfast with these employees to connect with them. Understand what problems they have. Help them. Understand how they are perceiving about the company.  
+- Allow any employee to freely change the job within the company. There should be a portal to advertise all the job openings in the company. Let the employees choose any job they like. They should have the freedom. As they have the freedom, they are now responsible to make it work. We can also identify, if manager is good or he needs to be assigned less people as more people are moving away from their team.  
+- College degree should not be a necessary condition to applying any type of job. It is nice to have but never mandatory.   
+- Free flow discussion is a must in the company. Do not try to bring consensus by stifling the individual ideas or thoughts. Rather have a good discussion about the thoughts/ideas and let the best one win.  
+- Everyone in the company will have different ideas. We should not get agitated because other person has different view or idea. If both of them had same idea or view, then there is no need for the 2 persons in the company. 
+- A manager who talks too much about cooperation is one who is saying he doesn't have the ability to utilize excellent individuals and their ideas and put their ideas in harmony. If my company is successful, it is largely because our managers do have that ability. 
+- Spend time in your free time getting to know about your people working with you. As a manager you should know about your reporters. Understand them, get to know them. As an employee as well you should know your colleagues. Do not just sit behind the desk  
+- Do not allow human resources to act like God's. They assign job. Similarly do not make management as God's 
+- Encourage everyone to provide suggestions to improve companies work and their own work. This is not enforced. Even low level workers should also contribute here. They are not just here for manual labor
+- Any employee, should not wait for the instructions from superior. Do not think like what will the superiors think. If you think it is right thing to do, then go ahead and do it  
+	- Go ahead and do what you feel is right. If it is a mistake learn from it. Just do not make the mistake twice. 
+- When somebody make a mistake do not pin it down on them and punish them. Rather collectively own the responsibility. Learn from it. Make the mistake and the learning from it public. So that others can learn from it.  
+	- It is generally considered bad taste to go and find who made the mistake when something goes wrong. Its the system that went bad and mechanism has to be fixed.  
+- Intentionally do not define all the responsibilities to the details. Keep it general. As each members are a family, let them take the responsibilities as and when required by the team. 
+- How can you fire someone just because he made mistake? If your child made mistake do you disown them? When you fire someone, you are deleting that experience and knowledge experience as well. Even during recession, only when company is in dire state, then only do it. In Japan, even somebody got fired due to company in very bad state, they did not sit at home. As the thought goes - how can you sit at home when their company is in bad state?
+- When a company takes the responsibility and risk of hiring someone it is responsibility of company to retain them. Just drop of a hat if things looking bleak we should not fire. In good times hire and just with a hint of start of bad times, fire people is no good yet all. Why should employees suffer, who did not had a say in their hiring. When in bad times or during recession, first , top management should take the salary cut, company should be willing to stop taking profits. Everybody's wage increase and bonus needs to be sacrificed to share the pain across board. Everyone including managers have the same simple parachute that is job guarantee and constructive work.  Managers do not have golden parachutes. 
+	- Managers should not think that they are special breed that they are elected by gods to lead stupid people to do miraculous things  
+- The performance of manager is measured by how well that manager can organize a large number of people and how effectively he or she can get the highest performance from each of the individuals and blend them into a coordinated performance. What you are showing to your employees is not that you are an artist who performs by himself on the high wire, but you are showing them how you are attempting to attract a large number of people to follow you willingly and with enthusiasm to contribute to the success of the company. If you do that, bottom line automatically takes care of itself. Do not judge a manager via bottom line.
+- The Japanese way of running a company is familial and egalitarian way. There are other ways like pure hard straight and clear logic. Just because we belong to other it does not mean we don't appreciate other way.
+- Usually American way of management is concentrating on the profits. In Japanese way, profits need not be high. It is necessary but not more than long term thinking. We should not worry about too much on immediate returns. Hence profit over long haul is better. That means we need to keep investing in Research and Development like around consistently 6% of sales.
+- Service of the products is very important. When you are only concentrating on profits, service seems dead waste and nuisance. If not taken seriously it will impact your product quality
+- Often sales department will be the biggest enemy of the new innovation. This is because there is lot of effort needed for re-educating sales team and to the public about new products. A popular product would have already performed and it's development cost already covered, so selling the existing popular product is easy profits. But, with the new products, we may have to discontinue it if things do not go well, they need to re-educate themselves and also public. So they oppose any new development after a popular release.  
+- Change is permanent 
+- Just because development cost is too high, we should not abandon a product. Think long term here.
+- A bad product or a product which is not in its time cannot survive for long with as many advertisements and promotions.
+- First step in creative work is imitation. With that, we get the know how of it.  Then, we add our own abilities and modify based on our abilities.   
+- There are 3 types of creativity - creativity in technology, creativity in product planning, creativity in marketing. Lacking any one of them will impact the product  
+	- With a good creativity we will have a good technology or a fine invention, but it is still not sufficient. Without the product planning that is deciding on how best to use the invention or technology in the product, it is of no use. Hence, we need creativity in product planning. Once we have the product, we need creativity in letting the right people reach the product. Hence, an organization needs all 3.  
+	- When a new technology or innovation or phenomena happens or we come to know, we ask these questions
+		- How can I use this in my product?
+		- How can I make use of it and produce a useful product out of it?
+		- What can I make with it? 
+- To unleash the creativity of an individual, we need to set targets. When targets are set for an employee, they might struggle to reach but effort is put to achieve that target and they will get a direction. If large amount of money is given to an employee and there is no clear target, and just if say invent something, then you cannot expect success  
+	- Management should give targets to it's employees.
+	- The targets should be meaningful!
+- It's not good to just have a scientist at the helm. They should be good at sales and accounting to understand what it takes to build and maintain it.
+- Managers who are not capable of deciding from a technical standpoint whether a product is feasible or not are at a tremendous disadvantage. Managers should not move from one industry to another.
+- If an engineer come up with an idea, let him be responsible for selling the idea to teams - marketing, sales. They should know the full cycle. If necessary setup a separate business for the idea and relive him from your company. 
+- Never trust that someone else will do the job as you would have done. So, do not put the burden on them of fulfilling your wish  
+- Japan has a socialistic and egalitarian free economic system - So, India having a socialistic is not the problem for building great companies.
+- Government is a major partner or shareholder of private companies in Japan. As Japan gives a major portion as tax. This tax giving is not seen as a negative. So, from government point of view, it needs to help it's partner. It wants it's partner to grow so that more money in tax comes to government.  Also, it wants it's partner to work harder. People are all employed, company pays them and hence it needs not pay out doles.   
+- In Japan, a person who holds an executive position of trust and who violates it is really disgraced. Due to closed circle society, it is impossible for him to continue to do more damage to company after company.
+- Japanese management is usually thinking of long range and of collective growth mindset.  
+- What is your most important responsibility? - 
+	- A Japanese executive will say it is to have continued employment and improving the livelihood of workers is at the near or top of the list. In order to do that, company needs to make profit. Making a profit will never be the sole responsibility. 
+	- Most American businesses executive put the highest priority on returns to the investors or this year's profit. They have a responsibility because investors gave it to them. To stay in the job, they need to keep investors happy. The board of directors represent the investors. So, if top management fails to give returns as expected by investor, they will be fired. For that reason, he is entitled to use factory, machinery of company, workers and tools to accomplish it. So, everything will become commodity. 
+- Most of the American plants have very bad conditions for factory floors but management offices will be made very comfortable. In case of Japan, usually factory and management share the same status. They both have common conditions. Factory working condition improvements are given higher priority. So, when worker are happy, they can give better output. Amenities for management is not of great concern.
+- Japanese people tend to honor their work. They treat any kind of work as honorable. They do not think one is low level job vs another. Or status is not assigned for the type of work.
+- The machine like management is management of dehumanization. Here, efficiency in manufacturing conventional products is God. Everything needs to be automated. Due to rapid technology progress, we should give importance to acquiring new knowledge, information and different technology rather than efficiency in manufacturing conventional products. Preserving old way of doing things and trying to optimize those methods is not good. Technology will overtake. New employees needs to educated in new technology as well as old employees also needs to be educated on new technologies to keep up with the tech.
+- Modern industry should be brain intensive.
+- In Sony, we ask scientist and fresh graduate to spend initial days as salesperson. This is to understand the customer and market. They should not live in ivory tower.
+- The desire to work and to perform well should be there naturally in all. It doesn't have to be imposed. Everyone will get a sense of satisfaction from accomplishing work that is challenging and when their work & role are recognized.  
+- In Japan, we promise job security. But it comes with the responsibility on management to keep motivating the employees.
+- People need money but they also want to be happy in their work and be proud of it. So if we give a lot of responsibility for a younger man without title they should be okay. Do not tie title, job and monetary benefits together. Every employee should be given same salary raise. Money should not be the driving factor for motivation. That will not scale.
+- People work for satisfaction. Usually people aim for leisure as the most satisfying goal in life. We need to develop company patriotism and job satisfaction of the employees. Provide consistent good salary across every employee and everyone needs to get consistent raises.
+- Recruits are hired and then managers think how best to fit the recruit to the whole company. Rather than having a specific specification and getting 100 similar recruits. Time to time they need to be realigned as people mature.  
+- In order to to make a rational decision, you have to know all the facts and the environment that surrounds the fact. But, it is probably impossible for a human being to know everything. American managers may believe that they are rational, but they are only rational on the basis of the facts that they have come to know. There are bound to lots of facts  and environmental factors that they don't know. If these are missing, it is natural that no matter how rational a conclusion might seem, it's going to be off base. Japanese managers seem to have a kind of Oriental sixth sense. Probably instead of putting one fact together with another, they grasp a general idea as a whole and then use this information with that sixth sense in making decisions. This way they have better grasp of the general idea than one can get only through careful reasoning.  
+- People who are into business should know the business and the environment in which the business is running. Based on the knowledge, they should be will to take risk.   
+- Anyone running the business needs to have a deep technical knowledge about their product and environment. If they do not know they will not have confidence and need to justify every move to themselves and others. They will not be sure of themselves. They usually go to consulting firms.  
+- During an economic slump, when companies fire it's employees, it is like killing the spirit of company.   
+- Always look for long range business. So revenue and profits will be less in initial stages. Then it gets better   
+- Competition is very much necessary in the business. Only remember that, do not break persons rice bowl.  
+- Share of market is more important than profitability. Long term investment is always preferred over short term profitability 
+- Provide good quality product and in as many varieties such that all the customers whims  are satisfied 
+- Our true capital was knowledge, ingenuity and passion   
+- You should be able to say no to powerful person in a correct way. We should be able to give honest opinion. Example SOVIET AND Chinese encounters 
+- Competition in education is bad. They are crammed whole life and once reach graduation they are totally exhausted. There is nothing fresh their mind will produce  
+- Technology is not only for niche stuff but it is needed for survival. Technology is as basic as inventing stuff during survival in nature example [Sergeant Yokoi](https://en.wikipedia.org/wiki/Shoichi_Yokoi) case study, things he developed to survive in nature.  
+- Any country, any company, any person should seek for the latest technology. Need to learn from it. Need to bring to the masses.  
+- These Japaneese concepts are internalized
+	- Mottainai - something is too good to be wasted or everything is divine so do not waste it or treat everything with regard
+	- nemawashi - laying the ground work for preparing for the change. Usually preparations done to move a tree.
+- Leaving up manufacturing capabilities to offshore and just selling final product is very bad. This is spreading in USA and Europe which are very concerning. Even when you are setting up or selling your products in another country, set up a manufacture plant in that country. Train their people and build it there.  
+- Think long term. The technology which are high tech now will be in consumer goods in 10 years. So it is important to invest in Research and Development. Work on converting that technology to product and then marketing.
+- Business should pay it's share of taxes and abide by all the laws and rules of that host country.

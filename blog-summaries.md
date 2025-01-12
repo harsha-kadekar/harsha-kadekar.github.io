@@ -534,3 +534,19 @@ This page holds some of the good blogs I have read and what I took from it.
 	- Better to have the office hours  
 	- Divide the day into 2 chunks - one with interruptions and another with reserved space to do creative work  
 	- I need to get back to getting up early and start the work.
+
+## How to teach yourself hard things
+- Source: Julia
+- Tag: Skills
+- Date Added To List:
+- Date Read: 2025-01-07
+- Link: [How to teach yourself hard things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/)
+- Summary:
+	- Need to have a growth mindset. 
+		- It is not `I am bad at X` rather it is `I have not yet learned about X`
+	- Identify what I do not understand
+	- Identify what I do understand. 
+		- This brings confidence in ourselves. This helps to identify any issues and be sure that it is an issue rather than questioning our belief. This takes a knowledge and become 100% sure about it
+	- Ask questions once you know what you know and what you do not know.
+	- Do the necessary research
+	- When you are confused or feeling lot of ambiguity, that means you are about fill a gap or learn something new. Be excited about this.
