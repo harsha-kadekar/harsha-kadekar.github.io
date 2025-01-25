@@ -550,3 +550,24 @@ This page holds some of the good blogs I have read and what I took from it.
 	- Ask questions once you know what you know and what you do not know.
 	- Do the necessary research
 	- When you are confused or feeling lot of ambiguity, that means you are about fill a gap or learn something new. Be excited about this.
+
+## You should keep a developer’s journal
+- Source: StackOverflow
+- Tag: Skills
+- Date Added To List: 2024-01-04
+- Date Read: 2024-01-13
+- Link: [You should keep a developer’s journal](https://stackoverflow.blog/2024/12/24/you-should-keep-a-developer-s-journal/)
+- Summary: 
+	- It helps to define what I should be doing
+	- It helps to reduce the ambiguity of a task by forcing to think and write about the task I am doing
+	- We can review the notes and learn from our work and experience
+	- Helps us to focus on the intended work by parking all the other thoughts in the journal during the work.
+	- Able to express yourself freely and hence transfer your emotions to the journal
+	- Write when you get stuck and write when you figure things out.
+	- Write when you get ideas, have questions, have to dos
+	- Write when you finish a task describing how it went and what to learn from it.
+	- These helps in talking points with your manager 1:1, help to understand what type of work you like and what you do not, year reviews, team retros, writing future blog post, help team grow with new insights
+	- In general, it should
+		- Clear our mind
+		- Nudge to think of ideas , plan your days, thing through your ideas
+		- make more mindful of success and failures you have

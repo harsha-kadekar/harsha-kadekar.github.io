@@ -18,6 +18,7 @@ This page has all the blogs/articles/youtube videos that I feel is good recommen
 	- [How to review code effectively - A Github staff engineer's philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
 	- [Commit to competence in this coming year](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5)
 	- [Teach yourself Programming in Ten Years](https://norvig.com/21-days.html)
+	- [You should keep a developer’s journal](https://stackoverflow.blog/2024/12/24/you-should-keep-a-developer-s-journal/)
 - Year end reviews
 	- [A year in review: 2023](https://hamvocke.com/blog/2023-in-review/) 
 	- [2024: A Year In Review](https://mrkaran.dev/posts/2024/)

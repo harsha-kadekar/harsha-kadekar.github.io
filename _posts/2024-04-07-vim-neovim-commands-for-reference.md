@@ -49,3 +49,5 @@ In general, format is `<count><action><scope><object>`
 - To cycle through different panes - `ctrl + w + w`
 - To close an open tab - `space B D`
 - To close all the open tab but the current one - `space B O`
+- To create a new directory - navigate to the folder under which you want to create the directory and then - `A`
+- To create a new file - navigate to the folder under which you want to create the file and then - `a`
