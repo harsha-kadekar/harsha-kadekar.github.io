@@ -9,16 +9,17 @@ This page has all the blogs/articles/youtube videos that I feel is good recommen
 
 - Technical
 	- [How Https Works](https://howhttps.works/)
-	- [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
-	- [How rocksdb works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
+	- [How DNS Works](https://wizardzines.com/zines/dns/)
 - Personal Finance
 	- [Buy Wisely](https://stephango.com/buy-wisely)
 - Software Engineering
 	- [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
+	- [How to make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 	- [How to review code effectively - A Github staff engineer's philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
 	- [Commit to competence in this coming year](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5)
 	- [Teach yourself Programming in Ten Years](https://norvig.com/21-days.html)
 	- [You should keep a developer’s journal](https://stackoverflow.blog/2024/12/24/you-should-keep-a-developer-s-journal/)
+	- [Working 101](https://j11g.com/2020/09/30/working-101/)
 - Year end reviews
 	- [A year in review: 2023](https://hamvocke.com/blog/2023-in-review/) 
 	- [2024: A Year In Review](https://mrkaran.dev/posts/2024/)

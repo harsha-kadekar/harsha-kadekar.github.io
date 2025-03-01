@@ -2,11 +2,108 @@
 date: 2024-09-15
 layout: page
 title: Blog-Summaries
-updated: 2024-12-26
+updated: 2025-01-26
 ---
 
 This page holds some of the good blogs I have read and what I took from it. 
 
+## A Survival Guide: How to make it through as a Senior Engineer
+- Source: achievers.engineering
+- Tag: skill
+- Date Added: 2025-02-09
+- Date Read: 2025-02-12
+- Link: [A Survival Guide: How to make it through as a Senior Engineer | by Kerem Balci | Achievers Engineering](https://achievers.engineering/a-survival-guide-how-to-make-it-through-as-a-senior-engineer-320da2392c57)
+- Summary:
+	- When working on a task understand what's the impact it has on project team and company  
+		- Prioritization of tasks based on  effort and value   
+			- High value - low effort - do it now  
+			- High value - high effort - do it next  
+			- Low value - low effort - do latter  
+			- Low value - high effort - do not do it  
+		- Sometimes it might feel that task is important to you but not to the business. Then business wins  
+	- As a senior engineer you are delivering solutions and not code. Code is means. Clarity of solution is important   
+		- Clarity in code, design, communication   
+		- You are delivering solutions to humans   
+		- The complex code will not be touched by engineers even though it is not difficult   
+	- As senior engineers communication is the most important skill  
+		- You should be able to articulate your past and present solutions you are responsible for  
+		- You should think and have a reason for every decision you take.  
+	- Get things done and figure it out  
+		- You need to take care of business day in and day out 
+		- You need to put extra effort to keep up with the new skillset on the go  
+		- Keep pushing yourself every day to learn, grow yourself and deliver value 
+	- What is important to business and make it yours as well 
+		- You are not there to just do what has been told or some project you like.  
+		- Your job is to increase the value of your company. You should think what gives most value to your team and company
+
+## Working 101
+- Source: J11g
+- Tag: skill
+- Date Added: -
+- Date Read: 2025-02-10
+- Link: [Working 101](https://j11g.com/2020/09/30/working-101/)
+- Summary:
+	- Know where your time is going by tracking it. Do daily review and plan for tomorrow. Then do weekly, monthly, quarterly and yearly reviews to understand where you are going and lookout for interesting patterns  
+		- Answer what you liked and what did not like, what made you happy and what not, what you want to do it differently   
+		- Demand that others also respect your time. Example decline meeting if it is not adding value or you can spend time more valuable somewhere else.  
+		- If you do not manage your time, others will manage it. Example when you are in India  
+	- Add value by creating things needed by customer and solving problems of customers  
+		- You are not paid to clock 8 hrs a day in office. Sometimes you add value with just 2 hours in a day  
+		- As a manager or senior engineer your tasks are  
+			- Decide priorities of things that need to be created or fixed  
+			- Keep track of projects and commitments  
+			- Communicate with team and other teams  
+			- Help team members grow  
+	- Leverage - Always think is the right job to do at this time to get the maximum value  
+		- To understand what is the maximum value you can provide, you need to understand what are you good at. What are your talents.  
+		- There will be multiple options to consider for what you should be doing right now. You should decide on multiple factors.  
+- Manage expectations when things are not going as planned to avoid any future surprises.  
+	- Target for completion but if things are not going as planned, communicate often.   
+	- Avoid surprises always.  
+- We need to track the tasks we are doing.  
+	- It should be tracked in a system  
+	- When tracking, it should  
+		- first things first  
+		- Start with the end in mind  
+		- Do one thing at a time  
+- Prepare for the next job  
+	- Always be in the loop to learn new stuff.  
+	- You need to improve your talents  
+	- Always looking for opportunities to test your talent in different jobs   
+	- If you do not know what to do next, write what your colleagues want to tell about you when you are not there. Find any gaps in the liking vs what you have. Work for it to fix.
+
+
+## How to Make Your Code Reviewer Fall in Love with You
+- Source: Michael Lynch
+- Tag: skill
+- Date Added: 2025-02-03
+- Date Read: 2025-02-05
+- Link: [How to make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
+- Summary:
+	- value your reviewer's time
+	- Always review your code first before sending it to review
+	- Write a clear change list or description, explaining what is the actual change done. This should cover both what and why of the change
+	- Use automation for things like format checks, linting, static code checks, syntax verification, etc
+	- Respond graciously to reviewer questions and comments. If they catch some error or edge case, thank them!
+	- When reviewer says this is too complicated , confused or difficult to understand. Ask "What changes could help?".
+	- Answer to the questions with the code links and explain using the code
+	- When someone asked some questions or reported it little difficult to understand or understood wrong, that gives a good opportunity to refactor the code to make it more clear in the code.
+	- When reviewers are wrong, be patient and explain it. Apart from this, this is a good opportunity to refactor to avoid that confusion.
+	- Avoid adding extra code which are not related to the change you are making. Example, do not try to refactor other code when you are implementing a functionality.
+	- Break up large change into smaller changes
+	- differentiate between functional changes and non functional changes
+	- Communicate your responses. Respond to every comment of the reviewer. Mention if you are taking it or not. If not, explain why and how you will address it.
+	- When there is a tie between your way of doing things and reviewer way of doing things, allow reviewers way of doing it. 
+	- Minimize the time between start of the review and for closing the review and shipping the change. It is the implementer responsibility.
+
+## To question is to consider, not refute
+- Source: Derek Sivers
+- Tag: skill
+- Date Added: 2024-11-16
+- Date Read: 2025-02-09
+- Link: [To question is to consider, not refute](https://sive.rs/qcc)
+- Summary:
+	- Questioning is needed for exploring, understanding if old understanding still holds good for new scenarios. It is for understanding our assumptions. It is for considering
 ## The Logic of risk taking
 - Source: Twitter
 - Tag: skill
@@ -571,3 +668,75 @@ This page holds some of the good blogs I have read and what I took from it.
 		- Clear our mind
 		- Nudge to think of ideas , plan your days, thing through your ideas
 		- make more mindful of success and failures you have
+
+## Navigating ambiguity
+- Source: Office
+- Tag: Skills
+- Date Added To List: - 
+- Date Read: 2025-12-20
+- Link: [Navigating Ambiguity](https://lethain.com/navigating-ambiguity/)
+- Summary:
+	- Map out the state of play
+	- Develop the options for discussion
+	- Drive the discussion
+	- Discuss with teams involved to identify all the problems and also discuss rough solutions
+	- Identify cross team issues 
+	- Identify the key stakeholders 
+	- Group problems into clusters  
+	- Identify the tradeoffs in each approaches and document it  
+	- Talk to teams that have already solved this problem   
+	- Determine who has the authority to drive the decision   
+	- Document the decision making process and decision taken  
+	- Decide on the criteria to reoythe discussion once a decision has been made
+	- Slow down if you need to bring along other people or consensus   
+	- Some times it s not the right time - example new info keeps getting added  
+	- Do you have an executive who is sponsoring this.
+
+## Reality has a surprising amount of details
+- Source: Twitter
+- Tag: Skills
+- Date Added To List: 2025-01-04
+- Date Read: 2025-01-20
+- Link: [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
+- Summary:
+	- Every work will have very surprising amount of detail and sub tasks.  
+	- When you are working on an unknown problem, then you do not know which are important details and which are just noise. Once you realize that something is important, it becomes too transparent and you will not be able to make out the difference   
+	- Seek details you would not normally notice about the world  
+	- When you talk to someone who is smart but seems so wrong, talk to them to understand what details is important to them and why  
+	- Notice how that meeting would be uneventful unless that one single point was discussed  
+	- In normal day to day look for unusual details in anything road, flower, things etc
+
+## School is not enough
+- Source: Twitter
+- Tag: Skills
+- Date Added To List: 2025-01-14
+- Date Read: 2025-01-20
+- Link: [School Is Not Enough](https://www.palladiummag.com/2023/06/06/school-is-not-enough/)
+- Summary:
+	- Need to identify the child's interest   
+	- School is catering to the minimum and for mass. So do not think that it will cater to your child  
+	- Learning happens by doing  
+	- Apprenticeship is through which they will learn.   
+	- The work should be challenging to them so that they can learn from it   
+	- Help the child to reach mastery.  
+	- Just going to school is not work  
+	- In this world, we no longer want children to work in a meaningful way but rather we want them to be busy while we adults do the real work  
+	- The more you ask from people or ask them to do, they will raise to the occasion and doing it on their own  
+	- We should think of ways the children can make meaningful contributions with respect to the reality  
+	- We should not be looking for a job rather opportunities for mastery  
+	- The child spending time in Minecraft is thought to be just playing game rather why not they are channeling their desire for building in that  
+	- For a kid it should be plain to understand, harder to make and very difficult to mastery. That should be the target apprenticeship or occupation for kid
+
+
+## These Two Engineers Dropped IT to Open Jayanagar's Popular Tiffin Eatery - Bengaluru Cafe
+- Source: Youtube - FoodLovers TV
+- Tag: Startup
+- Date Added To List: 2025-01-26
+- Date Read: 2025-01-26
+- Link: [These Two Engineers Dropped IT To Open Jayanagar’s Popular Tiffin Eatery BENGALURU CAFÉ!](https://www.youtube.com/watch?v=7x72JLo0yZo)
+- Summary:
+	- Bengaluru Cafe is started by 2 engineers after giving up their IT job. One of the founder actually had done MS in USA in embedded engineer. 
+	- For the hotel, he has sold all the savings and 401k to start it
+	-  They have looked on improving the process and optimizing every aspect of the hotel management.
+	- They took time to perfect one small store and now they are expanding to bigger store.
+	- I got inspired by their work. I plan to visit the shop in Jaynagar when I visit Bengaluru.
