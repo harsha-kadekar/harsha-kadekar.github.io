@@ -43,6 +43,7 @@ The two books that has helped in learning these commands apart from linux itself
 - [To Archive list of files and directories - tar](#to-archive-list-of-files-and-directories---tar)
 - [To compress & uncompress files and directories - gzip/bzip2/zip/gunzip/bunzip2/unzip](#to-compress-&-uncompress-files-and-directories---gzip/bzip2/zip/gunzip/bunzip2/unzip)
 - [To understand the disk consumption in a directory - du](#to-understand-the-disk-consumption-in-a-directory---du)
+- [To understand ips behind a domain - dig](#to-understand-ips-behind-a-domain---dig)
 
 ## Commands
 ### [To know which directory we are in - pwd](to-know-which-directory-we-are-in---pwd)
@@ -1425,4 +1426,136 @@ Sometimes, we would like to exclude certain type of files. We can use `X` or `ex
 4.0K    ./.vscode
 40K     ./find_shortest_path
 60K     .
+```
+
+
+### [To understand ips behind a domain - dig](to-understand-ips-behind-a-domain---dig)
+
+We can use `dig` to understand the mapping between hostip and the domain/dns (or website name).  Usually these hostips are the hosts that would be either hosting that website or atleast frontend for the website.
+
+To get all the IPv4 linked to that domain, use `dig <dns name>`. Example: 
+
+```shell
+➜  workspace dig harsha-kadekar.blog
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.2-Ubuntu <<>> harsha-kadekar.blog
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57662
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;harsha-kadekar.blog.           IN      A
+
+;; ANSWER SECTION:
+harsha-kadekar.blog.    600     IN      A       185.199.110.153
+harsha-kadekar.blog.    600     IN      A       185.199.108.153
+harsha-kadekar.blog.    600     IN      A       185.199.109.153
+harsha-kadekar.blog.    600     IN      A       185.199.111.153
+
+;; Query time: 74 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Fri Mar 07 19:30:19 PST 2025
+;; MSG SIZE  rcvd: 112
+
+```
+
+In-order to get only a set of Ips instead of the full details, we can use `+short` argument. Example - 
+
+```shell
+➜  workspace dig +short harsha-kadekar.blog
+185.199.108.153
+185.199.111.153
+185.199.109.153
+185.199.110.153
+```
+
+If we want to get the list of IPv6 entries present in the DNS, we can use `AAAA` argument. Example - 
+
+```shell
+➜  workspace dig +short AAAA harsha-kadekar.blog
+2606:50c0:8000::153
+2606:50c0:8001::153
+2606:50c0:8002::153
+2606:50c0:8003::153
+```
+
+If we want to understand the nameserver that are helping to find the DNS, we can use `NS`  argument. Example
+```shell
+➜  workspace dig +short NS harsha-kadekar.blog
+curitiba.ns.porkbun.com.
+fortaleza.ns.porkbun.com.
+maceio.ns.porkbun.com.
+salvador.ns.porkbun.com.
+```
+
+To get the full DNS records then, you can use `+noall` to remove all unnecessary info, `+answer` to get the actual result of dig command. Example - 
+
+```shell
+➜  workspace dig +noall +answer harsha-kadekar.blog
+harsha-kadekar.blog.    302     IN      A       185.199.111.153
+harsha-kadekar.blog.    302     IN      A       185.199.110.153
+harsha-kadekar.blog.    302     IN      A       185.199.108.153
+harsha-kadekar.blog.    302     IN      A       185.199.109.153
+```
+
+To understand the full tracing of how the domain is looked from the root nameserver and all the way to the domain nameservers use `+trace`. Example - 
+
+```shell
+➜  workspace dig +trace www.harsha-kadekar.blog
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.2-Ubuntu <<>> +trace www.harsha-kadekar.blog
+;; global options: +cmd
+.                       474361  IN      NS      g.root-servers.net.
+.                       474361  IN      NS      d.root-servers.net.
+.                       474361  IN      NS      m.root-servers.net.
+.                       474361  IN      NS      k.root-servers.net.
+.                       474361  IN      NS      a.root-servers.net.
+.                       474361  IN      NS      c.root-servers.net.
+.                       474361  IN      NS      j.root-servers.net.
+.                       474361  IN      NS      b.root-servers.net.
+.                       474361  IN      NS      h.root-servers.net.
+.                       474361  IN      NS      l.root-servers.net.
+.                       474361  IN      NS      i.root-servers.net.
+.                       474361  IN      NS      e.root-servers.net.
+.                       474361  IN      NS      f.root-servers.net.
+;; Received 811 bytes from 127.0.0.53#53(127.0.0.53) in 17 ms
+
+;; communications error to 192.36.148.17#53: timed out
+;; communications error to 192.36.148.17#53: timed out
+;; communications error to 192.36.148.17#53: timed out
+blog.                   172800  IN      NS      a.nic.blog.
+blog.                   172800  IN      NS      b.nic.blog.
+blog.                   172800  IN      NS      c.nic.blog.
+blog.                   172800  IN      NS      d.nic.blog.
+blog.                   86400   IN      DS      16976 8 2 9862DE44E1E7E44215165000C4B87BD3F46D439C686166DA0CA79E06 896958B7
+blog.                   86400   IN      DS      17455 8 2 C0D6CD12FCB746BB819DF417DFA43ED0D4227BD62195F749537AF85A 939D2A21
+blog.                   86400   IN      RRSIG   DS 8 1 86400 20250320210000 20250307200000 26470 . TmK/FNw+DGlTOZkwWEvLKcDEjYNS0XfepWfPbRi8z7Co/Armk8OhcQMb HE55+eYB27FNx36ZrjJYkrXQ5TCWLVXanR45wuappXkhmw97HtEXZJTD TQfVsEMZtMAhvHmvpJcxZsFOzUfkyu4hwMPLvcHvf2/oQBqsGusDZ5qr QI+mAYy6ya3aD3maVQDDmNSPYA2RQOUdeDheTz8i1+Iys/tFnxiKOff0 XlcxGU5wg5Wy5NrJszMm3OPU1W41fFNXb7ruTTp3g+xlWTWonwh4Hpwr y6iRzWBsfMQmP0XQmZMEzzS7WOugl5WGvVO/2sIkfkle2dZfve79w0dP NQzt1g==
+;; Received 679 bytes from 2001:503:c27::2:30#53(j.root-servers.net) in 18 ms
+
+harsha-kadekar.blog.    3600    IN      NS      maceio.ns.porkbun.com.
+harsha-kadekar.blog.    3600    IN      NS      curitiba.ns.porkbun.com.
+harsha-kadekar.blog.    3600    IN      NS      salvador.ns.porkbun.com.
+harsha-kadekar.blog.    3600    IN      NS      fortaleza.ns.porkbun.com.
+7iirrmjiultl43s294jbdr696ak5khgr.blog. 900 IN NSEC3 1 1 0 - 7IKNRC1CH1FRKL88CJ34I575G014MN0O NS SOA RRSIG DNSKEY NSEC3PARAM
+hejbhfea0vgc49v88384qch4c99qjb90.blog. 900 IN NSEC3 1 1 0 - HEOCMTT9B63QU5FJB73NBAD2DLL54OUB NS DS RRSIG
+7iirrmjiultl43s294jbdr696ak5khgr.blog. 900 IN RRSIG NSEC3 8 2 900 20250404083659 20250305070659 50766 blog. Bx9Xp6eE3hYss4XNg/EnFsYKAb+VsTzVjUQT1hgNSsrovRnlE4rwMk7/ d13LdUw+izUVzQqhbctCsZs2MBqaSLDKy8bKq5CUJigP9K4ftF8jPpzO NV/jtzG6T3hXX/9e0/0jHQQs72QKRejWIx9sUqJTHBfcokr7dfmWx/pw G8I=
+hejbhfea0vgc49v88384qch4c99qjb90.blog. 900 IN RRSIG NSEC3 8 2 900 20250404102945 20250305085945 50766 blog. lUY75pznObpfGKigMl0kTE06uKu+Mw/zwgdL4ipJW0fmpYwJdAKL5Ra5 PIUNaOKPPfg9mTn8QK0SJD5N+QU1G6nsgRusSDnqG9WqjGZiNxGmiwM8 ikaWCQ0QQ/Kx7XDjsOSJGpMkvH0RakO7OMuxKXaPKeX+cmGadI/CGvmn tck=
+;; Received 672 bytes from 212.18.249.94#53(d.nic.blog) in 39 ms
+
+www.harsha-kadekar.blog. 600    IN      CNAME   harsha-kadekar.github.io.
+;; Received 90 bytes from 162.159.10.150#53(salvador.ns.porkbun.com) in 22 ms
+
+```
+
+We can also ask the dig to search via particular nameserver. Example - 
+
+```shell
+➜  workspace dig +short @173.245.58.37  harsha-kadekar.blog
+185.199.111.153
+185.199.109.153
+185.199.108.153
+185.199.110.153
 ```
