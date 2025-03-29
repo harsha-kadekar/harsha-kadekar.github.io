@@ -12,7 +12,7 @@ This page holds some of the good blogs I have read and what I took from it.
 - Tag: skill
 - Date Added: 2025-02-09
 - Date Read: 2025-02-12
-- Link: [A Survival Guide: How to make it through as a Senior Engineer | by Kerem Balci | Achievers Engineering](https://achievers.engineering/a-survival-guide-how-to-make-it-through-as-a-senior-engineer-320da2392c57)
+- Link: [A Survival Guide: How to make it through as a Senior Engineer - by Kerem Balci - Achievers Engineering](https://achievers.engineering/a-survival-guide-how-to-make-it-through-as-a-senior-engineer-320da2392c57)
 - Summary:
 	- When working on a task understand what's the impact it has on project team and company  
 		- Prioritization of tasks based on  effort and value   

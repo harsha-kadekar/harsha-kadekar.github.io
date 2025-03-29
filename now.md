@@ -2,10 +2,10 @@
 date: 2024-09-12
 layout: page
 title: now
-updated: 2025-03-10
+updated: 2025-03-28
 ---
 
-**Update Date: `2025-03-10`**
+**Update Date: `2025-03-28`**
 
 ## Personal Projects Update
 - I am learning *Rust Programming Language*. As of now, I am just following - [The Rust Book](https://doc.rust-lang.org/stable/book/). The ultimate goal is to develop my website/blog's back-end in Rust language.
@@ -20,7 +20,7 @@ updated: 2025-03-10
 
 ## Work Update
 - I continue to work for [Amazon - Amazon Web Services (AWS)](https://aws.amazon.com) as a Senior Software Development Engineer.
-	- The transition from just coding is my life to thinking about product and team as a whole. 
+	- The transition is happening from  *"coding is my life"* mental model to *"thinking about product and team as a whole"*. 
 		- How do I deliver results?
 		- How do I improve ownership?
 		- How do I maintain highest standards?
