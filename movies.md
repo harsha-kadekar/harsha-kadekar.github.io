@@ -4,7 +4,7 @@ layout: page
 title: Movies
 ---
 
-In 2-3 hours time, you are asked to influence a large number of people from varying background with innumerable opinions. One of the most effective way is cinema. It may be documentary, tv/web series or movie. It evokes emotions – you cry yourself, you become empathetic, you enrage, you laugh at the end you become one with a character which is so alien to you just 2-3 hours before. You feel for that character, you think what I can do to a lifeless and imaginary character. – Well I guess by this time you might have figured out I love movies. 
+In 2-3 hours time, you are asked to influence a large number of people from varying background with innumerable opinions. One of the most effective way is cinema. It may be documentary, tv/web series or movie. It evokes emotions – you cry yourself, you become empathetic, you enrage, you laugh at the end you become one with a character which is so alien to you just 2-3 hours before. You feel for that character, you think what I can do to a lifeless and imaginary character. – Well I guess by this time you might have figured out I love movies.
 
 Here is a list of special mentions –
 
@@ -69,6 +69,7 @@ Here is a list of special mentions –
 * **ಮೇಡ ಇನ್ ಬೆಂಗಳೂರು (Made in Bengaluru)** - 3 young guys wants to build a startup in Bengaluru.
 * **ಆಚಾರ್ & ಕೊ (Aachar & Co)** - A young girls journey from being so full of herself to taking the responsibility of complete family
 * **ತತ್ಸಮ ತದ್ಬವ (Tatsama Tatbava)** - A wife lodges a complaint that her husband is missing and the interrogation with multiple peoples to understand the truth.
+* **ಬ್ಲಿಂಕ್ (Blink)** - A time travel story
 
 ## Telugu
 * **Pelli Choopulu** – Some movies just feels perfect. After watching it, you feel elevated or it just brings a nice small smile by pulling your cheeks at the opposite direction. And this is one of that movie. Nice story, acting.
@@ -216,7 +217,8 @@ Here is a list of special mentions –
 * **Chef** - A chef goes on a trip with his son to revive his charm.
 * **Guess Who** - Daughter gets her white boy-friend to her parents anniversary celebration.
 * **The Prestige** - Two magicians rival to become top in their act
-* **The Hundred-Foot Journey** - An Indian family opens up a restaurant opposite of a French restaurant in a village in France.
+* **The Hundred-Foot Journey** - An Indian family opens a restaurant opposite of a French restaurant in a village in France.
+* **Jiro Dreams Of Sushi** - This is about Jiro and his famous Sushi Restaurant in Japan
 
 ## TV-Series
 

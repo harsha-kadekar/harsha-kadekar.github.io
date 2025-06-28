@@ -10,6 +10,8 @@ This page has all the blogs/articles/youtube videos that I feel is good recommen
 - Technical
 	- [How Https Works](https://howhttps.works/)
 	- [How DNS Works](https://wizardzines.com/zines/dns/)
+	- [Base64 encoding explained](https://www.writesoftwarewell.com/base64-encoding-explained/)
+	- [Linux ate my ram!](https://www.linuxatemyram.com/)
 - Personal Finance
 	- [Buy Wisely](https://stephango.com/buy-wisely)
 - Software Engineering

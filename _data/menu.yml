@@ -17,8 +17,8 @@ entries:
 
   - title: <b>I am currently reading</b>
     entries:
-      - title: "Designing Data-Intensive Applications"
-        url: https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications
+      - title: "Turn the Ship Around"
+        url: https://www.goodreads.com/book/show/16158601-turn-the-ship-around
 
   - title: <b>Pages in this blog</b>
     entries:
@@ -31,7 +31,7 @@ entries:
       - title: <i>my recommendations of blogs/articles/videos</i>
         url: bookmarks.html
       - title: <i>to read about some of the interesting blogs/articles I read/listened</i>
-        url: blog-summaries.html 
+        url: blog-summaries.html
       - title: <i>search for a post</i>
         url: search.html
 
