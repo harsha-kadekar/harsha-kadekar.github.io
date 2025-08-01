@@ -2,7 +2,11 @@
 
 source "https://rubygems.org"
 
+gem "logger"
 gem "kramdown-parser-gfm"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
 
 gemspec
 gem "webrick", "~> 1.8"
