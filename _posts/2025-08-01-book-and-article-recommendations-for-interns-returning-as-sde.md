@@ -16,8 +16,8 @@ These are some of the select reading that might help when you join as an SDE
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) - Overall concept of being a good software engineer
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) - This explains are lot about having a clean maintainable code. Mostly in Java but still some good concepts which can be taken over to other languages.
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) - This gives a simple list of what all an ideal professional programmers need to do
-- [Effective Java](https://www.goodreads.com/book/show/34927404-effective-java) - If your service/product 
-- [Release It!: Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_)
+- [Effective Java](https://www.goodreads.com/book/show/34927404-effective-java) - If your service/product is written in Java and you want to get better at the Java.
+- [Release It!: Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_) - This talks about various aspects of a web development/service development that a developer needs to keep in mind
 - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 - [The way of testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
 - [How to make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
