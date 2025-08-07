@@ -10,8 +10,11 @@ type: Note
 updated: 2025-08-01
 ---
 
-These are some of the select reading that might help when you join as an SDE
+I have served as both a mentor to interns and an intern manager at Amazon on multiple occasions. As we near the end of the internship, one of the common question asked by interns is "*can we get some materials that we can use for better prepare for the full time Software Development Engineer (SDE) role?*". I do agree that practical experience gives far more knowledge and help you to learn much faster than any of the books. But, books/blogs are still a good medium of imparting knowledge and setting the ideals. I have listed some of the select reading that might help when you join as SDE. I would like to iterate, all these helped me but it might not help you, as my experiences as a programmer will be completely different than yours. 
 
+I have also added a small section for AI given that it is a very hot topic now. There is a change in the industry going on with AI becoming more and more standard tool used in the day to day activities of a software engineer. There is lot of fear among developers (especially fresh entrants to the industry) about the future of their career. The provided articles and podcasts offer practical insights into the current state of AI and its potential impact on developers. 
+
+So, here is the list - 
 - [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) - This is great book to understand the overall concepts of Distributed Systems and their complexities.
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) - Overall concept of being a good software engineer
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) - This explains are lot about having a clean maintainable code. Mostly in Java but still some good concepts which can be taken over to other languages.
@@ -22,6 +25,9 @@ These are some of the select reading that might help when you join as an SDE
 - [The way of testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
 - [How to make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 - [Working 101](https://j11g.com/2020/09/30/working-101/)
+- [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/)
+
+
 - AI
 	- [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw)
 	- [Don't fall for AI of the gaps Fallacy](https://deepgains.substack.com/p/dont-fall-for-ai-of-the-gaps-fallacy)
@@ -29,3 +35,5 @@ These are some of the select reading that might help when you join as an SDE
 	- [Is the “AI developer”a threat to jobs – or a marketing stunt?](https://blog.pragmaticengineer.com/ai-developer-marketing-stunt/)
 	- [Who are you without your second brain?](https://parthchoudhury.com/2025/07/21/who-are-you-without-your-second-brain/)
 	- [Practical advice for engineers in these troubled times](https://www.seangoedecke.com/in-these-troubled-times/)
+
+Do let me know if you feel any other books/blogs/papers need to be included in this list that you might have came across. Reach out to me harsha.kadekar@gmail.com / [X(Twitter) Handle](https://twitter.com/kadekarHarsha) / [LinkedIn](https://www.linkedin.com/in/harshakadekar)
