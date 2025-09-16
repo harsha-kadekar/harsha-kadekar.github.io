@@ -36,6 +36,7 @@ So, here is the list -
 	- **(Blog)** [Is the “AI developer”a threat to jobs – or a marketing stunt?](https://blog.pragmaticengineer.com/ai-developer-marketing-stunt/)
 	- **(Blog)** [Who are you without your second brain?](https://parthchoudhury.com/2025/07/21/who-are-you-without-your-second-brain/)
 	- **(Blog)** [Practical advice for engineers in these troubled times](https://www.seangoedecke.com/in-these-troubled-times/)
+	- **(Blog)** [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
 
 Do let me know if you feel any other books/blogs/papers need to be included in this list that you might have came across. Reach out to me harsha.kadekar@gmail.com / [X(Twitter) Handle](https://twitter.com/kadekarHarsha) / [LinkedIn](https://www.linkedin.com/in/harshakadekar) 
 
