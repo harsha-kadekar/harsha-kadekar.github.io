@@ -69,6 +69,7 @@ Here is a list of special mentions –
 * **ಮೇಡ ಇನ್ ಬೆಂಗಳೂರು (Made in Bengaluru)** - 3 young guys wants to build a startup in Bengaluru.
 * **ಆಚಾರ್ & ಕೊ (Aachar & Co)** - A young girls journey from being so full of herself to taking the responsibility of complete family
 * **ತತ್ಸಮ ತದ್ಬವ (Tatsama Tatbava)** - A wife lodges a complaint that her husband is missing and the interrogation with multiple peoples to understand the truth.
+* **ಸು ಫ್ರೊಮ್ ಸೋ (Su from So)** - A peaceful village gets disturbed due to a ghost.
 
 ## Telugu
 * **Pelli Choopulu** – Some movies just feels perfect. After watching it, you feel elevated or it just brings a nice small smile by pulling your cheeks at the opposite direction. And this is one of that movie. Nice story, acting.

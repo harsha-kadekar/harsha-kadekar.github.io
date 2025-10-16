@@ -2,7 +2,7 @@
 date: 2024-09-12
 layout: page
 title: now
-updated: 2025-08-09
+updated: 2025-10-14
 ---
 
 **Update Date: `2025-08-09`**
@@ -28,7 +28,7 @@ updated: 2025-08-09
 
 ## Book Reading Update
 - I am currently reading
-	- [ಯಯಾತಿ - Yayathi](https://www.goodreads.com/book/show/107624640-yayathi) by Vishnu Sakharam Khandekar translated by V M Inamdar
+	- [Ramayana Unravelled: Lesser Known Facets of Rishi Vālmiki’s Epic](https://www.goodreads.com/book/show/61419158-ramayana-unravelled) by Ami Ganatra
 - Books read in this year
 	- [Being Mortal: Medicine and What matters in the End](https://www.goodreads.com/book/show/20696006-being-mortal) by Atul Gawande
 	- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around) by L. David Marquet
