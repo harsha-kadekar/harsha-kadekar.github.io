@@ -2,20 +2,20 @@
 date: 2024-09-12
 layout: page
 title: now
-updated: 2025-10-14
+updated: 2025-10-19
 ---
 
-**Update Date: `2025-08-09`**
+**Update Date: `2025-10-19`**
 
 ## Personal Projects Update
 - I am learning *Rust Programming Language*. As of now, I am just following - [The Rust Book](https://doc.rust-lang.org/stable/book/). The ultimate goal is to develop my website/blog's back-end in Rust language.
 - I am working on improving my personal blog. This includes being regular in pushing more posts, changes to the overall structure of the blog. Ideally, I want to host my blog in my home old machine.
 	- Last year, I purchased a domain to host my blog - [harsha-kadekar.blog](https://www.harsha-kadekar.blog). As of now, it is pointing to my existing github pages blog - [harsha-kadekar.github.io](https://harsha-kadekar.github.io) 
+- I have started reading Valmiki Ramayana from Sanskrit source. I do not know Sanskrit yet but hoping to learn somewhat from this journey. I am using these websites -  [sanskritsahitya - ramayana](https://sanskritsahitya.org/ramayanam) ,  [valmikiramayana.net](https://www.valmikiramayan.net) . 
 
-## Personal Update
-- Its been almost 1.5 years trying to learn the "father" role. 
-- I have started reading Valmiki Ramayana from Sanskrit source. I do not know Sanskrit yet but hoping to learn somewhat from this journey. I am using these websites -  [sanskritsahitya - ramayana](https://sanskritsahitya.org/ramayanam) ,  [valmikiramayana.net](https://www.valmikiramayan.net) . I am using [ChatSutra AI](https://chat.two.ai) tool to teach me with translations.
-- I am also going through the Prof. B Mahadevans Bhavadgeeta lectures - [Lecture Playlist](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDGv2r6nom5IvVKOYye0RAB)
+## Life Update
+- Its been almost 1.5 years trying to learn the "father"/"parent" role.
+- Visited Detroit to spend time with my sister. Also went to Chicago for small trip.
 
 ## Work Update
 - I continue to work for [Amazon - Amazon Web Services (AWS)](https://aws.amazon.com) as a Senior Software Development Engineer.
