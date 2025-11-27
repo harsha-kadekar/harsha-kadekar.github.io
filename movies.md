@@ -70,6 +70,7 @@ Here is a list of special mentions –
 * **ಆಚಾರ್ & ಕೊ (Aachar & Co)** - A young girls journey from being so full of herself to taking the responsibility of complete family
 * **ತತ್ಸಮ ತದ್ಬವ (Tatsama Tatbava)** - A wife lodges a complaint that her husband is missing and the interrogation with multiple peoples to understand the truth.
 * **ಸು ಫ್ರೊಮ್ ಸೋ (Su from So)** - A peaceful village gets disturbed due to a ghost.
+* **ಕಾಂತಾರ (Kantara) Chapter 1** - This is prequel to ಕಾಂತಾರ. How the Daiva worship came about and how ಕಾಂತಾರ came about.
 
 ## Telugu
 * **Pelli Choopulu** – Some movies just feels perfect. After watching it, you feel elevated or it just brings a nice small smile by pulling your cheeks at the opposite direction. And this is one of that movie. Nice story, acting.
