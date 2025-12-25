@@ -2,10 +2,10 @@
 date: 2024-09-12
 layout: page
 title: now
-updated: 2025-11-27
+updated: 2025-12-25
 ---
 
-**Update Date: `2025-11-27`**
+**Update Date: `2025-12-25`**
 
 ## Personal Projects Update
 - I am learning *Rust Programming Language*. As of now, I am just following - [The Rust Book](https://doc.rust-lang.org/stable/book/). The ultimate goal is to develop my website/blog's back-end in Rust language.
@@ -14,8 +14,9 @@ updated: 2025-11-27
 - I am reading Valmiki Ramayana from Sanskrit source. I do not know Sanskrit yet but hoping to learn somewhat from this journey. I am using these websites -  [sanskritsahitya - ramayana](https://sanskritsahitya.org/ramayanam) ,  [valmikiramayana.net](https://www.valmikiramayan.net) . 
 
 ## Life Update
-- Its been almost 1.5 years trying to learn the "father"/"parent" role.
+- Its been almost 2 years trying to learn the "father"/"parent" role.
 - Visited Detroit to spend time with my sister. Also went to Chicago for small trip.
+- Visited Phoenix and Sedona
 
 ## Work Update
 - I continue to work for [Amazon - Amazon Web Services (AWS)](https://aws.amazon.com) as a Senior Software Development Engineer.
@@ -28,8 +29,9 @@ updated: 2025-11-27
 
 ## Book Reading Update
 - I am currently reading
-	- [Kindergarten Is Too Late!](https://www.goodreads.com/book/show/4472896-kindergarten-is-too-late) by Masaru Ibuka
+	- [The Rust Programming Language](https://www.goodreads.com/book/show/25008661-the-rust-programming-language) by Steve Klabnik
 - Books read in this year
+	- [Kindergarten Is Too Late!](https://www.goodreads.com/book/show/4472896-kindergarten-is-too-late) by Masaru Ibuka
 	- [Folk Tales From Japan - Fables, Myths And Fairy Tales For Children](https://www.goodreads.com/book/show/54298351-folk-tales-from-japan) by Florence Sakade
 	- [What Do You Do With an Idea?](https://www.goodreads.com/book/show/18570357-what-do-you-do-with-an-idea) by Kobi Yamada
 	- [What Do You Do With a Problem?](https://www.goodreads.com/book/show/28863341-what-do-you-do-with-a-problem) by Kobi Yamada

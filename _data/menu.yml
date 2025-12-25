@@ -17,8 +17,8 @@ entries:
 
   - title: <b>I am currently reading</b>
     entries:
-      - title: Kindergarten Is Too Late!
-        url: https://www.goodreads.com/book/show/4472896-kindergarten-is-too-late
+      - title: The Rust Programming Language
+        url: https://www.goodreads.com/book/show/25008661-the-rust-programming-language
   - title: <b>Pages in this blog</b>
     entries:
       - title: <i>to know about me</i>
