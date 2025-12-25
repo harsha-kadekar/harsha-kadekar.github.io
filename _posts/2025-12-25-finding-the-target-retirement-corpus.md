@@ -6,8 +6,6 @@ title: Finding the target retirement corpus
 updated: 2025-12-25
 ---
 
-# Finding the Target Retirement Corpus
-
 Few days ago, during a conversation with a friend, we talked about retirement. I mentioned that having a target retirement amount helps us to take many financial decisions easily as it eliminates many of the unnecessary choices. Now the question arose, how do we calculate that amount. I could not recall the correct math involved to arrive at my numbers. I gave a rough formulae to do the math. My friend asked chatgpt to calculate it and it gave a number. We both felt it was too low. 
 
 I learnt about the retirement goals and how to find the target corpus for the first time in **Monika Halan's podcast - Lets Talk Money ([episode](https://open.spotify.com/episode/0r5wlfVFPWKrEG3W7SNskf), [episode](https://open.spotify.com/episode/7b8fhY7pwDaWUtCa3yacC5?si=802b6ed0e5fa4b00&nd=1&dlsi=3ecd1ce78ea44ff4)).** Based on that, I calculated my target retirement corpus. After the call, I went back to my notes on finding my target retirement amount. Here are the steps - 
