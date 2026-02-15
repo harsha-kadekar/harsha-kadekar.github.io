@@ -6,7 +6,9 @@ title: My Personal Laptop Setup
 updated: 2026-02-14
 ---
 
-This post describes how I setup my personal laptop. The use my personal laptop for few things at home
+This post describes how I setup my personal laptop. To just view the list of applications I use, visit [My Personal and Development Configuration]({% post_url 2022-05-13-my-development-configuration %}) page.
+
+The use my personal laptop for few things at home
 - Personal Home Management Tool - Keeping track of tasks, accounting, preparing documents, investigating about various chores, etc.
 - Personal Home Entertainment System - We do not have a separate T.V. at home. Any entertainment we want to view is via this personal compute and a big monitor.
 - Development Machine - Used for our personal tech projects. Both me and my wife has our own login and we code and build stuff. 
