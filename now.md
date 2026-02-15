@@ -2,10 +2,10 @@
 date: 2024-09-12
 layout: page
 title: now
-updated: 2026-01-25
+updated: 2026-02-14
 ---
 
-**Update Date: `2026-01-25`**
+**Update Date: `2026-02-14`**
 
 ## Personal Projects Update
 - I am working on building my personal blog in Rust. As of now, it is hosted as github pages. 
@@ -27,9 +27,10 @@ updated: 2026-01-25
 
 ## Book Reading Update
 - I am currently reading
-	- [The Incredible History of India's Geography](https://www.goodreads.com/book/show/25118502-the-incredible-history-of-india-s-geography) by Sanjeev Sanyal
+	- [Writing for Developers: Blogs that get read](https://www.goodreads.com/book/show/219199634-writing-for-developers) by Piotr Sarna, Cynthia Dunlop
 - Books read in this year
-	- -
+	- [Cool Tokyo Guide: Adventures in the City of Kawaii Fashion, Train Sushi and Godzilla](https://www.goodreads.com/book/show/36334218-cool-tokyo-guide) by Abby Denson
+	- [The Incredible History of India's Geography](https://www.goodreads.com/book/show/25118502-the-incredible-history-of-india-s-geography) by Sanjeev Sanyal
 
 
 

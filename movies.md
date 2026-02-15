@@ -71,6 +71,7 @@ Here is a list of special mentions –
 * **ತತ್ಸಮ ತದ್ಬವ (Tatsama Tatbava)** - A wife lodges a complaint that her husband is missing and the interrogation with multiple peoples to understand the truth.
 * **ಸು ಫ್ರೊಮ್ ಸೋ (Su from So)** - A peaceful village gets disturbed due to a ghost.
 * **ಕಾಂತಾರ (Kantara) Chapter 1** - This is prequel to ಕಾಂತಾರ. How the Daiva worship came about and how ಕಾಂತಾರ came about.
+* **ಕೆ. ಜಿ. ಎಫ್ - ೧ & ಕೆ. ಜಿ. ಎಫ್ - ೨ (K.G.F -1 & K.G.F - 2)** - A new entrant in the underworld to gain the gold mines and the whole country.
 
 ## Telugu
 * **Pelli Choopulu** – Some movies just feels perfect. After watching it, you feel elevated or it just brings a nice small smile by pulling your cheeks at the opposite direction. And this is one of that movie. Nice story, acting.
@@ -151,6 +152,7 @@ Here is a list of special mentions –
 * **Malikappuram** - A girl wants to see Ayyappa and visit Sabarimala
 * **Paithrukam** - A fight between father and son on following tradition vs being atheist.
 * **Anweshippin Kandethum** - A cop with his own interest trying find the culprit of murder mystry.
+* **Sarvam Maya** - A hindu priest who has became atheist encounters a ghost.
 
 ## Marathi
 * **Astu - So Be It** - A fantastic movie about Alzheimer's disease.
@@ -197,6 +199,7 @@ Here is a list of special mentions –
 * **Rocketry: The Nambi Effect** - Story of Nambi Narayanan ISRO scientist
 * **12th Fail**: A boy from village wants to become a high post police officer
 * **Article 370**: The work done to remove Article 370 from the constitution
+* **Dhurander**: An Indian Spy in Pakistan
 
 ## English
 * **East Side Sushi** – Struggle, passion, hardwork, discrimination. This movie touches on so many concepts. A Mexican trying to become a Sushi Chef. Any art or work, first like what you do. Its not just enough to like what you are doing, you need to constantly work on yourself to improve your skill.
