@@ -36,6 +36,7 @@ Here are the tools I use in personal system (as of now).
 - [KeyPass](https://keepass.info): This is my password storage tool. I use this version [KeePassXC](https://keepassxc.org/)
 - [Spotify](https://open.spotify.com): This is my music playlist app.
 - [Fusion RSS Reader](https://github.com/0x2E/fusion): To collect all the feeds for blogs I follow. 
+- [StayFree](https://stayfreeapps.com): To understand my digital usage of apps, website across mobile, desktop and web browser.
 
 The dot file configurations are not my own creation, rather I have taken from multiple places and tried to fit into something what works for me. If you use any good tools or configurations do let me know, so that I can try it.
 {: style="text-align: justify;"}

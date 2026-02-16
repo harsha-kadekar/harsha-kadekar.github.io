@@ -124,6 +124,11 @@ I use [Ubuntu](https://ubuntu.com/desktop) as the operating system. During the i
 		- Install dependencies as mentioned in the [README](https://github.com/harsha-kadekar/ObsidianToGithubPages/blob/main/README.md) file
 		- Add this alias `alias transform-to-blog='/home/harsha/workspace/ObsidianToGithubPages/obsidian_to_githubpages.py --obsidian_local_vault "/home/harsha/workspace/pusthaka" --github_pages_repo_local "/home/harsha/workspace/harsha-kadekar.github.io" --blog_folder "Blog"'` in `~/.zshrc` file
 		- Execute `tranform-to-blog` command to verify it is working
+- Install StayFree
+	- Install [StayFree](https://stayfreeapps.com) in linux
+		- Connect to the App
+	- Install StayFree web browser extension
+		- Connect to the App
 - Install Secondary Softwares (Optional)
 	- Install [alacritty](https://alacritty.org) terminal
 		- Install via App Center
