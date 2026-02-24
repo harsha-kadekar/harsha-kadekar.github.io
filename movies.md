@@ -153,6 +153,7 @@ Here is a list of special mentions –
 * **Paithrukam** - A fight between father and son on following tradition vs being atheist.
 * **Anweshippin Kandethum** - A cop with his own interest trying find the culprit of murder mystry.
 * **Sarvam Maya** - A hindu priest who has became atheist encounters a ghost.
+* **PathiRathri** - A night duty police officers encounter some suspicious parked car
 
 ## Marathi
 * **Astu - So Be It** - A fantastic movie about Alzheimer's disease.
@@ -226,6 +227,8 @@ Here is a list of special mentions –
 
 ## TV-Series
 
+### Kannada
+- **ಅಯ್ಯನ ಮನೆ (Ayyana Mane)**
 ### English
 * **Friends**
 * **Modern Family**
