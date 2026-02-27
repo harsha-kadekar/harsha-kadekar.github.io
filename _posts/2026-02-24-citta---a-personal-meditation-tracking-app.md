@@ -5,7 +5,7 @@ layout: post
 tags:
 - product
 title: Citta - A Personal Meditation Tracking App
-updated: 2026-02-24
+updated: 2026-02-26
 ---
 
 *Citta* (चित्त) is a Sanskrit word meaning "mind" or "consciousness" — the very thing we seek to still in meditation. *Citta* is a meditation (ಧ್ಯಾನ) helper app. It helps you time your meditation session, capture your experience, and track it as a habit. The app itself is local-first, data-portable and minimalist. What are these - you may ask?
@@ -70,13 +70,6 @@ As of now the app is not yet published in the App Store for Android or iPhone. S
 	- Example, for Google Pixel, Go to "Settings > About phone > Build number". Tap "Build Number" 7 times to enable developer mode.
 - Download the latest APK from the [GitHub releases page](https://github.com/harsha-kadekar/citta/releases)
 - Open the downloaded file. This will install the app on your phone.
-
-## Known Critical Bugs
-
-Until this bug is fixed, cannot release it to the Play Store -
-- [Issue #2](https://github.com/harsha-kadekar/citta/issues/2):  On a fresh app start, the end bell does not ring when the first meditation session timer completes. After manually triggering the bell once (e.g. via the test/preview button in settings), subsequent session end bells work correctly.
-
-If you know how to fix this, please reach out to me Or send a pull request. Thank you in advance.
 
 ## Future Work
 - Publish this to Android Play Store
