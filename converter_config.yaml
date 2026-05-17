@@ -1,0 +1,10 @@
+vault:
+  path: /home/harsha/workspace/pusthaka/Blog
+  asset_path: /home/harsha/workspace/pusthaka/Blog/assets
+  excluded_subdirectories:
+  - drafts
+output:
+  post_output_path: /home/harsha/workspace/harsha-kadekar.github.io/_posts
+  asset_output_path: /home/harsha/workspace/harsha-kadekar.github.io/assets
+  relative_asset_path_prefix: '{{ site.blog_assets_location }}'
+  post_link_jekyll: jekyll

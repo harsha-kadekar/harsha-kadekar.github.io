@@ -29,11 +29,11 @@ updated: 2026-02-14
 
 ## Book Reading Update
 - I am currently reading
-	- [ಶಕುನ ಪಕ್ಷಿ, ಆರಿದ, ತಲೆ ಹೂವು - Shakuna Pakshi-Aarida-Thaale Hoo](https://www.goodreads.com/book/show/138979497-shakuna-pakshi-aarida-thaale-hoo) by T K Rama Rao
-	- [Writing for Developers: Blogs that get read](https://www.goodreads.com/book/show/219199634-writing-for-developers) by Piotr Sarna, Cynthia Dunlop
+	- [How To Love In Sanskrit](https://www.goodreads.com/book/show/205425671-how-to-love-in-sanskrit) by Anusha Rao, Suhas Mahesh
 - Books read in this year
 	- [Cool Tokyo Guide: Adventures in the City of Kawaii Fashion, Train Sushi and Godzilla](https://www.goodreads.com/book/show/36334218-cool-tokyo-guide) by Abby Denson
 	- [The Incredible History of India's Geography](https://www.goodreads.com/book/show/25118502-the-incredible-history-of-india-s-geography) by Sanjeev Sanyal
+	- [ಶಕುನ ಪಕ್ಷಿ, ಆರಿದ, ತಾಳೆ ಹೂವು - Shakuna Pakshi-Aarida-Thaale Hoo](https://www.goodreads.com/book/show/138979497-shakuna-pakshi-aarida-thaale-hoo) by T K Rama Rao
 
 
 
