@@ -2,6 +2,9 @@
 category: Technical
 date: 2025-06-14
 layout: post
+tags:
+- setup
+- obsidian
 title: My Obsidian Setup
 updated: 2025-06-27
 ---

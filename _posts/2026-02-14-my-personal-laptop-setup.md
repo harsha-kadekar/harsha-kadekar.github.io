@@ -2,6 +2,8 @@
 category: Technical
 date: 2026-02-14
 layout: post
+tags:
+- setup
 title: My Personal Laptop Setup
 updated: 2026-02-14
 ---

@@ -2,6 +2,8 @@
 category: Technical
 date: 2022-05-13
 layout: post
+tags:
+- setup
 title: My Personal and Development Configuration
 updated: 2026-02-14
 ---
