@@ -16,20 +16,16 @@ entries:
         url: https://www.linkedin.com/in/harshakadekar
   - title: <b>I am currently reading</b>
     entries:
-      - title: Classic Tales From India - Vatsala Sperling, Harish Johari
-        url: https://www.goodreads.com/book/show/49930921-classic-tales-from-india
+      - title: Anything You Want
+        url: https://www.goodreads.com/book/show/11878168-anything-you-want
   - title: <b>Pages in this blog</b>
     entries:
-      - title: <i>to know about me</i>
+      - title: <i>About (to know about me)</i>
         url: about.html
-      - title: <i>to know about things I am doing now</i>
+      - title: <i>Now (to know the latest updates from me)</i>
         url: now.html
-      - title: <i>to know about movies i liked</i>
+      - title: <i>Movies (to know about movies i liked)</i>
         url: movies.html
-      - title: <i>my recommendations of blogs/articles/videos</i>
-        url: bookmarks.html
-      - title: <i>to read about some of the interesting blogs/articles I read/listened</i>
-        url: blog-summaries.html
       - title: <i>search for a post</i>
         url: search.html
 

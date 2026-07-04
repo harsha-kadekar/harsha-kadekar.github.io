@@ -2,10 +2,10 @@
 date: 2024-09-12
 layout: page
 title: now
-updated: 2026-02-14
+updated: 2026-07-04
 ---
 
-**Update Date: `2026-04-11`**
+**Update Date: `2026-07-04`**
 
 ## Personal Projects Update
 - I am working on building an app - [Citta](https://www.harsha-kadekar.blog/citta-a-personal-meditation-tracking-app.html) using LLM  
@@ -15,7 +15,7 @@ updated: 2026-02-14
 ## Life/Personal Update
 - Recently visited Japan and India. 
 	- Japan as a vacation
-	- India is to visit family and freinds.
+	- India to visit family and friends.
 
 ## Work Update
 - I continue to work for [Amazon - Amazon Web Services (AWS)](https://aws.amazon.com) as a Senior Software Development Engineer.
@@ -28,12 +28,13 @@ updated: 2026-02-14
 
 ## Book Reading Update
 - I am currently reading
-	- [Classic Tales from India](https://www.goodreads.com/book/show/49930921-classic-tales-from-india) by Vatsala Sperling, Harish Johari
+	- [Anything You Want](https://www.goodreads.com/book/show/11878168-anything-you-want) by Derek Sivers
 - Books read in this year
 	- [Cool Tokyo Guide: Adventures in the City of Kawaii Fashion, Train Sushi and Godzilla](https://www.goodreads.com/book/show/36334218-cool-tokyo-guide) by Abby Denson
 	- [The Incredible History of India's Geography](https://www.goodreads.com/book/show/25118502-the-incredible-history-of-india-s-geography) by Sanjeev Sanyal
 	- [ಶಕುನ ಪಕ್ಷಿ, ಆರಿದ, ತಾಳೆ ಹೂವು - Shakuna Pakshi-Aarida-Thaale Hoo](https://www.goodreads.com/book/show/138979497-shakuna-pakshi-aarida-thaale-hoo) by T K Rama Rao
 	- [How To Love In Sanskrit](https://www.goodreads.com/book/show/205425671-how-to-love-in-sanskrit) by Anusha Rao, Suhas Mahesh
+	- [Classic Tales from India](https://www.goodreads.com/book/show/49930921-classic-tales-from-india) by Vatsala Sperling, Harish Johari
 
 
 
