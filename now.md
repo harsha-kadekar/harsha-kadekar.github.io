@@ -28,13 +28,14 @@ updated: 2026-07-04
 
 ## Book Reading Update
 - I am currently reading
-	- [Anything You Want](https://www.goodreads.com/book/show/11878168-anything-you-want) by Derek Sivers
+	- [The Chip : How Two Americans Invented the Microchip and Launched a Revolution](https://www.goodreads.com/book/show/543704.The_Chip_) by T.R. Reid
 - Books read in this year
 	- [Cool Tokyo Guide: Adventures in the City of Kawaii Fashion, Train Sushi and Godzilla](https://www.goodreads.com/book/show/36334218-cool-tokyo-guide) by Abby Denson
 	- [The Incredible History of India's Geography](https://www.goodreads.com/book/show/25118502-the-incredible-history-of-india-s-geography) by Sanjeev Sanyal
 	- [ಶಕುನ ಪಕ್ಷಿ, ಆರಿದ, ತಾಳೆ ಹೂವು - Shakuna Pakshi-Aarida-Thaale Hoo](https://www.goodreads.com/book/show/138979497-shakuna-pakshi-aarida-thaale-hoo) by T K Rama Rao
 	- [How To Love In Sanskrit](https://www.goodreads.com/book/show/205425671-how-to-love-in-sanskrit) by Anusha Rao, Suhas Mahesh
 	- [Classic Tales from India](https://www.goodreads.com/book/show/49930921-classic-tales-from-india) by Vatsala Sperling, Harish Johari
+	- [Anything You Want](https://www.goodreads.com/book/show/11878168-anything-you-want) by Derek Sivers
 
 
 
