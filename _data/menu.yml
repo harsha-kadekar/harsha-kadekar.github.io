@@ -24,6 +24,8 @@ entries:
         url: about.html
       - title: <i>Now (to know the latest updates from me)</i>
         url: now.html
+      - title: <i> Projects (list of personal technical projects)</i>
+        url: projects.html
       - title: <i>Movies (to know about movies i liked)</i>
         url: movies.html
       - title: <i>search for a post</i>
