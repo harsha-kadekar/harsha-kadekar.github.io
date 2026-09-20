@@ -1,10 +1,10 @@
 ---
-date: 2026-08-01
+date: 2026-09-19
 layout: page
 title: personal-projects
 ---
 
-**Update Date:** `2026-08-01`
+**Update Date:** `2026-09-19`
 
 In this page, I list all the personal technical projects that have reached Minimum Viable Product stage. That is - it is solves the problem and it is usable/adoptable by others.
 
@@ -29,6 +29,7 @@ This script helps to adapt your Obsidian notes to Github static pages. If you ar
 - [Github Link](https://github.com/harsha-kadekar/citta)
 - [Blog Post](https://www.harsha-kadekar.blog/citta-a-personal-meditation-tracking-app.html)
 - *Language/Framework*: **Dart (language), Flutter (framework)**
+- [Download App](https://github.com/harsha-kadekar/citta/releases)
 
 Note: In this project, I am only using LLM to build the app. I do not know the flutter framework or dart language rather it is my idea and LLM agents are building this.
 
